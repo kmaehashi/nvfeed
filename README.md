@@ -4,5 +4,5 @@
 
 Get the latest updates on NVIDIA CUDA repository.
 
-* Ubuntu 18.04: https://kmaehashi.github.io/nvfeed/cuda-ubuntu1804-x86_64.atom
-* RHEL 8: https://kmaehashi.github.io/nvfeed/cuda-rhel8-x86_64.atom
+* [Ubuntu 18.04](https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/): https://kmaehashi.github.io/nvfeed/cuda-ubuntu1804-x86_64.atom
+* [RHEL 8](https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/): https://kmaehashi.github.io/nvfeed/cuda-rhel8-x86_64.atom
