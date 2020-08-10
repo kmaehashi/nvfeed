@@ -1,6 +1,6 @@
 # nvfeed
 
-![Generate and Deploy](https://github.com/kmaehashi/nvfeed/workflows/Generate%20and%20Deploy/badge.svg)
+[![Generate and Deploy](https://github.com/kmaehashi/nvfeed/workflows/Generate%20and%20Deploy/badge.svg)](https://github.com/kmaehashi/nvfeed/actions?query=workflow%3A%22Generate+and+Deploy%22)
 
 Get the latest updates on NVIDIA CUDA repository.
 
