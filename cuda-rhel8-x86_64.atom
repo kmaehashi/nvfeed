@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2020-08-04T21:23:00+00:00</updated>
+  <updated>2020-08-10T19:29:00+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-xconfig-450.51.06-1.el8.x86_64.rpm</id>
@@ -1733,6 +1733,14 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-devel-10-2-10.2.2.214-1.x86_64.rpm</id>
+    <title>File: libcublas-devel-10-2-10.2.2.214-1.x86_64.rpm</title>
+    <updated>2020-08-10T19:29:00+00:00</updated>
+    <content>Size: 60MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-devel-10-2-10.2.2.214-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-11-0-11.2.0.252-1.x86_64.rpm</id>
     <title>File: libcublas-11-0-11.2.0.252-1.x86_64.rpm</title>
     <updated>2020-08-04T21:22:00+00:00</updated>
@@ -1754,6 +1762,14 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <updated>2020-06-03T01:51:00+00:00</updated>
     <content>Size: 142MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-11-0-11.0.0.191-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-10-2-10.2.2.214-1.x86_64.rpm</id>
+    <title>File: libcublas-10-2-10.2.2.214-1.x86_64.rpm</title>
+    <updated>2020-08-10T19:29:00+00:00</updated>
+    <content>Size: 59MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-10-2-10.2.2.214-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
