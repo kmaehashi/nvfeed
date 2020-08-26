@@ -61,8 +61,9 @@ def generate_atom_feed(records, url, name):
         fe.id(fileurl)
         fe.link(href=url)
         fe.content('''\
+Date: {}
 Size: {}
-URL: {}'''.format(filesize, fileurl))
+URL: {}'''.format(filedate.strftime('%Y-%m-%d %H:%M'), filesize, fileurl))
         fe.updated(filedate)
         if updated is None or updated < filedate:
             updated = filedate
