@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2020-08-10T19:29:00+00:00</updated>
+  <updated>2020-09-20T20:18:00+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: xserver-xorg-video-nvidia-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 1.5MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: xserver-xorg-video-nvidia-450_450.51.06-0ubuntu1_amd64.deb</title>
@@ -56,6 +65,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 1.5MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: xserver-xorg-video-nvidia-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -176,6 +194,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-utils-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-utils-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 360KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-utils-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-utils-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-utils-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -227,6 +254,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 340KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-utils-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-utils-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-utils-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-utils-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -344,6 +380,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 328KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-utils-410_410.48-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-settings_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-settings_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 900KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-settings_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -635,6 +680,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-modprobe_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-modprobe_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 20KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-modprobe_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-modprobe_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-modprobe_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -923,6 +977,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-source-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-kernel-source-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 19MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-source-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-source-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-kernel-source-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -974,6 +1037,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 13MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-source-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-source-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-kernel-source-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-source-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1094,6 +1166,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-common-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-kernel-common-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 20KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-common-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-common-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-kernel-common-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -1145,6 +1226,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 12KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-common-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-common-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-kernel-common-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-kernel-common-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1265,6 +1355,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-no-dkms-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-headless-no-dkms-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-no-dkms-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-no-dkms-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-headless-no-dkms-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -1316,6 +1415,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 8.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-no-dkms-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-no-dkms-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-headless-no-dkms-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-no-dkms-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1436,6 +1544,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-headless-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-headless-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -1487,6 +1604,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 8.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-headless-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-headless-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1625,6 +1751,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-driver-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-driver-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 416KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-driver-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-driver-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-driver-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -1676,6 +1811,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 400KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-driver-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-driver-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-driver-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-driver-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1796,6 +1940,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-dkms-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-dkms-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 32KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-dkms-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-dkms-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-dkms-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -1847,6 +2000,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 28KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-dkms-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-dkms-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-dkms-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-dkms-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1967,6 +2129,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-compute-utils-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-compute-utils-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 104KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-compute-utils-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-compute-utils-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: nvidia-compute-utils-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -2018,6 +2189,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 76KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-compute-utils-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-compute-utils-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: nvidia-compute-utils-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-compute-utils-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2372,6 +2552,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nsight-systems-2020.3.4_2020.3.4.32-1_amd64.deb</id>
+    <title>File: nsight-systems-2020.3.4_2020.3.4.32-1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 218MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nsight-systems-2020.3.4_2020.3.4.32-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nsight-systems-2020.3.2_2020.3.2.6-1_amd64.deb</id>
     <title>File: nsight-systems-2020.3.2_2020.3.2.6-1_amd64.deb</title>
     <updated>2020-07-02T23:20:00+00:00</updated>
@@ -2405,6 +2594,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:51
 Size: 16KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nsight-compute-addon-2020.1.0_2020.1.0.33-1_all.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nsight-compute-2020.2.0_2020.2.0.18-1_amd64.deb</id>
+    <title>File: nsight-compute-2020.2.0_2020.2.0.18-1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 262MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nsight-compute-2020.2.0_2020.2.0.18-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2450,6 +2648,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-08-13 21:32
 Size: 243MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nsight-compute-2019.4.0_2019.4.0.12-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libxnvctrl-dev_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libxnvctrl-dev_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 92KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libxnvctrl-dev_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2624,6 +2831,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libxnvctrl0_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libxnvctrl0_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 24KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libxnvctrl0_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libxnvctrl0_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: libxnvctrl0_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -2795,6 +3011,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg-dev-11-1_11.2.0.74-1_amd64.deb</id>
+    <title>File: libnvjpeg-dev-11-1_11.2.0.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 1.6MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg-dev-11-1_11.2.0.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg-dev-11-0_11.1.1.245-1_amd64.deb</id>
     <title>File: libnvjpeg-dev-11-0_11.1.1.245-1_amd64.deb</title>
     <updated>2020-08-04T21:14:00+00:00</updated>
@@ -2822,6 +3047,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg-11-1_11.2.0.74-1_amd64.deb</id>
+    <title>File: libnvjpeg-11-1_11.2.0.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 1.6MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg-11-1_11.2.0.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg-11-0_11.1.1.245-1_amd64.deb</id>
     <title>File: libnvjpeg-11-0_11.1.1.245-1_amd64.deb</title>
     <updated>2020-08-04T21:14:00+00:00</updated>
@@ -2846,6 +3080,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:51
 Size: 1.4MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg-11-0_11.0.0.191-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-ifr1-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-ifr1-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 68KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-ifr1-455_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2900,6 +3143,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 68KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-ifr1-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-ifr1-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-ifr1-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-ifr1-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3020,6 +3272,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-gl-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-gl-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 73MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-gl-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-gl-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: libnvidia-gl-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -3071,6 +3332,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 60MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-gl-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-gl-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-gl-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-gl-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3191,6 +3461,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-fbc1-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-fbc1-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 48KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-fbc1-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-fbc1-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: libnvidia-fbc1-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -3242,6 +3521,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 48KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-fbc1-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-fbc1-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-fbc1-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-fbc1-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3362,6 +3650,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-extra-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-extra-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 40KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-extra-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-extra-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: libnvidia-extra-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -3377,6 +3674,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-29 16:54
 Size: 40KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-extra-450_450.51.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-encode-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-encode-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 40KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-encode-455_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3431,6 +3737,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 40KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-encode-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-encode-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-encode-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-encode-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3605,6 +3920,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-decode-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-decode-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 1.2MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-decode-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-decode-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: libnvidia-decode-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -3656,6 +3980,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 1004KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-decode-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-decode-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-decode-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-decode-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3776,6 +4109,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-compute-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-compute-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 22MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-compute-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-compute-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: libnvidia-compute-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -3827,6 +4169,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 20MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-compute-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-compute-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-compute-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-compute-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3947,6 +4298,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-common-455_455.23.05-0ubuntu1_all.deb</id>
+    <title>File: libnvidia-common-455_455.23.05-0ubuntu1_all.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 12KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-common-455_455.23.05-0ubuntu1_all.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-common-450_450.51.06-0ubuntu1_all.deb</id>
     <title>File: libnvidia-common-450_450.51.06-0ubuntu1_all.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -3998,6 +4358,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 12KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-common-440_440.33.01-0ubuntu1_all.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-common-430_455.23.05-0ubuntu1_all.deb</id>
+    <title>File: libnvidia-common-430_455.23.05-0ubuntu1_all.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-common-430_455.23.05-0ubuntu1_all.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4118,6 +4487,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-cfg1-455_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-cfg1-455_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 76KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-cfg1-455_455.23.05-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-cfg1-450_450.51.06-0ubuntu1_amd64.deb</id>
     <title>File: libnvidia-cfg1-450_450.51.06-0ubuntu1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -4169,6 +4547,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 72KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-cfg1-440_440.33.01-0ubuntu1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-cfg1-430_455.23.05-0ubuntu1_amd64.deb</id>
+    <title>File: libnvidia-cfg1-430_455.23.05-0ubuntu1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-cfg1-430_455.23.05-0ubuntu1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4289,6 +4676,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnpp-dev-11-1_11.1.1.269-1_amd64.deb</id>
+    <title>File: libnpp-dev-11-1_11.1.1.269-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 81MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnpp-dev-11-1_11.1.1.269-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnpp-dev-11-0_11.1.0.245-1_amd64.deb</id>
     <title>File: libnpp-dev-11-0_11.1.0.245-1_amd64.deb</title>
     <updated>2020-08-04T21:14:00+00:00</updated>
@@ -4313,6 +4709,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:51
 Size: 55MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnpp-dev-11-0_11.0.0.191-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnpp-11-1_11.1.1.269-1_amd64.deb</id>
+    <title>File: libnpp-11-1_11.1.1.269-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 81MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnpp-11-1_11.1.1.269-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4451,6 +4856,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparse-dev-11-1_11.2.0.275-1_amd64.deb</id>
+    <title>File: libcusparse-dev-11-1_11.2.0.275-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 98MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparse-dev-11-1_11.2.0.275-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparse-dev-11-0_11.1.1.245-1_amd64.deb</id>
     <title>File: libcusparse-dev-11-0_11.1.1.245-1_amd64.deb</title>
     <updated>2020-08-04T21:14:00+00:00</updated>
@@ -4475,6 +4889,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:51
 Size: 60MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparse-dev-11-0_11.0.0.191-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparse-11-1_11.2.0.275-1_amd64.deb</id>
+    <title>File: libcusparse-11-1_11.2.0.275-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 98MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparse-11-1_11.2.0.275-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4505,6 +4928,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusolver-dev-11-1_11.0.0.74-1_amd64.deb</id>
+    <title>File: libcusolver-dev-11-1_11.0.0.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 21MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusolver-dev-11-1_11.0.0.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusolver-dev-11-0_10.6.0.245-1_amd64.deb</id>
     <title>File: libcusolver-dev-11-0_10.6.0.245-1_amd64.deb</title>
     <updated>2020-08-04T21:14:00+00:00</updated>
@@ -4529,6 +4961,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:51
 Size: 18MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusolver-dev-11-0_10.4.0.191-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusolver-11-1_11.0.0.74-1_amd64.deb</id>
+    <title>File: libcusolver-11-1_11.0.0.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 370MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusolver-11-1_11.0.0.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4559,6 +5000,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcurand-dev-11-1_10.2.2.74-1_amd64.deb</id>
+    <title>File: libcurand-dev-11-1_10.2.2.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 38MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcurand-dev-11-1_10.2.2.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcurand-dev-11-0_10.2.1.245-1_amd64.deb</id>
     <title>File: libcurand-dev-11-0_10.2.1.245-1_amd64.deb</title>
     <updated>2020-08-04T21:14:00+00:00</updated>
@@ -4583,6 +5033,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:50
 Size: 38MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcurand-dev-11-0_10.2.0.191-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcurand-11-1_10.2.2.74-1_amd64.deb</id>
+    <title>File: libcurand-11-1_10.2.2.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 38MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcurand-11-1_10.2.2.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4613,6 +5072,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcufft-dev-11-1_10.3.0.74-1_amd64.deb</id>
+    <title>File: libcufft-dev-11-1_10.3.0.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 209MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcufft-dev-11-1_10.3.0.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcufft-dev-11-0_10.2.1.245-1_amd64.deb</id>
     <title>File: libcufft-dev-11-0_10.2.1.245-1_amd64.deb</title>
     <updated>2020-08-04T21:14:00+00:00</updated>
@@ -4637,6 +5105,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:50
 Size: 162MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcufft-dev-11-0_10.1.3.191-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcufft-11-1_10.3.0.74-1_amd64.deb</id>
+    <title>File: libcufft-11-1_10.3.0.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 123MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcufft-11-1_10.3.0.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4838,6 +5315,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcublas-dev-11-1_11.2.1.74-1_amd64.deb</id>
+    <title>File: libcublas-dev-11-1_11.2.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 149MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcublas-dev-11-1_11.2.1.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcublas-dev-11-0_11.2.0.252-1_amd64.deb</id>
     <title>File: libcublas-dev-11-0_11.2.0.252-1_amd64.deb</title>
     <updated>2020-08-04T21:14:00+00:00</updated>
@@ -4862,6 +5348,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:50
 Size: 97MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcublas-dev-11-0_11.0.0.191-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcublas-11-1_11.2.1.74-1_amd64.deb</id>
+    <title>File: libcublas-11-1_11.2.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 147MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcublas-11-1_11.2.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4946,6 +5441,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda_11.1.0-1_amd64.deb</id>
+    <title>File: cuda_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda_11.1.0-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda_11.0.3-1_amd64.deb</id>
     <title>File: cuda_11.0.3-1_amd64.deb</title>
     <updated>2020-08-04T21:15:00+00:00</updated>
@@ -5015,6 +5519,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-visual-tools-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-visual-tools-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-visual-tools-11-1_11.1.0-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5090,6 +5603,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-tools-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-tools-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-tools-11-1_11.1.0-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-tools-11-0_11.0.3-1_amd64.deb</id>
     <title>File: cuda-tools-11-0_11.0.3-1_amd64.deb</title>
     <updated>2020-08-04T21:15:00+00:00</updated>
@@ -5159,6 +5681,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-tools-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-toolkit-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-toolkit-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-toolkit-11-1_11.1.0-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5270,6 +5801,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-sanitizer-11-1_11.1.49-1_amd64.deb</id>
+    <title>File: cuda-sanitizer-11-1_11.1.49-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 7.3MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-sanitizer-11-1_11.1.49-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-sanitizer-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-sanitizer-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -5294,6 +5834,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:50
 Size: 6.7MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-sanitizer-11-0_11.0.167-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-samples-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-samples-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 66MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-samples-11-1_11.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5366,6 +5915,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 59MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-samples-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-runtime-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-runtime-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-runtime-11-1_11.1.0-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5486,6 +6044,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvvp-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-nvvp-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 110MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvvp-11-1_11.1.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvvp-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-nvvp-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -5558,6 +6125,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvtx-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-nvtx-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 52KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvtx-11-1_11.1.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvtx-11-0_11.0.167-1_amd64.deb</id>
     <title>File: cuda-nvtx-11-0_11.0.167-1_amd64.deb</title>
     <updated>2020-06-03T01:50:00+00:00</updated>
@@ -5609,6 +6185,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 40KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvtx-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvrtc-dev-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-nvrtc-dev-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 24KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvrtc-dev-11-1_11.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5684,6 +6269,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvrtc-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-nvrtc-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 11MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvrtc-11-1_11.1.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvrtc-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-nvrtc-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -5756,6 +6350,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvprune-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-nvprune-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 56KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvprune-11-1_11.1.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvprune-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-nvprune-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -5816,6 +6419,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 36KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvprune-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvprof-11-1_11.1.69-1_amd64.deb</id>
+    <title>File: cuda-nvprof-11-1_11.1.69-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 1.9MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvprof-11-1_11.1.69-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5888,6 +6500,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 5.4MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvprof-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvml-dev-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-nvml-dev-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 72KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvml-dev-11-1_11.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -6143,6 +6764,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvdisasm-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-nvdisasm-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 32MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvdisasm-11-1_11.1.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvdisasm-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-nvdisasm-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -6212,6 +6842,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 22MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvdisasm-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvcc-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-nvcc-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 26MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nvcc-11-1_11.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -6287,6 +6926,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-systems-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-nsight-systems-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-systems-11-1_11.1.0-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-systems-11-0_11.0.3-1_amd64.deb</id>
     <title>File: cuda-nsight-systems-11-0_11.0.3-1_amd64.deb</title>
     <updated>2020-08-04T21:15:00+00:00</updated>
@@ -6359,6 +7007,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-compute-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-nsight-compute-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-compute-11-1_11.1.0-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-compute-11-0_11.0.3-1_amd64.deb</id>
     <title>File: cuda-nsight-compute-11-0_11.0.3-1_amd64.deb</title>
     <updated>2020-08-04T21:15:00+00:00</updated>
@@ -6428,6 +7085,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 180MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-compute-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-11-1_11.1.69-1_amd64.deb</id>
+    <title>File: cuda-nsight-11-1_11.1.69-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 114MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-nsight-11-1_11.1.69-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -6638,6 +7304,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-minimal-build-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-minimal-build-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-minimal-build-11-1_11.1.0-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-minimal-build-11-0_11.0.3-1_amd64.deb</id>
     <title>File: cuda-minimal-build-11-0_11.0.3-1_amd64.deb</title>
     <updated>2020-08-04T21:15:00+00:00</updated>
@@ -6707,6 +7382,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-minimal-build-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-memcheck-11-1_11.1.69-1_amd64.deb</id>
+    <title>File: cuda-memcheck-11-1_11.1.69-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 144KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-memcheck-11-1_11.1.69-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -6827,6 +7511,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-libraries-dev-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-libraries-dev-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-libraries-dev-11-1_11.1.0-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-libraries-dev-11-0_11.0.3-1_amd64.deb</id>
     <title>File: cuda-libraries-dev-11-0_11.0.3-1_amd64.deb</title>
     <updated>2020-08-04T21:15:00+00:00</updated>
@@ -6896,6 +7589,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-libraries-dev-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-libraries-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-libraries-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-libraries-11-1_11.1.0-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -7007,6 +7709,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-gdb-src-11-1_11.1.69-1_amd64.deb</id>
+    <title>File: cuda-gdb-src-11-1_11.1.69-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 34MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-gdb-src-11-1_11.1.69-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-gdb-src-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-gdb-src-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -7076,6 +7787,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 34MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-gdb-src-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-gdb-11-1_11.1.69-1_amd64.deb</id>
+    <title>File: cuda-gdb-11-1_11.1.69-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 3.5MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-gdb-11-1_11.1.69-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -7151,6 +7871,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-driver-dev-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-driver-dev-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 28KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-driver-dev-11-1_11.1.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-driver-dev-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-driver-dev-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -7220,6 +7949,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 12KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-driver-dev-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-drivers_455.23.05-1_amd64.deb</id>
+    <title>File: cuda-drivers_455.23.05-1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-drivers_455.23.05-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -7466,6 +8204,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-drivers-455_455.23.05-1_amd64.deb</id>
+    <title>File: cuda-drivers-455_455.23.05-1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-drivers-455_455.23.05-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-drivers-450_450.51.06-1_amd64.deb</id>
     <title>File: cuda-drivers-450_450.51.06-1_amd64.deb</title>
     <updated>2020-07-20T20:42:00+00:00</updated>
@@ -7508,6 +8255,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-24 01:53
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-drivers-418_418.152.00-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-documentation-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-documentation-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 48KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-documentation-11-1_11.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -7580,6 +8336,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 50MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-documentation-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-demo-suite-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-demo-suite-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 3.8MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-demo-suite-11-1_11.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -7907,6 +8672,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cupti-dev-11-1_11.1.69-1_amd64.deb</id>
+    <title>File: cuda-cupti-dev-11-1_11.1.69-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 2.2MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cupti-dev-11-1_11.1.69-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cupti-dev-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-cupti-dev-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -7940,6 +8714,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-11-15 00:58
 Size: 2.1MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cupti-dev-10-2_10.2.89-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cupti-11-1_11.1.69-1_amd64.deb</id>
+    <title>File: cuda-cupti-11-1_11.1.69-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 11MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cupti-11-1_11.1.69-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -8012,6 +8795,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 1.5MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cupti-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cuobjdump-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-cuobjdump-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 108KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cuobjdump-11-1_11.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -8177,6 +8969,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cudart-dev-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-cudart-dev-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 1.7MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cudart-dev-11-1_11.1.74-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cudart-dev-11-0_11.0.221-1_amd64.deb</id>
     <title>File: cuda-cudart-dev-11-0_11.0.221-1_amd64.deb</title>
     <updated>2020-08-04T21:13:00+00:00</updated>
@@ -8246,6 +9047,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 448KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cudart-dev-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cudart-11-1_11.1.74-1_amd64.deb</id>
+    <title>File: cuda-cudart-11-1_11.1.74-1_amd64.deb</title>
+    <updated>2020-09-20T20:16:00+00:00</updated>
+    <content>Date: 2020-09-20 20:16
+Size: 132KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-cudart-11-1_11.1.74-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -8402,6 +9212,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-compiler-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-compiler-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-compiler-11-1_11.1.0-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-compiler-11-0_11.0.3-1_amd64.deb</id>
     <title>File: cuda-compiler-11-0_11.0.3-1_amd64.deb</title>
     <updated>2020-08-04T21:15:00+00:00</updated>
@@ -8471,6 +9290,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-compiler-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-compat-11-1_455.23.05-1_amd64.deb</id>
+    <title>File: cuda-compat-11-1_455.23.05-1_amd64.deb</title>
+    <updated>2020-09-20T20:17:00+00:00</updated>
+    <content>Date: 2020-09-20 20:17
+Size: 6.7MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-compat-11-1_455.23.05-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -8645,6 +9473,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-command-line-tools-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-command-line-tools-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-command-line-tools-11-1_11.1.0-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-command-line-tools-11-0_11.0.3-1_amd64.deb</id>
     <title>File: cuda-command-line-tools-11-0_11.0.3-1_amd64.deb</title>
     <updated>2020-08-04T21:15:00+00:00</updated>
@@ -8714,6 +9551,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2018-09-18 23:36
 Size: 28KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-command-line-tools-10-0_10.0.130-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-11-1_11.1.0-1_amd64.deb</id>
+    <title>File: cuda-11-1_11.1.0-1_amd64.deb</title>
+    <updated>2020-09-20T20:18:00+00:00</updated>
+    <content>Date: 2020-09-20 20:18
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-11-1_11.1.0-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
