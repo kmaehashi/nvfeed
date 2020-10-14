@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2020-09-23T23:06:00+00:00</updated>
+  <updated>2020-10-13T16:05:00+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-455_455.23.05-0ubuntu1_amd64.deb</id>
@@ -3488,6 +3488,24 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg2k-dev_0.0.1.17-1_amd64.deb</id>
+    <title>File: libnvjpeg2k-dev_0.0.1.17-1_amd64.deb</title>
+    <updated>2020-09-23T23:31:00+00:00</updated>
+    <content>Date: 2020-09-23 23:31
+Size: 132KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg2k-dev_0.0.1.17-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg2k0_0.0.1.17-1_amd64.deb</id>
+    <title>File: libnvjpeg2k0_0.0.1.17-1_amd64.deb</title>
+    <updated>2020-09-23T23:31:00+00:00</updated>
+    <content>Date: 2020-09-23 23:31
+Size: 232KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvjpeg2k0_0.0.1.17-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnvidia-nscq-450_450.80.02-1_amd64.deb</id>
     <title>File: libnvidia-nscq-450_450.80.02-1_amd64.deb</title>
     <updated>2020-09-23T16:11:00+00:00</updated>
@@ -5594,12 +5612,30 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.0.1.73-1_amd64.deb</id>
+    <title>File: libcusparselt-dev_0.0.1.73-1_amd64.deb</title>
+    <updated>2020-10-13T16:05:00+00:00</updated>
+    <content>Date: 2020-10-13 16:05
+Size: 740KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.0.1.73-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.0.1.47-1_amd64.deb</id>
     <title>File: libcusparselt-dev_0.0.1.47-1_amd64.deb</title>
     <updated>2020-09-23T23:06:00+00:00</updated>
     <content>Date: 2020-09-23 23:06
 Size: 748KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.0.1.47-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt0_0.0.1.73-1_amd64.deb</id>
+    <title>File: libcusparselt0_0.0.1.73-1_amd64.deb</title>
+    <updated>2020-10-13T16:05:00+00:00</updated>
+    <content>Date: 2020-10-13 16:05
+Size: 812KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt0_0.0.1.73-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
