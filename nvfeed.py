@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
@@ -67,6 +67,14 @@ URL: {}'''.format(filedate.strftime('%Y-%m-%d %H:%M'), filesize, fileurl))
         fe.updated(filedate)
         if updated is None or updated < filedate:
             updated = filedate
+
+    # Dirty hack: Sometimes files with timestamp earlier than already-
+    # published files appear later in the index. In that case, the feed
+    # timestamp, which is the latest date of all files published, will not be
+    # updated, although the feed content has changed. Some feed clients (e.g.,
+    # Slack RSS app) get confused by this and ignores newly added files.
+    # To workaround this, advance the feed timestamp by the number of files.
+    updated += timedelta(seconds=len(records))
     fg.updated(updated)
     return fg.atom_str(pretty=True)
 
