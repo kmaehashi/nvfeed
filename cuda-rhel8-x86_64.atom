@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2020-11-18T04:16:53+00:00</updated>
+  <updated>2020-11-23T16:17:55+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-xconfig-455.45.01-1.el8.x86_64.rpm</id>
@@ -2399,12 +2399,30 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnv
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k-devel-0.1.0.21-1.x86_64.rpm</id>
+    <title>File: libnvjpeg2k-devel-0.1.0.21-1.x86_64.rpm</title>
+    <updated>2020-11-23T16:06:00+00:00</updated>
+    <content>Date: 2020-11-23 16:06
+Size: 368KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k-devel-0.1.0.21-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k-devel-0.0.1.17-1.x86_64.rpm</id>
     <title>File: libnvjpeg2k-devel-0.0.1.17-1.x86_64.rpm</title>
     <updated>2020-09-23T23:31:00+00:00</updated>
     <content>Date: 2020-09-23 23:31
 Size: 316KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k-devel-0.0.1.17-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k0-0.1.0.21-1.x86_64.rpm</id>
+    <title>File: libnvjpeg2k0-0.1.0.21-1.x86_64.rpm</title>
+    <updated>2020-11-23T16:06:00+00:00</updated>
+    <content>Date: 2020-11-23 16:06
+Size: 488KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k0-0.1.0.21-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
