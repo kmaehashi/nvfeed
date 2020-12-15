@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2020-12-02T16:20:58+00:00</updated>
+  <updated>2020-12-15T17:24:12+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-xconfig-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-xconfig-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 264KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-xconfig-460.27.04-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-xconfig-455.45.01-1.el8.x86_64.rpm</id>
     <title>File: nvidia-xconfig-455.45.01-1.el8.x86_64.rpm</title>
@@ -155,6 +164,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <content>Date: 2019-08-13 21:28
 Size: 320KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-xconfig-418.87.00-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-settings-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-settings-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 1.8MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-settings-460.27.04-1.el8.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -311,6 +329,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-persistenced-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-persistenced-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 100KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-persistenced-460.27.04-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-persistenced-455.45.01-1.el8.x86_64.rpm</id>
     <title>File: nvidia-persistenced-455.45.01-1.el8.x86_64.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -461,6 +488,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <content>Date: 2019-08-13 21:28
 Size: 120KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-persistenced-418.87.00-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-modprobe-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-modprobe-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 76KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-modprobe-460.27.04-1.el8.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -617,6 +653,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-libXNVCtrl-devel-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-libXNVCtrl-devel-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 56KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-libXNVCtrl-devel-460.27.04-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-libXNVCtrl-devel-455.45.01-1.el8.x86_64.rpm</id>
     <title>File: nvidia-libXNVCtrl-devel-455.45.01-1.el8.x86_64.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -767,6 +812,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <content>Date: 2019-08-13 21:28
 Size: 60KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-libXNVCtrl-devel-418.87.00-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-libXNVCtrl-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-libXNVCtrl-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 52KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-libXNVCtrl-460.27.04-1.el8.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -923,6 +977,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-kmod-common-460.27.04-1.el8.noarch.rpm</id>
+    <title>File: nvidia-kmod-common-460.27.04-1.el8.noarch.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 12KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-kmod-common-460.27.04-1.el8.noarch.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-kmod-common-455.45.01-1.el8.noarch.rpm</id>
     <title>File: nvidia-kmod-common-455.45.01-1.el8.noarch.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -1076,6 +1139,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-fabricmanager-devel-460-460.27.04-1.x86_64.rpm</id>
+    <title>File: nvidia-fabricmanager-devel-460-460.27.04-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 372KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-fabricmanager-devel-460-460.27.04-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-fabricmanager-devel-455-455.45.01-1.x86_64.rpm</id>
     <title>File: nvidia-fabricmanager-devel-455-455.45.01-1.x86_64.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -1112,6 +1184,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-fabricmanager-460-460.27.04-1.x86_64.rpm</id>
+    <title>File: nvidia-fabricmanager-460-460.27.04-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 1.1MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-fabricmanager-460-460.27.04-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-fabricmanager-455-455.45.01-1.x86_64.rpm</id>
     <title>File: nvidia-fabricmanager-455-455.45.01-1.x86_64.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -1145,6 +1226,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <content>Date: 2020-07-20 20:43
 Size: 1.1MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-fabricmanager-450-450.51.06-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-libs-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-driver-libs-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 83MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-libs-460.27.04-1.el8.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1301,6 +1391,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-devel-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-driver-devel-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 16KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-devel-460.27.04-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-devel-455.45.01-1.el8.x86_64.rpm</id>
     <title>File: nvidia-driver-devel-455.45.01-1.el8.x86_64.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -1451,6 +1550,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <content>Date: 2019-08-13 21:28
 Size: 16KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-devel-418.87.00-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-cuda-libs-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-driver-cuda-libs-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 26MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-cuda-libs-460.27.04-1.el8.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1607,6 +1715,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-cuda-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-driver-cuda-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 320KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-cuda-460.27.04-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-cuda-455.45.01-1.el8.x86_64.rpm</id>
     <title>File: nvidia-driver-cuda-455.45.01-1.el8.x86_64.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -1757,6 +1874,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <content>Date: 2019-08-13 21:28
 Size: 392KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-cuda-418.87.00-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-NvFBCOpenGL-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-driver-NvFBCOpenGL-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 116KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-NvFBCOpenGL-460.27.04-1.el8.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -1913,6 +2039,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-NVML-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-driver-NVML-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:11:00+00:00</updated>
+    <content>Date: 2020-12-15 17:11
+Size: 492KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-NVML-460.27.04-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-NVML-455.45.01-1.el8.x86_64.rpm</id>
     <title>File: nvidia-driver-NVML-455.45.01-1.el8.x86_64.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -2063,6 +2198,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <content>Date: 2019-08-13 21:28
 Size: 564KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-NVML-418.87.00-1.el8.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: nvidia-driver-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 2.4MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-driver-460.27.04-1.el8.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2219,6 +2363,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidi
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nsight-systems-2020.4.3-2020.4.3.7_10543b6-0.x86_64.rpm</id>
+    <title>File: nsight-systems-2020.4.3-2020.4.3.7_10543b6-0.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 213MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nsight-systems-2020.4.3-2020.4.3.7_10543b6-0.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nsight-systems-2020.3.4-2020.3.4.32_52657a0-0.x86_64.rpm</id>
     <title>File: nsight-systems-2020.3.4-2020.3.4.32_52657a0-0.x86_64.rpm</title>
     <updated>2020-09-20T20:07:00+00:00</updated>
@@ -2243,6 +2396,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nsigh
     <content>Date: 2020-06-03 01:53
 Size: 267MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nsight-systems-2020.2.5-2020.2.5.8_0ba6147-0.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nsight-compute-2020.3.0-2020.3.0.18-1.x86_64.rpm</id>
+    <title>File: nsight-compute-2020.3.0-2020.3.0.18-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 320MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nsight-compute-2020.3.0-2020.3.0.18-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2309,6 +2471,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nsigh
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg-devel-11-2-11.3.1.68-1.x86_64.rpm</id>
+    <title>File: libnvjpeg-devel-11-2-11.3.1.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 2.3MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg-devel-11-2-11.3.1.68-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg-devel-11-1-11.3.0.105-1.x86_64.rpm</id>
     <title>File: libnvjpeg-devel-11-1-11.3.0.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -2351,6 +2522,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnv
     <content>Date: 2020-06-03 01:52
 Size: 2.2MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg-devel-11-0-11.0.0.191-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg-11-2-11.3.1.68-1.x86_64.rpm</id>
+    <title>File: libnvjpeg-11-2-11.3.1.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 2.2MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg-11-2-11.3.1.68-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2435,6 +2615,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnv
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-nscq-460-460.27.04-1.x86_64.rpm</id>
+    <title>File: libnvidia-nscq-460-460.27.04-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 352KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-nscq-460-460.27.04-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-nscq-455-455.45.01-1.x86_64.rpm</id>
     <title>File: libnvidia-nscq-455-455.45.01-1.x86_64.rpm</title>
     <updated>2020-11-17T20:16:00+00:00</updated>
@@ -2468,6 +2657,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnv
     <content>Date: 2020-09-23 16:11
 Size: 344KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-nscq-450-450.80.02-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnpp-devel-11-2-11.2.1.68-1.x86_64.rpm</id>
+    <title>File: libnpp-devel-11-2-11.2.1.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 101MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnpp-devel-11-2-11.2.1.68-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2513,6 +2711,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnp
     <content>Date: 2020-06-03 01:52
 Size: 87MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnpp-devel-11-0-11.0.0.191-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnpp-11-2-11.2.1.68-1.x86_64.rpm</id>
+    <title>File: libnpp-11-2-11.2.1.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:10:00+00:00</updated>
+    <content>Date: 2020-12-15 17:10
+Size: 101MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnpp-11-2-11.2.1.68-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2723,6 +2930,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusparse-devel-11-2-11.3.1.68-1.x86_64.rpm</id>
+    <title>File: libcusparse-devel-11-2-11.3.1.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:09:00+00:00</updated>
+    <content>Date: 2020-12-15 17:09
+Size: 236MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusparse-devel-11-2-11.3.1.68-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusparse-devel-11-1-11.3.0.10-1.x86_64.rpm</id>
     <title>File: libcusparse-devel-11-1-11.3.0.10-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -2765,6 +2981,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <content>Date: 2020-06-03 01:52
 Size: 188MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusparse-devel-11-0-11.0.0.191-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusparse-11-2-11.3.1.68-1.x86_64.rpm</id>
+    <title>File: libcusparse-11-2-11.3.1.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:09:00+00:00</updated>
+    <content>Date: 2020-12-15 17:09
+Size: 117MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusparse-11-2-11.3.1.68-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2849,6 +3074,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusolver-devel-11-2-11.0.2.68-1.x86_64.rpm</id>
+    <title>File: libcusolver-devel-11-2-11.0.2.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:09:00+00:00</updated>
+    <content>Date: 2020-12-15 17:09
+Size: 48MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusolver-devel-11-2-11.0.2.68-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusolver-devel-11-1-11.0.1.105-1.x86_64.rpm</id>
     <title>File: libcusolver-devel-11-1-11.0.1.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -2891,6 +3125,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <content>Date: 2020-06-03 01:52
 Size: 41MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusolver-devel-11-0-10.4.0.191-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusolver-11-2-11.0.2.68-1.x86_64.rpm</id>
+    <title>File: libcusolver-11-2-11.0.2.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:09:00+00:00</updated>
+    <content>Date: 2020-12-15 17:09
+Size: 366MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcusolver-11-2-11.0.2.68-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -2939,6 +3182,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcurand-devel-11-2-10.2.3.68-1.x86_64.rpm</id>
+    <title>File: libcurand-devel-11-2-10.2.3.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:09:00+00:00</updated>
+    <content>Date: 2020-12-15 17:09
+Size: 46MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcurand-devel-11-2-10.2.3.68-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcurand-devel-11-1-10.2.2.105-1.x86_64.rpm</id>
     <title>File: libcurand-devel-11-1-10.2.2.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -2981,6 +3233,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <content>Date: 2020-06-03 01:51
 Size: 45MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcurand-devel-11-0-10.2.0.191-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcurand-11-2-10.2.3.68-1.x86_64.rpm</id>
+    <title>File: libcurand-11-2-10.2.3.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:09:00+00:00</updated>
+    <content>Date: 2020-12-15 17:09
+Size: 46MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcurand-11-2-10.2.3.68-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3029,6 +3290,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcufft-devel-11-2-10.4.0.72-1.x86_64.rpm</id>
+    <title>File: libcufft-devel-11-2-10.4.0.72-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:09:00+00:00</updated>
+    <content>Date: 2020-12-15 17:09
+Size: 232MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcufft-devel-11-2-10.4.0.72-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcufft-devel-11-1-10.3.0.105-1.x86_64.rpm</id>
     <title>File: libcufft-devel-11-1-10.3.0.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -3071,6 +3341,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <content>Date: 2020-06-03 01:51
 Size: 213MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcufft-devel-11-0-10.1.3.191-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcufft-11-2-10.4.0.72-1.x86_64.rpm</id>
+    <title>File: libcufft-11-2-10.4.0.72-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:09:00+00:00</updated>
+    <content>Date: 2020-12-15 17:09
+Size: 134MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcufft-11-2-10.4.0.72-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3173,6 +3452,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-devel-11-2-11.3.1.68-1.x86_64.rpm</id>
+    <title>File: libcublas-devel-11-2-11.3.1.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 203MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-devel-11-2-11.3.1.68-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-devel-11-1-11.3.0.106-1.x86_64.rpm</id>
     <title>File: libcublas-devel-11-1-11.3.0.106-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -3254,6 +3542,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-11-2-11.3.1.68-1.x86_64.rpm</id>
+    <title>File: libcublas-11-2-11.3.1.68-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 190MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-11-2-11.3.1.68-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas-11-1-11.3.0.106-1.x86_64.rpm</id>
     <title>File: libcublas-11-1-11.3.0.106-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -3332,6 +3629,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <content>Date: 2019-08-13 21:28
 Size: 54MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublas10-10.2.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-latest-dkms-460.27.04-1.el8.x86_64.rpm</id>
+    <title>File: kmod-nvidia-latest-dkms-460.27.04-1.el8.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 20MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-latest-dkms-460.27.04-1.el8.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3677,6 +3983,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/datac
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-visual-tools-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-visual-tools-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-visual-tools-11-2-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-visual-tools-11-1-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-visual-tools-11-1-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -3740,6 +4055,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-tools-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-tools-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-tools-11-2-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-tools-11-1-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-tools-11-1-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -3800,6 +4124,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 8.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-tools-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-toolkit-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-toolkit-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-toolkit-11-2-11.2.0-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3884,6 +4217,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-sanitizer-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-sanitizer-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 13MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-sanitizer-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-sanitizer-11-1-11.1.105-1.x86_64.rpm</id>
     <title>File: cuda-sanitizer-11-1-11.1.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -3926,6 +4268,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2020-06-03 01:51
 Size: 13MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-sanitizer-11-0-11.0.167-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-samples-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-samples-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 75MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-samples-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -3989,6 +4340,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 87MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-samples-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-runtime-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-runtime-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-runtime-11-2-11.2.0-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4073,6 +4433,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvvp-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvvp-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 116MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvvp-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvvp-11-1-11.1.105-1.x86_64.rpm</id>
     <title>File: cuda-nvvp-11-1-11.1.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -4136,6 +4505,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvtx-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvtx-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 84KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvtx-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvtx-11-1-11.1.74-1.x86_64.rpm</id>
     <title>File: cuda-nvtx-11-1-11.1.74-1.x86_64.rpm</title>
     <updated>2020-09-20T20:06:00+00:00</updated>
@@ -4190,6 +4568,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvrtc-devel-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvrtc-devel-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 32KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvrtc-devel-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvrtc-devel-11-1-11.1.105-1.x86_64.rpm</id>
     <title>File: cuda-nvrtc-devel-11-1-11.1.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -4232,6 +4619,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2020-06-03 01:51
 Size: 28KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvrtc-devel-11-0-11.0.167-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvrtc-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvrtc-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 34MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvrtc-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4298,6 +4694,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvprune-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvprune-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 64KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvprune-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvprune-11-1-11.1.74-1.x86_64.rpm</id>
     <title>File: cuda-nvprune-11-1-11.1.74-1.x86_64.rpm</title>
     <updated>2020-09-20T20:06:00+00:00</updated>
@@ -4340,6 +4745,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 48KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvprune-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvprof-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvprof-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 4.5MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvprof-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4421,6 +4835,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 72KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvml-dev-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvml-devel-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvml-devel-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 96KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvml-devel-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4514,6 +4937,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvdisasm-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvdisasm-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 32MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvdisasm-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvdisasm-11-1-11.1.74-1.x86_64.rpm</id>
     <title>File: cuda-nvdisasm-11-1-11.1.74-1.x86_64.rpm</title>
     <updated>2020-09-20T20:05:00+00:00</updated>
@@ -4565,6 +4997,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 22MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvdisasm-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvcc-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nvcc-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 60MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nvcc-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4631,6 +5072,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-systems-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-nsight-systems-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-systems-11-2-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-systems-11-1-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-nsight-systems-11-1-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -4694,6 +5144,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-compute-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-nsight-compute-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-compute-11-2-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-compute-11-1-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-nsight-compute-11-1-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -4754,6 +5213,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 8.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-compute-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-nsight-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:08:00+00:00</updated>
+    <content>Date: 2020-12-15 17:08
+Size: 114MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-nsight-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -4874,6 +5342,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-minimal-build-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-minimal-build-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-minimal-build-11-2-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-minimal-build-11-1-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-minimal-build-11-1-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -4934,6 +5411,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 8.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-minimal-build-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-memcheck-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-memcheck-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 176KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-memcheck-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5036,6 +5522,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-libraries-devel-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-libraries-devel-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-libraries-devel-11-2-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-libraries-devel-11-1-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-libraries-devel-11-1-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -5078,6 +5573,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2020-06-03 01:53
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-libraries-devel-11-0-11.0.1-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-libraries-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-libraries-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-libraries-11-2-11.2.0-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5153,6 +5657,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-gdb-src-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-gdb-src-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 35MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-gdb-src-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-gdb-src-11-1-11.1.105-1.x86_64.rpm</id>
     <title>File: cuda-gdb-src-11-1-11.1.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -5213,6 +5726,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 35MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-gdb-src-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-gdb-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-gdb-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.6MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-gdb-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5297,6 +5819,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-driver-devel-11-2-11.2.72-1.x86_64.rpm</id>
+    <title>File: cuda-driver-devel-11-2-11.2.72-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 36KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-driver-devel-11-2-11.2.72-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-driver-devel-11-1-11.1.74-1.x86_64.rpm</id>
     <title>File: cuda-driver-devel-11-1-11.1.74-1.x86_64.rpm</title>
     <updated>2020-09-20T20:05:00+00:00</updated>
@@ -5330,6 +5861,24 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2020-06-03 01:50
 Size: 36KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-driver-devel-11-0-11.0.171-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-drivers-fabricmanager-460.27.04-1.x86_64.rpm</id>
+    <title>File: cuda-drivers-fabricmanager-460.27.04-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-drivers-fabricmanager-460.27.04-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-drivers-fabricmanager-460-460.27.04-1.x86_64.rpm</id>
+    <title>File: cuda-drivers-fabricmanager-460-460.27.04-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-drivers-fabricmanager-460-460.27.04-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5402,6 +5951,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2020-07-20 20:43
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-drivers-fabricmanager-450-450.51.06-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-drivers-460.27.04-1.x86_64.rpm</id>
+    <title>File: cuda-drivers-460.27.04-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 8.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-drivers-460.27.04-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5558,6 +6116,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-documentation-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-documentation-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 116KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-documentation-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-documentation-11-1-11.1.105-1.x86_64.rpm</id>
     <title>File: cuda-documentation-11-1-11.1.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -5621,6 +6188,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-demo-suite-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-demo-suite-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 5.0MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-demo-suite-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-demo-suite-11-1-11.1.74-1.x86_64.rpm</id>
     <title>File: cuda-demo-suite-11-1-11.1.74-1.x86_64.rpm</title>
     <updated>2020-09-20T20:05:00+00:00</updated>
@@ -5654,6 +6230,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 4.8MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-demo-suite-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cuxxfilt-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-cuxxfilt-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 52KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cuxxfilt-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5765,6 +6350,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cupti-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-cupti-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 20MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cupti-11-2-11.2.67-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cupti-11-1-11.1.105-1.x86_64.rpm</id>
     <title>File: cuda-cupti-11-1-11.1.105-1.x86_64.rpm</title>
     <updated>2020-10-16T17:48:00+00:00</updated>
@@ -5825,6 +6419,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 16MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cupti-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cuobjdump-11-2-11.2.67-1.x86_64.rpm</id>
+    <title>File: cuda-cuobjdump-11-2-11.2.67-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 132KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cuobjdump-11-2-11.2.67-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -5936,6 +6539,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cudart-devel-11-2-11.2.72-1.x86_64.rpm</id>
+    <title>File: cuda-cudart-devel-11-2-11.2.72-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 2.8MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cudart-devel-11-2-11.2.72-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cudart-devel-11-1-11.1.74-1.x86_64.rpm</id>
     <title>File: cuda-cudart-devel-11-1-11.1.74-1.x86_64.rpm</title>
     <updated>2020-09-20T20:05:00+00:00</updated>
@@ -5969,6 +6581,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2020-06-03 01:50
 Size: 2.6MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cudart-devel-11-0-11.0.171-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cudart-11-2-11.2.72-1.x86_64.rpm</id>
+    <title>File: cuda-cudart-11-2-11.2.72-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 188KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-cudart-11-2-11.2.72-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -6044,6 +6665,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-compiler-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-compiler-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-compiler-11-2-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-compiler-11-1-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-compiler-11-1-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -6104,6 +6734,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2019-08-13 21:28
 Size: 8.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-compiler-10-1-10.1.243-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-compat-11-2-460.27.04-1.x86_64.rpm</id>
+    <title>File: cuda-compat-11-2-460.27.04-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 7.2MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-compat-11-2-460.27.04-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
@@ -6260,6 +6899,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-command-line-tools-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-command-line-tools-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-command-line-tools-11-2-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-command-line-tools-11-1-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-command-line-tools-11-1-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -6323,6 +6971,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-11.2.0-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-11.1.1-1.x86_64.rpm</id>
     <title>File: cuda-11.1.1-1.x86_64.rpm</title>
     <updated>2020-10-16T17:49:00+00:00</updated>
@@ -6365,6 +7022,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-
     <content>Date: 2020-06-03 01:53
 Size: 4.0KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-11.0.1-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-11-2-11.2.0-1.x86_64.rpm</id>
+    <title>File: cuda-11-2-11.2.0-1.x86_64.rpm</title>
+    <updated>2020-12-15T17:07:00+00:00</updated>
+    <content>Date: 2020-12-15 17:07
+Size: 4.0KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuda-11-2-11.2.0-1.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
