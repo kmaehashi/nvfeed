@@ -2,6 +2,7 @@
 
 import argparse
 from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
@@ -17,8 +18,8 @@ def main():
     parser.add_argument('--output')
     params = parser.parse_args()
 
-    records = get_records(params.url, params.file_suffix)
-    feed = generate_atom_feed(records, params.url, params.name)
+    records, last_modified = get_records(params.url, params.file_suffix)
+    feed = generate_atom_feed(records, params.url, params.name, last_modified)
     if params.output is None:
         print(feed.decode('utf-8'))
     else:
@@ -27,7 +28,9 @@ def main():
 
 
 def get_records(url, file_suffix):
-    soup = BeautifulSoup(requests.get(url).text, features='html.parser')
+    resp = requests.get(url)
+    last_modified = parsedate_to_datetime(resp.headers['Last-Modified'])
+    soup = BeautifulSoup(resp.text, features='html.parser')
 
     records = []
     for li in soup.select('ul[class=directorycontents] li'):
@@ -44,16 +47,15 @@ def get_records(url, file_suffix):
         filedate = datetime.strptime(li.select_one('span[class=date]').text, '%Y-%m-%d %H:%M')
         filedate = filedate.replace(tzinfo=timezone.utc)  # assume GMT
         records.append((filename, fileurl, filesize, filedate))
-    return records
+    return records, last_modified
 
 
-def generate_atom_feed(records, url, name):
+def generate_atom_feed(records, url, name, last_modified):
     assert len(records) != 0
 
     fg = FeedGenerator()
     fg.title(name)
     fg.id(url)
-    updated = None
     for rec in records:
         (filename, fileurl, filesize, filedate) = rec
         fe = fg.add_entry()
@@ -65,17 +67,8 @@ Date: {}
 Size: {}
 URL: {}'''.format(filedate.strftime('%Y-%m-%d %H:%M'), filesize, fileurl))
         fe.updated(filedate)
-        if updated is None or updated < filedate:
-            updated = filedate
 
-    # Dirty hack: Sometimes files with timestamp earlier than already-
-    # published files appear later in the index. In that case, the feed
-    # timestamp, which is the latest date of all files published, will not be
-    # updated, although the feed content has changed. Some feed clients (e.g.,
-    # Slack RSS app) get confused by this and ignores newly added files.
-    # To workaround this, advance the feed timestamp by the number of files.
-    updated += timedelta(seconds=len(records))
-    fg.updated(updated)
+    fg.updated(last_modified)
     return fg.atom_str(pretty=True)
 
 
