@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2021-01-28T01:03:39+00:00</updated>
+  <updated>2021-01-28T16:45:24+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-460_460.32.03-0ubuntu1_amd64.deb</id>
@@ -8597,6 +8597,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2019-02-26 01:39
 Size: 41MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcublas10_10.1.0.105-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/datacenter-gpu-manager_2.0.15_amd64.deb</id>
+    <title>File: datacenter-gpu-manager_2.0.15_amd64.deb</title>
+    <updated>2021-01-28T16:10:00+00:00</updated>
+    <content>Date: 2021-01-28 16:10
+Size: 176MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/datacenter-gpu-manager_2.0.15_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
