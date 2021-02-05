@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2021-02-01T16:45:52+00:00</updated>
+  <updated>2021-02-05T00:44:47+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-460_460.32.03-0ubuntu1_amd64.deb</id>
@@ -7490,6 +7490,78 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-06-03 01:51
 Size: 54MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnpp-11-0_11.0.0.191-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda11.2_amd64.deb</id>
+    <title>File: libnccl-dev_2.8.4-1+cuda11.2_amd64.deb</title>
+    <updated>2021-02-05T00:10:00+00:00</updated>
+    <content>Date: 2021-02-05 00:10
+Size: 38MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda11.2_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda11.1_amd64.deb</id>
+    <title>File: libnccl-dev_2.8.4-1+cuda11.1_amd64.deb</title>
+    <updated>2021-02-05T00:10:00+00:00</updated>
+    <content>Date: 2021-02-05 00:10
+Size: 51MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda11.1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda11.0_amd64.deb</id>
+    <title>File: libnccl-dev_2.8.4-1+cuda11.0_amd64.deb</title>
+    <updated>2021-02-05T00:10:00+00:00</updated>
+    <content>Date: 2021-02-05 00:10
+Size: 37MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda11.0_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda10.2_amd64.deb</id>
+    <title>File: libnccl-dev_2.8.4-1+cuda10.2_amd64.deb</title>
+    <updated>2021-02-05T00:10:00+00:00</updated>
+    <content>Date: 2021-02-05 00:10
+Size: 25MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda10.2_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.8.4-1+cuda11.2_amd64.deb</id>
+    <title>File: libnccl2_2.8.4-1+cuda11.2_amd64.deb</title>
+    <updated>2021-02-05T00:10:00+00:00</updated>
+    <content>Date: 2021-02-05 00:10
+Size: 39MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.8.4-1+cuda11.2_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.8.4-1+cuda11.1_amd64.deb</id>
+    <title>File: libnccl2_2.8.4-1+cuda11.1_amd64.deb</title>
+    <updated>2021-02-05T00:10:00+00:00</updated>
+    <content>Date: 2021-02-05 00:10
+Size: 50MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.8.4-1+cuda11.1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.8.4-1+cuda11.0_amd64.deb</id>
+    <title>File: libnccl2_2.8.4-1+cuda11.0_amd64.deb</title>
+    <updated>2021-02-05T00:10:00+00:00</updated>
+    <content>Date: 2021-02-05 00:10
+Size: 39MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.8.4-1+cuda11.0_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.8.4-1+cuda10.2_amd64.deb</id>
+    <title>File: libnccl2_2.8.4-1+cuda10.2_amd64.deb</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 27MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.8.4-1+cuda10.2_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>

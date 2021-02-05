@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2021-02-01T16:43:25+00:00</updated>
+  <updated>2021-02-05T00:43:16+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-xconfig-460.32.03-1.el8.x86_64.rpm</id>
@@ -3197,6 +3197,114 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnp
     <content>Date: 2020-06-03 01:52
 Size: 87MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnpp-11-0-11.0.0.191-1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-static-2.8.4-1+cuda11.2.x86_64.rpm</id>
+    <title>File: libnccl-static-2.8.4-1+cuda11.2.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 53MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-static-2.8.4-1+cuda11.2.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-static-2.8.4-1+cuda11.1.x86_64.rpm</id>
+    <title>File: libnccl-static-2.8.4-1+cuda11.1.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 65MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-static-2.8.4-1+cuda11.1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-static-2.8.4-1+cuda11.0.x86_64.rpm</id>
+    <title>File: libnccl-static-2.8.4-1+cuda11.0.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 53MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-static-2.8.4-1+cuda11.0.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-static-2.8.4-1+cuda10.2.x86_64.rpm</id>
+    <title>File: libnccl-static-2.8.4-1+cuda10.2.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 38MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-static-2.8.4-1+cuda10.2.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-devel-2.8.4-1+cuda11.2.x86_64.rpm</id>
+    <title>File: libnccl-devel-2.8.4-1+cuda11.2.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 16KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-devel-2.8.4-1+cuda11.2.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-devel-2.8.4-1+cuda11.1.x86_64.rpm</id>
+    <title>File: libnccl-devel-2.8.4-1+cuda11.1.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 16KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-devel-2.8.4-1+cuda11.1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-devel-2.8.4-1+cuda11.0.x86_64.rpm</id>
+    <title>File: libnccl-devel-2.8.4-1+cuda11.0.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 16KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-devel-2.8.4-1+cuda11.0.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-devel-2.8.4-1+cuda10.2.x86_64.rpm</id>
+    <title>File: libnccl-devel-2.8.4-1+cuda10.2.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 16KB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-devel-2.8.4-1+cuda10.2.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-2.8.4-1+cuda11.2.x86_64.rpm</id>
+    <title>File: libnccl-2.8.4-1+cuda11.2.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 46MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-2.8.4-1+cuda11.2.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-2.8.4-1+cuda11.1.x86_64.rpm</id>
+    <title>File: libnccl-2.8.4-1+cuda11.1.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 59MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-2.8.4-1+cuda11.1.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-2.8.4-1+cuda11.0.x86_64.rpm</id>
+    <title>File: libnccl-2.8.4-1+cuda11.0.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 46MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-2.8.4-1+cuda11.0.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-2.8.4-1+cuda10.2.x86_64.rpm</id>
+    <title>File: libnccl-2.8.4-1+cuda10.2.x86_64.rpm</title>
+    <updated>2021-02-05T00:09:00+00:00</updated>
+    <content>Date: 2021-02-05 00:09
+Size: 34MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnccl-2.8.4-1+cuda10.2.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
