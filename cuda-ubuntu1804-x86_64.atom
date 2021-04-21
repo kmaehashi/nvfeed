@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2021-04-19T19:49:57+00:00</updated>
+  <updated>2021-04-21T15:32:40+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-465_465.19.01-0ubuntu1_amd64.deb</id>
@@ -9311,6 +9311,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.1.0.2-1_amd64.deb</id>
+    <title>File: libcusparselt-dev_0.1.0.2-1_amd64.deb</title>
+    <updated>2021-04-19T16:26:00+00:00</updated>
+    <content>Date: 2021-04-19 16:26
+Size: 2.7MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.1.0.2-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.0.1.73-1_amd64.deb</id>
     <title>File: libcusparselt-dev_0.0.1.73-1_amd64.deb</title>
     <updated>2020-10-13T16:05:00+00:00</updated>
@@ -9326,6 +9335,15 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/
     <content>Date: 2020-09-23 23:06
 Size: 748KB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.0.1.47-1_amd64.deb</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt0_0.1.0.2-1_amd64.deb</id>
+    <title>File: libcusparselt0_0.1.0.2-1_amd64.deb</title>
+    <updated>2021-04-19T16:26:00+00:00</updated>
+    <content>Date: 2021-04-19 16:26
+Size: 2.0MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt0_0.1.0.2-1_amd64.deb</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
