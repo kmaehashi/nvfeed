@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2021-04-21T15:31:05+00:00</updated>
+  <updated>2021-04-22T19:56:53+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-xconfig-465.19.01-1.el8.x86_64.rpm</id>
@@ -5018,6 +5018,24 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-devel-8.2.0.53-1.cuda11.3.x86_64.rpm</id>
+    <title>File: libcudnn8-devel-8.2.0.53-1.cuda11.3.x86_64.rpm</title>
+    <updated>2021-04-21T23:22:00+00:00</updated>
+    <content>Date: 2021-04-21 23:22
+Size: 614MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-devel-8.2.0.53-1.cuda11.3.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-devel-8.2.0.53-1.cuda10.2.x86_64.rpm</id>
+    <title>File: libcudnn8-devel-8.2.0.53-1.cuda10.2.x86_64.rpm</title>
+    <updated>2021-04-21T22:14:00+00:00</updated>
+    <content>Date: 2021-04-21 22:14
+Size: 361MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-devel-8.2.0.53-1.cuda10.2.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-devel-8.1.1.33-1.cuda11.2.x86_64.rpm</id>
     <title>File: libcudnn8-devel-8.1.1.33-1.cuda11.2.x86_64.rpm</title>
     <updated>2021-02-26T02:28:00+00:00</updated>
@@ -5078,6 +5096,24 @@ URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcu
     <content>Date: 2020-11-07 01:48
 Size: 316MB
 URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-devel-8.0.5.39-1.cuda10.2.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-8.2.0.53-1.cuda11.3.x86_64.rpm</id>
+    <title>File: libcudnn8-8.2.0.53-1.cuda11.3.x86_64.rpm</title>
+    <updated>2021-04-21T23:21:00+00:00</updated>
+    <content>Date: 2021-04-21 23:21
+Size: 741MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-8.2.0.53-1.cuda11.3.x86_64.rpm</content>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-8.2.0.53-1.cuda10.2.x86_64.rpm</id>
+    <title>File: libcudnn8-8.2.0.53-1.cuda10.2.x86_64.rpm</title>
+    <updated>2021-04-21T22:14:00+00:00</updated>
+    <content>Date: 2021-04-21 22:14
+Size: 391MB
+URL: https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn8-8.2.0.53-1.cuda10.2.x86_64.rpm</content>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
