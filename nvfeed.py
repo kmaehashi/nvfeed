@@ -58,14 +58,12 @@ def generate_atom_feed(records, url, name, last_modified):
     fg.id(url)
     for rec in records:
         (filename, fileurl, filesize, filedate) = rec
+        filedate_str = filedate.strftime('%Y-%m-%d %H:%M')
         fe = fg.add_entry()
-        fe.title('File: {}'.format(filename))
+        fe.title(f'{filename} ({filedate_str})')
         fe.id(fileurl)
         fe.link(href=url)
-        fe.content('''\
-Date: {}
-Size: {}
-URL: {}'''.format(filedate.strftime('%Y-%m-%d %H:%M'), filesize, fileurl))
+        fe.content('')
         fe.updated(filedate)
 
     fg.updated(last_modified)
