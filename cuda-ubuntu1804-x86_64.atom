@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2021-05-06T19:36:01+00:00</updated>
+  <updated>2021-05-12T15:41:29+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-465_465.19.01-0ubuntu1_amd64.deb</id>
@@ -7278,6 +7278,27 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.9.8-1+cuda11.3_amd64.deb</id>
+    <title>libnccl-dev_2.9.8-1+cuda11.3_amd64.deb (2021-05-10 05:51)</title>
+    <updated>2021-05-10T05:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.9.8-1+cuda11.0_amd64.deb</id>
+    <title>libnccl-dev_2.9.8-1+cuda11.0_amd64.deb (2021-05-10 05:47)</title>
+    <updated>2021-05-10T05:47:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.9.8-1+cuda10.2_amd64.deb</id>
+    <title>libnccl-dev_2.9.8-1+cuda10.2_amd64.deb (2021-05-10 05:46)</title>
+    <updated>2021-05-10T05:46:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.9.6-1+cuda11.3_amd64.deb</id>
     <title>libnccl-dev_2.9.6-1+cuda11.3_amd64.deb (2021-04-05 21:00)</title>
     <updated>2021-04-05T21:00:00+00:00</updated>
@@ -7323,6 +7344,27 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda10.2_amd64.deb</id>
     <title>libnccl-dev_2.8.4-1+cuda10.2_amd64.deb (2021-02-05 00:10)</title>
     <updated>2021-02-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.9.8-1+cuda11.3_amd64.deb</id>
+    <title>libnccl2_2.9.8-1+cuda11.3_amd64.deb (2021-05-10 05:51)</title>
+    <updated>2021-05-10T05:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.9.8-1+cuda11.0_amd64.deb</id>
+    <title>libnccl2_2.9.8-1+cuda11.0_amd64.deb (2021-05-10 05:47)</title>
+    <updated>2021-05-10T05:47:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.9.8-1+cuda10.2_amd64.deb</id>
+    <title>libnccl2_2.9.8-1+cuda10.2_amd64.deb (2021-05-10 05:46)</title>
+    <updated>2021-05-10T05:46:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
@@ -8541,6 +8583,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcublas10_10.1.0.105-1_amd64.deb</id>
     <title>libcublas10_10.1.0.105-1_amd64.deb (2019-02-26 01:39)</title>
     <updated>2019-02-26T01:39:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/datacenter-gpu-manager_2.2.3_amd64.deb</id>
+    <title>datacenter-gpu-manager_2.2.3_amd64.deb (2021-04-30 19:21)</title>
+    <updated>2021-04-30T19:21:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
