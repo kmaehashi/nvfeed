@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2022-01-13T01:25:20+00:00</updated>
+  <updated>2022-01-13T04:33:33+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-510_510.39.01-0ubuntu1_amd64.deb</id>
@@ -11268,6 +11268,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.11.4-1+cuda11.6_amd64.deb</id>
+    <title>libnccl-dev_2.11.4-1+cuda11.6_amd64.deb (2022-01-07 05:52)</title>
+    <updated>2022-01-07T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.11.4-1+cuda11.5_amd64.deb</id>
     <title>libnccl-dev_2.11.4-1+cuda11.5_amd64.deb (2021-10-19 05:42)</title>
     <updated>2021-10-19T05:42:00+00:00</updated>
@@ -11404,6 +11411,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl-dev_2.8.4-1+cuda10.2_amd64.deb</id>
     <title>libnccl-dev_2.8.4-1+cuda10.2_amd64.deb (2021-02-05 00:10)</title>
     <updated>2021-02-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libnccl2_2.11.4-1+cuda11.6_amd64.deb</id>
+    <title>libnccl2_2.11.4-1+cuda11.6_amd64.deb (2022-01-07 05:52)</title>
+    <updated>2022-01-07T05:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
