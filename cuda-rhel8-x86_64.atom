@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2022-01-19T20:37:10+00:00</updated>
+  <updated>2022-01-20T16:26:03+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/python3-libnvinfer-devel-8.2.2-1.cuda11.4.x86_64.rpm</id>
@@ -8559,9 +8559,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-510.39.01-4.18.0-348.12.2-510.39.01-3.el8_5.x86_64.rpm</id>
+    <title>kmod-nvidia-510.39.01-4.18.0-348.12.2-510.39.01-3.el8_5.x86_64.rpm (2022-01-19 20:21)</title>
+    <updated>2022-01-19T20:21:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-510.39.01-4.18.0-348.7.1-510.39.01-3.el8_5.x86_64.rpm</id>
     <title>kmod-nvidia-510.39.01-4.18.0-348.7.1-510.39.01-3.el8_5.x86_64.rpm (2021-12-31 16:58)</title>
     <updated>2021-12-31T16:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-495.29.05-4.18.0-348.12.2-495.29.05-3.el8_5.x86_64.rpm</id>
+    <title>kmod-nvidia-495.29.05-4.18.0-348.12.2-495.29.05-3.el8_5.x86_64.rpm (2022-01-19 19:56)</title>
+    <updated>2022-01-19T19:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -8597,6 +8611,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-495.29.05-4.18.0-305.19.1-495.29.05-3.el8_4.x86_64.rpm</id>
     <title>kmod-nvidia-495.29.05-4.18.0-305.19.1-495.29.05-3.el8_4.x86_64.rpm (2021-10-20 10:29)</title>
     <updated>2021-10-20T10:29:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-470.82.01-4.18.0-348.12.2-470.82.01-3.el8_5.x86_64.rpm</id>
+    <title>kmod-nvidia-470.82.01-4.18.0-348.12.2-470.82.01-3.el8_5.x86_64.rpm (2022-01-19 18:10)</title>
+    <updated>2022-01-19T18:10:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -8702,6 +8723,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-465.19.01-4.18.0-240.22.1-465.19.01-3.el8_3.x86_64.rpm</id>
     <title>kmod-nvidia-465.19.01-4.18.0-240.22.1-465.19.01-3.el8_3.x86_64.rpm (2021-04-15 15:18)</title>
     <updated>2021-04-15T15:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-460.106.00-4.18.0-348.12.2-460.106.00-3.el8_5.x86_64.rpm</id>
+    <title>kmod-nvidia-460.106.00-4.18.0-348.12.2-460.106.00-3.el8_5.x86_64.rpm (2022-01-19 18:16)</title>
+    <updated>2022-01-19T18:16:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -8919,6 +8947,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-455.23.05-4.18.0-193.19.1-455.23.05-2.el8_2.x86_64.rpm</id>
     <title>kmod-nvidia-455.23.05-4.18.0-193.19.1-455.23.05-2.el8_2.x86_64.rpm (2020-09-25 02:52)</title>
     <updated>2020-09-25T02:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-450.156.00-4.18.0-348.12.2-450.156.00-3.el8_5.x86_64.rpm</id>
+    <title>kmod-nvidia-450.156.00-4.18.0-348.12.2-450.156.00-3.el8_5.x86_64.rpm (2022-01-19 19:47)</title>
+    <updated>2022-01-19T19:47:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -9150,6 +9185,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-440.95.01-4.18.0-193.19.1-440.95.01-2.el8_2.x86_64.rpm</id>
     <title>kmod-nvidia-440.95.01-4.18.0-193.19.1-440.95.01-2.el8_2.x86_64.rpm (2020-09-10 17:23)</title>
     <updated>2020-09-10T17:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-418.226.00-4.18.0-348.12.2-418.226.00-3.el8_5.x86_64.rpm</id>
+    <title>kmod-nvidia-418.226.00-4.18.0-348.12.2-418.226.00-3.el8_5.x86_64.rpm (2022-01-19 19:29)</title>
+    <updated>2022-01-19T19:29:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
