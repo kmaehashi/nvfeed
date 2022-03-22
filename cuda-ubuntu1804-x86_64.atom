@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2022-03-19T03:39:36+00:00</updated>
+  <updated>2022-03-21T23:38:53+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-510_510.47.03-0ubuntu1_amd64.deb</id>
@@ -12661,6 +12661,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcutensor-doc_1.5.0.3-1_amd64.deb</id>
+    <title>libcutensor-doc_1.5.0.3-1_amd64.deb (2022-03-08 19:11)</title>
+    <updated>2022-03-08T19:11:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcutensor-doc_1.4.0.6-1_amd64.deb</id>
     <title>libcutensor-doc_1.4.0.6-1_amd64.deb (2021-11-19 23:05)</title>
     <updated>2021-11-19T23:05:00+00:00</updated>
@@ -12738,6 +12745,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcutensor-dev_1.5.0.3-1_amd64.deb</id>
+    <title>libcutensor-dev_1.5.0.3-1_amd64.deb (2022-03-08 19:11)</title>
+    <updated>2022-03-08T19:11:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcutensor-dev_1.4.0.6-1_amd64.deb</id>
     <title>libcutensor-dev_1.4.0.6-1_amd64.deb (2021-11-19 23:05)</title>
     <updated>2021-11-19T23:05:00+00:00</updated>
@@ -12811,6 +12825,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcutensor-dev_1.0.0-1_amd64.deb</id>
     <title>libcutensor-dev_1.0.0-1_amd64.deb (2019-11-15 23:35)</title>
     <updated>2019-11-15T23:35:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcutensor1_1.5.0.3-1_amd64.deb</id>
+    <title>libcutensor1_1.5.0.3-1_amd64.deb (2022-03-08 19:11)</title>
+    <updated>2022-03-08T19:11:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
