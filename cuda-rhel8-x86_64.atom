@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2022-03-24T22:53:59+00:00</updated>
+  <updated>2022-03-24T23:33:42+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/python3-libnvinfer-devel-8.2.3-1.cuda11.4.x86_64.rpm</id>
@@ -10494,6 +10494,27 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/datacenter-gpu-manager-2.0.13-1-x86_64.rpm</id>
     <title>datacenter-gpu-manager-2.0.13-1-x86_64.rpm (2020-10-19 16:43)</title>
     <updated>2020-10-19T16:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-doc-22.03.40-1.x86_64.rpm</id>
+    <title>cuquantum-doc-22.03.40-1.x86_64.rpm (2022-03-23 19:30)</title>
+    <updated>2022-03-23T19:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-devel-22.03.40-1.x86_64.rpm</id>
+    <title>cuquantum-devel-22.03.40-1.x86_64.rpm (2022-03-23 19:30)</title>
+    <updated>2022-03-23T19:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-22.03.40-1.x86_64.rpm</id>
+    <title>cuquantum-22.03.40-1.x86_64.rpm (2022-03-23 19:30)</title>
+    <updated>2022-03-23T19:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
