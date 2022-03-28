@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2022-03-24T23:33:42+00:00</updated>
+  <updated>2022-03-28T19:31:05+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/python3-libnvinfer-devel-8.2.3-1.cuda11.4.x86_64.rpm</id>
@@ -5787,6 +5787,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k-devel-0.5.0.25-1.x86_64.rpm</id>
+    <title>libnvjpeg2k-devel-0.5.0.25-1.x86_64.rpm (2022-03-22 23:58)</title>
+    <updated>2022-03-22T23:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k-devel-0.4.0.24-1.x86_64.rpm</id>
     <title>libnvjpeg2k-devel-0.4.0.24-1.x86_64.rpm (2021-10-14 21:16)</title>
     <updated>2021-10-14T21:16:00+00:00</updated>
@@ -5818,6 +5825,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k-devel-0.0.1.17-1.x86_64.rpm</id>
     <title>libnvjpeg2k-devel-0.0.1.17-1.x86_64.rpm (2020-09-23 23:31)</title>
     <updated>2020-09-23T23:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvjpeg2k0-0.5.0.25-1.x86_64.rpm</id>
+    <title>libnvjpeg2k0-0.5.0.25-1.x86_64.rpm (2022-03-22 23:58)</title>
+    <updated>2022-03-22T23:58:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
