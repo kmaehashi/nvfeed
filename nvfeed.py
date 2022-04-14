@@ -16,10 +16,11 @@ def main():
     parser.add_argument('--name', required=True)
     parser.add_argument('--file-suffix', required=True)
     parser.add_argument('--output')
+    parser.add_argument('--force-updated', action='store_true', default=False)
     params = parser.parse_args()
 
     records, last_modified = get_records(params.url, params.file_suffix)
-    feed = generate_atom_feed(records, params.url, params.name, last_modified)
+    feed = generate_atom_feed(records, params.url, params.name, last_modified, params.force_updated)
     if params.output is None:
         print(feed.decode('utf-8'))
     else:
@@ -50,7 +51,7 @@ def get_records(url, file_suffix):
     return records, last_modified
 
 
-def generate_atom_feed(records, url, name, last_modified):
+def generate_atom_feed(records, url, name, last_modified, force_updated):
     assert len(records) != 0
 
     fg = FeedGenerator()
@@ -65,6 +66,8 @@ def generate_atom_feed(records, url, name, last_modified):
         fe.link(href=url)
         fe.content('')
         fe.updated(filedate)
+        if force_updated:
+            fe.updated(last_modified)
 
     fg.updated(last_modified)
     return fg.atom_str(pretty=True)
