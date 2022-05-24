@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 18.04 (x86_64)</title>
-  <updated>2022-05-23T19:59:32+00:00</updated>
+  <updated>2022-05-24T19:33:01+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/xserver-xorg-video-nvidia-515_515.43.04-0ubuntu1_amd64.deb</id>
@@ -14859,6 +14859,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.3.0.3-1_amd64.deb</id>
+    <title>libcusparselt-dev_0.3.0.3-1_amd64.deb (2022-05-17 21:59)</title>
+    <updated>2022-05-17T21:59:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.2.0.1-1_amd64.deb</id>
     <title>libcusparselt-dev_0.2.0.1-1_amd64.deb (2021-09-28 16:17)</title>
     <updated>2021-09-28T16:17:00+00:00</updated>
@@ -14883,6 +14890,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt-dev_0.0.1.47-1_amd64.deb</id>
     <title>libcusparselt-dev_0.0.1.47-1_amd64.deb (2020-09-23 23:06)</title>
     <updated>2020-09-23T23:06:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/libcusparselt0_0.3.0.3-1_amd64.deb</id>
+    <title>libcusparselt0_0.3.0.3-1_amd64.deb (2022-05-17 21:59)</title>
+    <updated>2022-05-17T21:59:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/" rel="alternate"/>
   </entry>
