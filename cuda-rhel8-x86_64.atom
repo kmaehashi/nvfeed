@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2022-09-26T19:50:59+00:00</updated>
+  <updated>2022-09-28T23:40:33+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/uff-converter-tf-8.4.3-1.cuda11.6.x86_64.rpm</id>
@@ -13924,6 +13924,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/dnf-plugin-nvidia-1.1-1.el8.noarch.rpm</id>
     <title>dnf-plugin-nvidia-1.1-1.el8.noarch.rpm (2019-08-13 21:28)</title>
     <updated>2019-08-13T21:28:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/datacenter-gpu-manager-3.0.4-1-x86_64.rpm</id>
+    <title>datacenter-gpu-manager-3.0.4-1-x86_64.rpm (2022-09-10 01:26)</title>
+    <updated>2022-09-10T01:26:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
