@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2022-12-12T17:11:33+00:00</updated>
+  <updated>2022-12-12T20:53:36+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-525_525.60.13-0ubuntu1_amd64.deb</id>
@@ -530,6 +530,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/uff-converter-tf_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>uff-converter-tf_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/uff-converter-tf_8.5.1-1+cuda11.8_amd64.deb</id>
     <title>uff-converter-tf_8.5.1-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -554,6 +561,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/uff-converter-tf_8.4.1-1+cuda11.6_amd64.deb</id>
     <title>uff-converter-tf_8.4.1-1+cuda11.6_amd64.deb (2022-06-06 14:15)</title>
     <updated>2022-06-06T14:15:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt_8.5.2.2-1+cuda11.8_amd64.deb</id>
+    <title>tensorrt_8.5.2.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -586,6 +600,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-libs_8.5.2.2-1+cuda11.8_amd64.deb</id>
+    <title>tensorrt-libs_8.5.2.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-libs_8.5.1.7-1+cuda11.8_amd64.deb</id>
     <title>tensorrt-libs_8.5.1.7-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -614,6 +635,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-dev_8.5.2.2-1+cuda11.8_amd64.deb</id>
+    <title>tensorrt-dev_8.5.2.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-dev_8.5.1.7-1+cuda11.8_amd64.deb</id>
     <title>tensorrt-dev_8.5.1.7-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -638,6 +666,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-dev_8.4.1.5-1+cuda11.6_amd64.deb</id>
     <title>tensorrt-dev_8.4.1.5-1+cuda11.6_amd64.deb (2022-06-06 14:15)</title>
     <updated>2022-06-06T14:15:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>python3-libnvinfer_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -740,6 +775,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dev_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>python3-libnvinfer-dev_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dev_8.5.1-1+cuda11.8_amd64.deb</id>
     <title>python3-libnvinfer-dev_8.5.1-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -834,6 +876,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dev_8.0.0-1+cuda11.0_amd64.deb</id>
     <title>python3-libnvinfer-dev_8.0.0-1+cuda11.0_amd64.deb (2021-05-05 19:53)</title>
     <updated>2021-05-05T19:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/onnx-graphsurgeon_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>onnx-graphsurgeon_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -7530,6 +7579,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvparsers-dev_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvparsers-dev_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvparsers-dev_8.5.1-1+cuda11.8_amd64.deb</id>
     <title>libnvparsers-dev_8.5.1-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -7624,6 +7680,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvparsers-dev_8.0.0-1+cuda11.0_amd64.deb</id>
     <title>libnvparsers-dev_8.0.0-1+cuda11.0_amd64.deb (2021-05-05 19:53)</title>
     <updated>2021-05-05T19:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvparsers8_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvparsers8_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -7726,6 +7789,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers-dev_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvonnxparsers-dev_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers-dev_8.5.1-1+cuda11.8_amd64.deb</id>
     <title>libnvonnxparsers-dev_8.5.1-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -7820,6 +7890,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers-dev_8.0.0-1+cuda11.0_amd64.deb</id>
     <title>libnvonnxparsers-dev_8.0.0-1+cuda11.0_amd64.deb (2021-05-05 19:53)</title>
     <updated>2021-05-05T19:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers8_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvonnxparsers8_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -8328,6 +8405,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-samples_8.5.2-1+cuda11.8_all.deb</id>
+    <title>libnvinfer-samples_8.5.2-1+cuda11.8_all.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-samples_8.5.1-1+cuda11.8_all.deb</id>
     <title>libnvinfer-samples_8.5.1-1+cuda11.8_all.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -8352,6 +8436,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-samples_8.4.1-1+cuda11.6_all.deb</id>
     <title>libnvinfer-samples_8.4.1-1+cuda11.6_all.deb (2022-06-06 14:14)</title>
     <updated>2022-06-06T14:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin-dev_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-plugin-dev_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -8454,6 +8545,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin8_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-plugin8_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin8_8.5.1-1+cuda11.8_amd64.deb</id>
     <title>libnvinfer-plugin8_8.5.1-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -8548,6 +8646,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin8_8.0.0-1+cuda11.0_amd64.deb</id>
     <title>libnvinfer-plugin8_8.0.0-1+cuda11.0_amd64.deb (2021-05-05 19:53)</title>
     <updated>2021-05-05T19:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dev_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-dev_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -8650,6 +8755,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-bin_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-bin_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-bin_8.5.1-1+cuda11.8_amd64.deb</id>
     <title>libnvinfer-bin_8.5.1-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -8674,6 +8786,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-bin_8.4.1-1+cuda11.6_amd64.deb</id>
     <title>libnvinfer-bin_8.4.1-1+cuda11.6_amd64.deb (2022-06-06 14:14)</title>
     <updated>2022-06-06T14:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer8_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer8_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -17295,6 +17414,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/graphsurgeon-tf_8.5.2-1+cuda11.8_amd64.deb</id>
+    <title>graphsurgeon-tf_8.5.2-1+cuda11.8_amd64.deb (2022-12-06 20:34)</title>
+    <updated>2022-12-06T20:34:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/graphsurgeon-tf_8.5.1-1+cuda11.8_amd64.deb</id>
     <title>graphsurgeon-tf_8.5.1-1+cuda11.8_amd64.deb (2022-10-28 04:37)</title>
     <updated>2022-10-28T04:37:00+00:00</updated>
@@ -17396,6 +17522,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/gds-tools-11-4_1.0.0.82-1_amd64.deb</id>
     <title>gds-tools-11-4_1.0.0.82-1_amd64.deb (2021-06-24 02:46)</title>
     <updated>2021-06-24T02:46:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager_3.1.3_amd64.deb</id>
+    <title>datacenter-gpu-manager_3.1.3_amd64.deb (2022-12-06 19:56)</title>
+    <updated>2022-12-06T19:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
