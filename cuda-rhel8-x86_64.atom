@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2023-03-14T19:40:32+00:00</updated>
+  <updated>2023-03-16T20:16:40+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/uff-converter-tf-8.6.0.12-1.cuda12.0.x86_64.rpm</id>
@@ -13410,6 +13410,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcutensor-doc-1.7.0.1-1.x86_64.rpm</id>
+    <title>libcutensor-doc-1.7.0.1-1.x86_64.rpm (2023-03-06 18:42)</title>
+    <updated>2023-03-06T18:42:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcutensor-doc-1.6.2.3-1.x86_64.rpm</id>
     <title>libcutensor-doc-1.6.2.3-1.x86_64.rpm (2022-12-02 02:08)</title>
     <updated>2022-12-02T02:08:00+00:00</updated>
@@ -13515,6 +13522,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcutensor-devel-1.7.0.1-1.x86_64.rpm</id>
+    <title>libcutensor-devel-1.7.0.1-1.x86_64.rpm (2023-03-06 18:42)</title>
+    <updated>2023-03-06T18:42:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcutensor-devel-1.6.2.3-1.x86_64.rpm</id>
     <title>libcutensor-devel-1.6.2.3-1.x86_64.rpm (2022-12-02 02:08)</title>
     <updated>2022-12-02T02:08:00+00:00</updated>
@@ -13616,6 +13630,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcutensor-devel-1.0.0-1.x86_64.rpm</id>
     <title>libcutensor-devel-1.0.0-1.x86_64.rpm (2019-11-18 18:55)</title>
     <updated>2019-11-18T18:55:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcutensor1-1.7.0.1-1.x86_64.rpm</id>
+    <title>libcutensor1-1.7.0.1-1.x86_64.rpm (2023-03-06 18:42)</title>
+    <updated>2023-03-06T18:42:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
