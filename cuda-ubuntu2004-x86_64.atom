@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2023-03-16T20:19:26+00:00</updated>
+  <updated>2023-03-21T00:03:49+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-530_530.30.02-0ubuntu1_amd64.deb</id>
@@ -1114,6 +1114,34 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/onnx-graphsurgeon_8.4.1-1+cuda11.6_amd64.deb</id>
     <title>onnx-graphsurgeon_8.4.1-1+cuda11.6_amd64.deb (2022-06-06 14:15)</title>
     <updated>2022-06-06T14:15:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvjpeg2k_0.7.0.31-1_amd64.deb</id>
+    <title>nvjpeg2k_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvjpeg2k-cuda-12_0.7.0.31-1_amd64.deb</id>
+    <title>nvjpeg2k-cuda-12_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvjpeg2k-cuda-11_0.7.0.31-1_amd64.deb</id>
+    <title>nvjpeg2k-cuda-11_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvjpeg2k0_0.7.0.31-1_amd64.deb</id>
+    <title>nvjpeg2k0_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
@@ -9028,6 +9056,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k-dev_0.7.0.31-1_amd64.deb</id>
+    <title>libnvjpeg2k-dev_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k-dev_0.6.0.28-1_amd64.deb</id>
     <title>libnvjpeg2k-dev_0.6.0.28-1_amd64.deb (2022-09-28 02:11)</title>
     <updated>2022-09-28T02:11:00+00:00</updated>
@@ -9077,6 +9112,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0_0.7.0.31-1_amd64.deb</id>
+    <title>libnvjpeg2k0_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0_0.6.0.28-1_amd64.deb</id>
     <title>libnvjpeg2k0_0.6.0.28-1_amd64.deb (2022-09-28 02:11)</title>
     <updated>2022-09-28T02:11:00+00:00</updated>
@@ -9122,6 +9164,48 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0_0.0.1.17-1_amd64.deb</id>
     <title>libnvjpeg2k0_0.0.1.17-1_amd64.deb (2020-09-23 23:32)</title>
     <updated>2020-09-23T23:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0-static-cuda-12_0.7.0.31-1_amd64.deb</id>
+    <title>libnvjpeg2k0-static-cuda-12_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0-static-cuda-11_0.7.0.31-1_amd64.deb</id>
+    <title>libnvjpeg2k0-static-cuda-11_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0-dev-cuda-12_0.7.0.31-1_amd64.deb</id>
+    <title>libnvjpeg2k0-dev-cuda-12_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0-dev-cuda-11_0.7.0.31-1_amd64.deb</id>
+    <title>libnvjpeg2k0-dev-cuda-11_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0-cuda-12_0.7.0.31-1_amd64.deb</id>
+    <title>libnvjpeg2k0-cuda-12_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvjpeg2k0-cuda-11_0.7.0.31-1_amd64.deb</id>
+    <title>libnvjpeg2k0-cuda-11_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
+    <updated>2023-03-16T17:32:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
