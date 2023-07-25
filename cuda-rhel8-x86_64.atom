@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2023-07-19T15:39:34+00:00</updated>
+  <updated>2023-07-25T16:25:06+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/uff-converter-tf-8.6.1.6-1.cuda12.0.x86_64.rpm</id>
@@ -17071,6 +17071,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-static-cuda-12-23.06.1.8-1.x86_64.rpm</id>
+    <title>libcuquantum0-static-cuda-12-23.06.1.8-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-static-cuda-12-23.06.0.7-1.x86_64.rpm</id>
     <title>libcuquantum0-static-cuda-12-23.06.0.7-1.x86_64.rpm (2023-07-11 01:56)</title>
     <updated>2023-07-11T01:56:00+00:00</updated>
@@ -17081,6 +17088,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-static-cuda-12-23.03.0.20-1.x86_64.rpm</id>
     <title>libcuquantum0-static-cuda-12-23.03.0.20-1.x86_64.rpm (2023-03-30 18:51)</title>
     <updated>2023-03-30T18:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-static-cuda-11-23.06.1.8-1.x86_64.rpm</id>
+    <title>libcuquantum0-static-cuda-11-23.06.1.8-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -17099,6 +17113,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-devel-cuda-12-23.06.1.8-1.x86_64.rpm</id>
+    <title>libcuquantum0-devel-cuda-12-23.06.1.8-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-devel-cuda-12-23.06.0.7-1.x86_64.rpm</id>
     <title>libcuquantum0-devel-cuda-12-23.06.0.7-1.x86_64.rpm (2023-07-11 01:56)</title>
     <updated>2023-07-11T01:56:00+00:00</updated>
@@ -17109,6 +17130,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-devel-cuda-12-23.03.0.20-1.x86_64.rpm</id>
     <title>libcuquantum0-devel-cuda-12-23.03.0.20-1.x86_64.rpm (2023-03-30 18:51)</title>
     <updated>2023-03-30T18:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-devel-cuda-11-23.06.1.8-1.x86_64.rpm</id>
+    <title>libcuquantum0-devel-cuda-11-23.06.1.8-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -17127,6 +17155,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-cuda-12-23.06.1.8-1.x86_64.rpm</id>
+    <title>libcuquantum0-cuda-12-23.06.1.8-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-cuda-12-23.06.0.7-1.x86_64.rpm</id>
     <title>libcuquantum0-cuda-12-23.06.0.7-1.x86_64.rpm (2023-07-11 01:56)</title>
     <updated>2023-07-11T01:56:00+00:00</updated>
@@ -17137,6 +17172,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-cuda-12-23.03.0.20-1.x86_64.rpm</id>
     <title>libcuquantum0-cuda-12-23.03.0.20-1.x86_64.rpm (2023-03-30 18:51)</title>
     <updated>2023-03-30T18:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcuquantum0-cuda-11-23.06.1.8-1.x86_64.rpm</id>
+    <title>libcuquantum0-cuda-11-23.06.1.8-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -21327,6 +21369,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-cuda-12-23.06.1.8-1.x86_64.rpm</id>
+    <title>cuquantum-cuda-12-23.06.1.8-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-cuda-12-23.06.0.7-1.x86_64.rpm</id>
     <title>cuquantum-cuda-12-23.06.0.7-1.x86_64.rpm (2023-07-11 01:56)</title>
     <updated>2023-07-11T01:56:00+00:00</updated>
@@ -21341,6 +21390,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-cuda-11-23.06.1.8-1.x86_64.rpm</id>
+    <title>cuquantum-cuda-11-23.06.1.8-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-cuda-11-23.06.0.7-1.x86_64.rpm</id>
     <title>cuquantum-cuda-11-23.06.0.7-1.x86_64.rpm (2023-07-11 01:56)</title>
     <updated>2023-07-11T01:56:00+00:00</updated>
@@ -21351,6 +21407,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-cuda-11-23.03.0.20-1.x86_64.rpm</id>
     <title>cuquantum-cuda-11-23.03.0.20-1.x86_64.rpm (2023-03-30 18:51)</title>
     <updated>2023-03-30T18:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-23.06.1-1.x86_64.rpm</id>
+    <title>cuquantum-23.06.1-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -21400,6 +21463,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum-22.03.40-1.x86_64.rpm</id>
     <title>cuquantum-22.03.40-1.x86_64.rpm (2022-03-23 19:30)</title>
     <updated>2022-03-23T19:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cuquantum0-23.06.1-1.x86_64.rpm</id>
+    <title>cuquantum0-23.06.1-1.x86_64.rpm (2023-07-20 10:44)</title>
+    <updated>2023-07-20T10:44:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
