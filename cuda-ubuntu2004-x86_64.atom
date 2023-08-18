@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2023-08-17T19:56:48+00:00</updated>
+  <updated>2023-08-17T23:46:18+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-535_535.86.10-0ubuntu1_amd64.deb</id>
@@ -23577,6 +23577,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcublas-11-0_11.1.0.229-1_amd64.deb</id>
     <title>libcublas-11-0_11.1.0.229-1_amd64.deb (2020-07-02 23:19)</title>
     <updated>2020-07-02T23:19:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/holoscan_0.6.0.3-1_amd64.deb</id>
+    <title>holoscan_0.6.0.3-1_amd64.deb (2023-08-17 13:45)</title>
+    <updated>2023-08-17T13:45:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
