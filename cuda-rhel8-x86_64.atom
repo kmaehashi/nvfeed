@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2023-09-25T16:27:42+00:00</updated>
+  <updated>2023-09-27T16:03:20+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/uff-converter-tf-8.6.1.6-1.cuda12.0.x86_64.rpm</id>
@@ -10785,6 +10785,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-container-toolkit-base-1.14.2-1.x86_64.rpm</id>
+    <title>nvidia-container-toolkit-base-1.14.2-1.x86_64.rpm (2023-09-25 11:43)</title>
+    <updated>2023-09-25T11:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-container-toolkit-base-1.14.1-1.x86_64.rpm</id>
     <title>nvidia-container-toolkit-base-1.14.1-1.x86_64.rpm (2023-09-11 15:39)</title>
     <updated>2023-09-11T15:39:00+00:00</updated>
@@ -10837,6 +10844,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-container-toolkit-base-1.13.0-1.x86_64.rpm</id>
     <title>nvidia-container-toolkit-base-1.13.0-1.x86_64.rpm (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-container-toolkit-1.14.2-1.x86_64.rpm</id>
+    <title>nvidia-container-toolkit-1.14.2-1.x86_64.rpm (2023-09-25 11:43)</title>
+    <updated>2023-09-25T11:43:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -14712,6 +14726,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-tools-1.14.2-1.x86_64.rpm</id>
+    <title>libnvidia-container-tools-1.14.2-1.x86_64.rpm (2023-09-25 11:43)</title>
+    <updated>2023-09-25T11:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-tools-1.14.1-1.x86_64.rpm</id>
     <title>libnvidia-container-tools-1.14.1-1.x86_64.rpm (2023-09-11 15:39)</title>
     <updated>2023-09-11T15:39:00+00:00</updated>
@@ -14764,6 +14785,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-tools-1.13.0-1.x86_64.rpm</id>
     <title>libnvidia-container-tools-1.13.0-1.x86_64.rpm (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-static-1.14.2-1.x86_64.rpm</id>
+    <title>libnvidia-container-static-1.14.2-1.x86_64.rpm (2023-09-25 11:43)</title>
+    <updated>2023-09-25T11:43:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
@@ -14824,6 +14852,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-devel-1.14.2-1.x86_64.rpm</id>
+    <title>libnvidia-container-devel-1.14.2-1.x86_64.rpm (2023-09-25 11:43)</title>
+    <updated>2023-09-25T11:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-devel-1.14.1-1.x86_64.rpm</id>
     <title>libnvidia-container-devel-1.14.1-1.x86_64.rpm (2023-09-11 15:39)</title>
     <updated>2023-09-11T15:39:00+00:00</updated>
@@ -14880,6 +14915,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container1-debuginfo-1.14.2-1.x86_64.rpm</id>
+    <title>libnvidia-container1-debuginfo-1.14.2-1.x86_64.rpm (2023-09-25 11:43)</title>
+    <updated>2023-09-25T11:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container1-debuginfo-1.14.1-1.x86_64.rpm</id>
     <title>libnvidia-container1-debuginfo-1.14.1-1.x86_64.rpm (2023-09-11 15:39)</title>
     <updated>2023-09-11T15:39:00+00:00</updated>
@@ -14932,6 +14974,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container1-debuginfo-1.13.0-1.x86_64.rpm</id>
     <title>libnvidia-container1-debuginfo-1.13.0-1.x86_64.rpm (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container1-1.14.2-1.x86_64.rpm</id>
+    <title>libnvidia-container1-1.14.2-1.x86_64.rpm (2023-09-25 11:43)</title>
+    <updated>2023-09-25T11:43:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/" rel="alternate"/>
   </entry>
