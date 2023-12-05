@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2023-11-29T20:42:53+00:00</updated>
+  <updated>2023-12-05T21:40:01+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-545_545.23.08-0ubuntu1_amd64.deb</id>
@@ -26171,6 +26171,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8_8.9.7.29-1+cuda12.2_amd64.deb</id>
+    <title>libcudnn8_8.9.7.29-1+cuda12.2_amd64.deb (2023-12-01 21:21)</title>
+    <updated>2023-12-01T21:21:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8_8.9.7.29-1+cuda11.8_amd64.deb</id>
+    <title>libcudnn8_8.9.7.29-1+cuda11.8_amd64.deb (2023-12-01 21:36)</title>
+    <updated>2023-12-01T21:36:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8_8.9.6.50-1+cuda12.2_amd64.deb</id>
     <title>libcudnn8_8.9.6.50-1+cuda12.2_amd64.deb (2023-10-31 17:22)</title>
     <updated>2023-10-31T17:22:00+00:00</updated>
@@ -26430,6 +26444,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8-samples_8.9.7.29-1+cuda12.2_amd64.deb</id>
+    <title>libcudnn8-samples_8.9.7.29-1+cuda12.2_amd64.deb (2023-12-01 21:21)</title>
+    <updated>2023-12-01T21:21:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8-samples_8.9.7.29-1+cuda11.8_amd64.deb</id>
+    <title>libcudnn8-samples_8.9.7.29-1+cuda11.8_amd64.deb (2023-12-01 21:36)</title>
+    <updated>2023-12-01T21:36:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8-samples_8.9.6.50-1+cuda12.2_amd64.deb</id>
     <title>libcudnn8-samples_8.9.6.50-1+cuda12.2_amd64.deb (2023-10-31 17:22)</title>
     <updated>2023-10-31T17:22:00+00:00</updated>
@@ -26524,6 +26552,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8-samples_8.9.1.23-1+cuda11.8_amd64.deb</id>
     <title>libcudnn8-samples_8.9.1.23-1+cuda11.8_amd64.deb (2023-05-01 19:30)</title>
     <updated>2023-05-01T19:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8-dev_8.9.7.29-1+cuda12.2_amd64.deb</id>
+    <title>libcudnn8-dev_8.9.7.29-1+cuda12.2_amd64.deb (2023-12-01 21:21)</title>
+    <updated>2023-12-01T21:21:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libcudnn8-dev_8.9.7.29-1+cuda11.8_amd64.deb</id>
+    <title>libcudnn8-dev_8.9.7.29-1+cuda11.8_amd64.deb (2023-12-01 21:36)</title>
+    <updated>2023-12-01T21:36:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/" rel="alternate"/>
   </entry>
