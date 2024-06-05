@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2024-06-04T17:02:02+00:00</updated>
+  <updated>2024-06-05T20:12:17+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/uff-converter-tf-8.6.1.6-1.cuda12.0.x86_64.rpm</id>
@@ -13977,6 +13977,34 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nppplus-cuda-12-0.9.0.0-1.x86_64.rpm</id>
+    <title>nppplus-cuda-12-0.9.0.0-1.x86_64.rpm (2024-06-04 06:56)</title>
+    <updated>2024-06-04T06:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nppplus-cuda-11-0.9.0.0-1.x86_64.rpm</id>
+    <title>nppplus-cuda-11-0.9.0.0-1.x86_64.rpm (2024-06-04 06:56)</title>
+    <updated>2024-06-04T06:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nppplus-0.9.0-1.x86_64.rpm</id>
+    <title>nppplus-0.9.0-1.x86_64.rpm (2024-06-04 06:56)</title>
+    <updated>2024-06-04T06:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nppplus0-0.9.0-1.x86_64.rpm</id>
+    <title>nppplus0-0.9.0-1.x86_64.rpm (2024-06-04 06:56)</title>
+    <updated>2024-06-04T06:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvvm-samples-12-1-12.1.105-1.x86_64.rpm</id>
     <title>libnvvm-samples-12-1-12.1.105-1.x86_64.rpm (2023-04-17 14:58)</title>
     <updated>2023-04-17T14:58:00+00:00</updated>
@@ -19293,6 +19321,48 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnpp-11-0-11.0.0.191-1.x86_64.rpm</id>
     <title>libnpp-11-0-11.0.0.191-1.x86_64.rpm (2020-06-03 01:52)</title>
     <updated>2020-06-03T01:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnppplus0-static-cuda-12-0.9.0.0-1.x86_64.rpm</id>
+    <title>libnppplus0-static-cuda-12-0.9.0.0-1.x86_64.rpm (2024-06-04 06:55)</title>
+    <updated>2024-06-04T06:55:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnppplus0-static-cuda-11-0.9.0.0-1.x86_64.rpm</id>
+    <title>libnppplus0-static-cuda-11-0.9.0.0-1.x86_64.rpm (2024-06-04 06:54)</title>
+    <updated>2024-06-04T06:54:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnppplus0-devel-cuda-12-0.9.0.0-1.x86_64.rpm</id>
+    <title>libnppplus0-devel-cuda-12-0.9.0.0-1.x86_64.rpm (2024-06-04 06:54)</title>
+    <updated>2024-06-04T06:54:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnppplus0-devel-cuda-11-0.9.0.0-1.x86_64.rpm</id>
+    <title>libnppplus0-devel-cuda-11-0.9.0.0-1.x86_64.rpm (2024-06-04 06:54)</title>
+    <updated>2024-06-04T06:54:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnppplus0-cuda-12-0.9.0.0-1.x86_64.rpm</id>
+    <title>libnppplus0-cuda-12-0.9.0.0-1.x86_64.rpm (2024-06-04 06:52)</title>
+    <updated>2024-06-04T06:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnppplus0-cuda-11-0.9.0.0-1.x86_64.rpm</id>
+    <title>libnppplus0-cuda-11-0.9.0.0-1.x86_64.rpm (2024-06-04 06:52)</title>
+    <updated>2024-06-04T06:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
