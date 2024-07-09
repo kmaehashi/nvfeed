@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2024-07-08T20:56:40+00:00</updated>
+  <updated>2024-07-09T22:29:57+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-555_555.42.06-0ubuntu1_amd64.deb</id>
@@ -50,6 +50,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>xserver-xorg-video-nvidia-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>xserver-xorg-video-nvidia-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:42)</title>
+    <updated>2024-06-27T00:42:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -565,6 +572,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>xserver-xorg-video-nvidia-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:42)</title>
+    <updated>2024-06-27T00:42:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-430_535.183.01-0ubuntu1_amd64.deb</id>
     <title>xserver-xorg-video-nvidia-430_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:57)</title>
     <updated>2024-05-25T17:57:00+00:00</updated>
@@ -992,6 +1006,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>tensorrt_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>tensorrt_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>tensorrt_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:56)</title>
     <updated>2024-05-30T21:56:00+00:00</updated>
@@ -1104,6 +1132,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-libs_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>tensorrt-libs_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-libs_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>tensorrt-libs_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-libs_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>tensorrt-libs_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:56)</title>
     <updated>2024-05-30T21:56:00+00:00</updated>
@@ -1212,6 +1254,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-libs_8.4.1.5-1+cuda11.6_amd64.deb</id>
     <title>tensorrt-libs_8.4.1.5-1+cuda11.6_amd64.deb (2022-06-06 14:15)</title>
     <updated>2022-06-06T14:15:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>tensorrt-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/tensorrt-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>tensorrt-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -1359,6 +1415,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/sdkmanager_1.9.3-10904_amd64.deb</id>
     <title>sdkmanager_1.9.3-10904_amd64.deb (2023-09-07 13:48)</title>
     <updated>2023-09-07T13:48:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>python3-libnvinfer_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>python3-libnvinfer_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -1545,6 +1615,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-lean_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>python3-libnvinfer-lean_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-lean_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>python3-libnvinfer-lean_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-lean_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>python3-libnvinfer-lean_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:56)</title>
     <updated>2024-05-30T21:56:00+00:00</updated>
@@ -1615,6 +1699,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dispatch_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>python3-libnvinfer-dispatch_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dispatch_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>python3-libnvinfer-dispatch_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dispatch_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>python3-libnvinfer-dispatch_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:56)</title>
     <updated>2024-05-30T21:56:00+00:00</updated>
@@ -1681,6 +1779,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dispatch_8.6.0.12-1+cuda11.8_amd64.deb</id>
     <title>python3-libnvinfer-dispatch_8.6.0.12-1+cuda11.8_amd64.deb (2023-03-09 23:13)</title>
     <updated>2023-03-09T23:13:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>python3-libnvinfer-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/python3-libnvinfer-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>python3-libnvinfer-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -2157,6 +2269,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-utils-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-utils-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-utils-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-utils-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:42)</title>
+    <updated>2024-06-27T00:42:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -2672,6 +2791,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-utils-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-utils-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:42)</title>
+    <updated>2024-06-27T00:42:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-utils-430_535.183.01-0ubuntu1_amd64.deb</id>
     <title>nvidia-utils-430_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:57)</title>
     <updated>2024-05-25T17:57:00+00:00</updated>
@@ -3074,6 +3200,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-settings_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-settings_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-settings_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-settings_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:42)</title>
+    <updated>2024-06-27T00:42:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -3585,6 +3718,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-modprobe_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-modprobe_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-modprobe_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-modprobe_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:42)</title>
+    <updated>2024-06-27T00:42:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -4135,6 +4275,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-source-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-kernel-source-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:41)</title>
+    <updated>2024-06-27T00:41:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-source-535_535.183.01-0ubuntu1_amd64.deb</id>
     <title>nvidia-kernel-source-535_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:56)</title>
     <updated>2024-05-25T17:56:00+00:00</updated>
@@ -4681,6 +4828,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-source-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-kernel-source-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:39)</title>
+    <updated>2024-06-27T00:39:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-source-430_535.183.01-0ubuntu1_amd64.deb</id>
     <title>nvidia-kernel-source-430_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:56)</title>
     <updated>2024-05-25T17:56:00+00:00</updated>
@@ -5087,6 +5241,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-open-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-kernel-open-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:39)</title>
+    <updated>2024-06-27T00:39:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-open-535_535.183.01-0ubuntu1_amd64.deb</id>
     <title>nvidia-kernel-open-535_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -5286,6 +5447,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-common-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-kernel-common-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-common-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-kernel-common-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:38)</title>
+    <updated>2024-06-27T00:38:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -5801,6 +5969,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-common-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-kernel-common-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:38)</title>
+    <updated>2024-06-27T00:38:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-kernel-common-430_535.183.01-0ubuntu1_amd64.deb</id>
     <title>nvidia-kernel-common-430_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -6259,6 +6434,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-headless-no-dkms-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-headless-no-dkms-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-headless-no-dkms-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-headless-no-dkms-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:38)</title>
+    <updated>2024-06-27T00:38:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -6809,6 +6991,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-headless-no-dkms-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-headless-no-dkms-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:38)</title>
+    <updated>2024-06-27T00:38:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-headless-no-dkms-430_535.183.01-0ubuntu1_amd64.deb</id>
     <title>nvidia-headless-no-dkms-430_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -7246,6 +7435,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-headless-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-headless-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-headless-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-headless-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:36)</title>
+    <updated>2024-06-27T00:36:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -7792,6 +7988,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-headless-430_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-headless-430_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-headless-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-headless-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:36)</title>
+    <updated>2024-06-27T00:36:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -8937,6 +9140,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-fabricmanager-dev-535_535.183.06-1_amd64.deb</id>
+    <title>nvidia-fabricmanager-dev-535_535.183.06-1_amd64.deb (2024-06-27 00:20)</title>
+    <updated>2024-06-27T00:20:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-fabricmanager-dev-535_535.183.01-1_amd64.deb</id>
     <title>nvidia-fabricmanager-dev-535_535.183.01-1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -9430,6 +9640,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-fabricmanager-545_545.23.06-1_amd64.deb</id>
     <title>nvidia-fabricmanager-545_545.23.06-1_amd64.deb (2023-10-16 06:42)</title>
     <updated>2023-10-16T06:42:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-fabricmanager-535_535.183.06-1_amd64.deb</id>
+    <title>nvidia-fabricmanager-535_535.183.06-1_amd64.deb (2024-06-27 00:19)</title>
+    <updated>2024-06-27T00:19:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -9962,6 +10179,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-driver-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-driver-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-driver-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-driver-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:35)</title>
+    <updated>2024-06-27T00:35:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -10512,6 +10736,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-driver-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-driver-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:35)</title>
+    <updated>2024-06-27T00:35:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-driver-430_535.183.01-0ubuntu1_amd64.deb</id>
     <title>nvidia-driver-430_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -10956,6 +11187,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-dkms-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-dkms-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-dkms-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-dkms-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:33)</title>
+    <updated>2024-06-27T00:33:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -11502,6 +11740,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-dkms-430_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-dkms-430_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-dkms-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-dkms-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:33)</title>
+    <updated>2024-06-27T00:33:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -12115,6 +12360,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-compute-utils-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-compute-utils-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:33)</title>
+    <updated>2024-06-27T00:33:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-compute-utils-535_535.183.01-0ubuntu1_amd64.deb</id>
     <title>nvidia-compute-utils-535_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -12622,6 +12874,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-compute-utils-430_545.23.06-0ubuntu1_amd64.deb</id>
     <title>nvidia-compute-utils-430_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-compute-utils-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>nvidia-compute-utils-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:33)</title>
+    <updated>2024-06-27T00:33:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -13417,6 +13676,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libxnvctrl-dev_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libxnvctrl-dev_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:33)</title>
+    <updated>2024-06-27T00:33:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libxnvctrl-dev_535.183.01-0ubuntu1_amd64.deb</id>
     <title>libxnvctrl-dev_535.183.01-0ubuntu1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -13924,6 +14190,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libxnvctrl0_545.23.06-0ubuntu1_amd64.deb</id>
     <title>libxnvctrl0_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libxnvctrl0_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libxnvctrl0_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:33)</title>
+    <updated>2024-06-27T00:33:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -14782,6 +15055,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvonnxparsers-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvonnxparsers-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers-dev_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvonnxparsers-dev_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:56)</title>
     <updated>2024-05-30T21:56:00+00:00</updated>
@@ -14960,6 +15247,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers-dev_8.0.0-1+cuda11.0_amd64.deb</id>
     <title>libnvonnxparsers-dev_8.0.0-1+cuda11.0_amd64.deb (2021-05-05 19:53)</title>
     <updated>2021-05-05T19:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers10_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvonnxparsers10_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvonnxparsers10_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvonnxparsers10_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -16056,6 +16357,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-vc-plugin-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-vc-plugin-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-vc-plugin-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-vc-plugin-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-vc-plugin-dev_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvinfer-vc-plugin-dev_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:55)</title>
     <updated>2024-05-30T21:55:00+00:00</updated>
@@ -16126,6 +16441,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-vc-plugin10_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-vc-plugin10_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-vc-plugin10_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-vc-plugin10_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-vc-plugin10_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvinfer-vc-plugin10_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:55)</title>
     <updated>2024-05-30T21:55:00+00:00</updated>
@@ -16192,6 +16521,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-vc-plugin8_8.6.0.12-1+cuda11.8_amd64.deb</id>
     <title>libnvinfer-vc-plugin8_8.6.0.12-1+cuda11.8_amd64.deb (2023-03-09 23:13)</title>
     <updated>2023-03-09T23:13:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-samples_10.2.0.19-1+cuda12.5_all.deb</id>
+    <title>libnvinfer-samples_10.2.0.19-1+cuda12.5_all.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-samples_10.2.0.19-1+cuda11.8_all.deb</id>
+    <title>libnvinfer-samples_10.2.0.19-1+cuda11.8_all.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -16304,6 +16647,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-samples_8.4.1-1+cuda11.6_all.deb</id>
     <title>libnvinfer-samples_8.4.1-1+cuda11.6_all.deb (2022-06-06 14:14)</title>
     <updated>2022-06-06T14:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-plugin-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-plugin-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -16490,6 +16847,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin10_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-plugin10_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin10_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-plugin10_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-plugin10_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvinfer-plugin10_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:55)</title>
     <updated>2024-05-30T21:55:00+00:00</updated>
@@ -16672,6 +17043,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-lean-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-lean-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-lean-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-lean-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-lean-dev_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvinfer-lean-dev_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:55)</title>
     <updated>2024-05-30T21:55:00+00:00</updated>
@@ -16738,6 +17123,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-lean-dev_8.6.0.12-1+cuda11.8_amd64.deb</id>
     <title>libnvinfer-lean-dev_8.6.0.12-1+cuda11.8_amd64.deb (2023-03-09 23:13)</title>
     <updated>2023-03-09T23:13:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-lean10_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-lean10_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-lean10_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-lean10_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -16812,6 +17211,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-headers-plugin-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-headers-plugin-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-headers-plugin-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-headers-plugin-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-headers-plugin-dev_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvinfer-headers-plugin-dev_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:55)</title>
     <updated>2024-05-30T21:55:00+00:00</updated>
@@ -16878,6 +17291,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-headers-plugin-dev_8.6.0.12-1+cuda11.8_amd64.deb</id>
     <title>libnvinfer-headers-plugin-dev_8.6.0.12-1+cuda11.8_amd64.deb (2023-03-09 23:13)</title>
     <updated>2023-03-09T23:13:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-headers-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-headers-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-headers-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-headers-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -16952,6 +17379,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dispatch-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-dispatch-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dispatch-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-dispatch-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dispatch-dev_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvinfer-dispatch-dev_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:55)</title>
     <updated>2024-05-30T21:55:00+00:00</updated>
@@ -17022,6 +17463,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dispatch10_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-dispatch10_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dispatch10_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-dispatch10_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dispatch10_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvinfer-dispatch10_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:55)</title>
     <updated>2024-05-30T21:55:00+00:00</updated>
@@ -17088,6 +17543,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dispatch8_8.6.0.12-1+cuda11.8_amd64.deb</id>
     <title>libnvinfer-dispatch8_8.6.0.12-1+cuda11.8_amd64.deb (2023-03-09 23:13)</title>
     <updated>2023-03-09T23:13:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dev_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-dev_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-dev_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-dev_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -17274,6 +17743,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-bin_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer-bin_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-bin_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer-bin_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:52)</title>
+    <updated>2024-07-05T17:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-bin_10.1.0.27-1+cuda12.4_amd64.deb</id>
     <title>libnvinfer-bin_10.1.0.27-1+cuda12.4_amd64.deb (2024-05-30 21:55)</title>
     <updated>2024-05-30T21:55:00+00:00</updated>
@@ -17382,6 +17865,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer-bin_8.4.1-1+cuda11.6_amd64.deb</id>
     <title>libnvinfer-bin_8.4.1-1+cuda11.6_amd64.deb (2022-06-06 14:14)</title>
     <updated>2022-06-06T14:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer10_10.2.0.19-1+cuda12.5_amd64.deb</id>
+    <title>libnvinfer10_10.2.0.19-1+cuda12.5_amd64.deb (2024-07-05 18:07)</title>
+    <updated>2024-07-05T18:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvinfer10_10.2.0.19-1+cuda11.8_amd64.deb</id>
+    <title>libnvinfer10_10.2.0.19-1+cuda11.8_amd64.deb (2024-07-05 17:53)</title>
+    <updated>2024-07-05T17:53:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -17627,6 +18124,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-nscq-545_545.23.06-1_amd64.deb</id>
     <title>libnvidia-nscq-545_545.23.06-1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-nscq-535_535.183.06-1_amd64.deb</id>
+    <title>libnvidia-nscq-535_535.183.06-1_amd64.deb (2024-06-27 00:20)</title>
+    <updated>2024-06-27T00:20:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -18590,6 +19094,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-gl-535_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-gl-535_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:31)</title>
+    <updated>2024-06-27T00:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-gl-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-gl-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:31)</title>
+    <updated>2024-06-27T00:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-gl-535_535.183.01-0ubuntu1_i386.deb</id>
     <title>libnvidia-gl-535_535.183.01-0ubuntu1_i386.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -19346,6 +19864,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-gl-430_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-gl-430_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:31)</title>
+    <updated>2024-06-27T00:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-gl-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-gl-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-gl-430_535.183.01-0ubuntu1_i386.deb</id>
     <title>libnvidia-gl-430_535.183.01-0ubuntu1_i386.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -19993,6 +20525,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-fbc1-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>libnvidia-fbc1-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-fbc1-535_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-fbc1-535_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-fbc1-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-fbc1-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -20753,6 +21299,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-fbc1-430_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-fbc1-430_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-fbc1-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-fbc1-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-fbc1-430_535.183.01-0ubuntu1_i386.deb</id>
     <title>libnvidia-fbc1-430_535.183.01-0ubuntu1_i386.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -21400,6 +21960,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-extra-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>libnvidia-extra-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-extra-535_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-extra-535_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-extra-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-extra-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -22230,6 +22804,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-encode-535_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-encode-535_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-encode-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-encode-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-encode-535_535.183.01-0ubuntu1_i386.deb</id>
     <title>libnvidia-encode-535_535.183.01-0ubuntu1_i386.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -22986,6 +23574,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-encode-430_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-encode-430_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-encode-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-encode-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-encode-430_535.183.01-0ubuntu1_i386.deb</id>
     <title>libnvidia-encode-430_535.183.01-0ubuntu1_i386.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -23633,6 +24235,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-decode-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>libnvidia-decode-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-decode-535_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-decode-535_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-decode-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-decode-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -24389,6 +25005,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-decode-430_545.23.06-0ubuntu1_amd64.deb</id>
     <title>libnvidia-decode-430_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-decode-430_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-decode-430_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:30)</title>
+    <updated>2024-06-27T00:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-decode-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-decode-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:27)</title>
+    <updated>2024-06-27T00:27:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -25436,6 +26066,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-compute-535_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-compute-535_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:27)</title>
+    <updated>2024-06-27T00:27:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-compute-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-compute-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:23)</title>
+    <updated>2024-06-27T00:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-compute-535_535.183.01-0ubuntu1_i386.deb</id>
     <title>libnvidia-compute-535_535.183.01-0ubuntu1_i386.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -26192,6 +26836,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-compute-430_535.183.06-0ubuntu1_i386.deb</id>
+    <title>libnvidia-compute-430_535.183.06-0ubuntu1_i386.deb (2024-06-27 00:23)</title>
+    <updated>2024-06-27T00:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-compute-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-compute-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:23)</title>
+    <updated>2024-06-27T00:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-compute-430_535.183.01-0ubuntu1_i386.deb</id>
     <title>libnvidia-compute-430_535.183.01-0ubuntu1_i386.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -26794,6 +27452,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-common-535_535.183.06-0ubuntu1_all.deb</id>
+    <title>libnvidia-common-535_535.183.06-0ubuntu1_all.deb (2024-06-27 00:23)</title>
+    <updated>2024-06-27T00:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-common-535_535.183.01-0ubuntu1_all.deb</id>
     <title>libnvidia-common-535_535.183.01-0ubuntu1_all.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -27305,6 +27970,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-common-430_535.183.06-0ubuntu1_all.deb</id>
+    <title>libnvidia-common-430_535.183.06-0ubuntu1_all.deb (2024-06-27 00:22)</title>
+    <updated>2024-06-27T00:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-common-430_535.183.01-0ubuntu1_all.deb</id>
     <title>libnvidia-common-430_535.183.01-0ubuntu1_all.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -27707,6 +28379,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-cfg1-545_545.23.06-0ubuntu1_amd64.deb</id>
     <title>libnvidia-cfg1-545_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-cfg1-535_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-cfg1-535_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:22)</title>
+    <updated>2024-06-27T00:22:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -28218,6 +28897,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-cfg1-430_545.23.06-0ubuntu1_amd64.deb</id>
     <title>libnvidia-cfg1-430_545.23.06-0ubuntu1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-cfg1-430_535.183.06-0ubuntu1_amd64.deb</id>
+    <title>libnvidia-cfg1-430_535.183.06-0ubuntu1_amd64.deb (2024-06-27 00:22)</title>
+    <updated>2024-06-27T00:22:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -42719,6 +43405,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-drivers_535.183.06-1_amd64.deb</id>
+    <title>cuda-drivers_535.183.06-1_amd64.deb (2024-06-27 00:22)</title>
+    <updated>2024-06-27T00:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-drivers_535.183.01-1_amd64.deb</id>
     <title>cuda-drivers_535.183.01-1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -43230,6 +43923,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-drivers-fabricmanager_535.183.06-1_amd64.deb</id>
+    <title>cuda-drivers-fabricmanager_535.183.06-1_amd64.deb (2024-06-27 00:19)</title>
+    <updated>2024-06-27T00:19:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-drivers-fabricmanager_535.183.01-1_amd64.deb</id>
     <title>cuda-drivers-fabricmanager_535.183.01-1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -43727,6 +44427,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-drivers-fabricmanager-535_535.183.06-1_amd64.deb</id>
+    <title>cuda-drivers-fabricmanager-535_535.183.06-1_amd64.deb (2024-06-27 00:18)</title>
+    <updated>2024-06-27T00:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-drivers-fabricmanager-535_535.183.01-1_amd64.deb</id>
     <title>cuda-drivers-fabricmanager-535_535.183.01-1_amd64.deb (2024-05-25 17:54)</title>
     <updated>2024-05-25T17:54:00+00:00</updated>
@@ -44220,6 +44927,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-drivers-545_545.23.06-1_amd64.deb</id>
     <title>cuda-drivers-545_545.23.06-1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-drivers-535_535.183.06-1_amd64.deb</id>
+    <title>cuda-drivers-535_535.183.06-1_amd64.deb (2024-06-27 00:21)</title>
+    <updated>2024-06-27T00:21:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -46740,6 +47454,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-compat-12-3_545.23.06-1_amd64.deb</id>
     <title>cuda-compat-12-3_545.23.06-1_amd64.deb (2023-10-16 06:43)</title>
     <updated>2023-10-16T06:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-compat-12-2_535.183.06-1_amd64.deb</id>
+    <title>cuda-compat-12-2_535.183.06-1_amd64.deb (2024-06-27 00:21)</title>
+    <updated>2024-06-27T00:21:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
