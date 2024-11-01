@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2024-10-31T20:44:03+00:00</updated>
+  <updated>2024-11-01T04:20:24+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-565_565.57.01-0ubuntu1_amd64.deb</id>
@@ -2640,6 +2640,34 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvtiff0_0.3.0-1_amd64.deb</id>
     <title>nvtiff0_0.3.0-1_amd64.deb (2023-07-27 20:37)</title>
     <updated>2023-07-27T20:37:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvshmem_3.1.7-1_amd64.deb</id>
+    <title>nvshmem_3.1.7-1_amd64.deb (2024-10-30 19:08)</title>
+    <updated>2024-10-30T19:08:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvshmem-cuda-12_3.1.7-1_amd64.deb</id>
+    <title>nvshmem-cuda-12_3.1.7-1_amd64.deb (2024-10-30 19:07)</title>
+    <updated>2024-10-30T19:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvshmem-cuda-11_3.1.7-1_amd64.deb</id>
+    <title>nvshmem-cuda-11_3.1.7-1_amd64.deb (2024-10-30 19:07)</title>
+    <updated>2024-10-30T19:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvshmem0_3.1.7-1_amd64.deb</id>
+    <title>nvshmem0_3.1.7-1_amd64.deb (2024-10-30 19:08)</title>
+    <updated>2024-10-30T19:08:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -16850,6 +16878,48 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvtiff0-cuda-11_0.3.0.55-1_amd64.deb</id>
     <title>libnvtiff0-cuda-11_0.3.0.55-1_amd64.deb (2023-07-27 20:36)</title>
     <updated>2023-07-27T20:36:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvshmem3-static-cuda-12_3.1.7-1_amd64.deb</id>
+    <title>libnvshmem3-static-cuda-12_3.1.7-1_amd64.deb (2024-10-30 19:07)</title>
+    <updated>2024-10-30T19:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvshmem3-static-cuda-11_3.1.7-1_amd64.deb</id>
+    <title>libnvshmem3-static-cuda-11_3.1.7-1_amd64.deb (2024-10-30 19:07)</title>
+    <updated>2024-10-30T19:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvshmem3-dev-cuda-12_3.1.7-1_amd64.deb</id>
+    <title>libnvshmem3-dev-cuda-12_3.1.7-1_amd64.deb (2024-10-30 19:07)</title>
+    <updated>2024-10-30T19:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvshmem3-dev-cuda-11_3.1.7-1_amd64.deb</id>
+    <title>libnvshmem3-dev-cuda-11_3.1.7-1_amd64.deb (2024-10-30 19:07)</title>
+    <updated>2024-10-30T19:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvshmem3-cuda-12_3.1.7-1_amd64.deb</id>
+    <title>libnvshmem3-cuda-12_3.1.7-1_amd64.deb (2024-10-30 19:07)</title>
+    <updated>2024-10-30T19:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvshmem3-cuda-11_3.1.7-1_amd64.deb</id>
+    <title>libnvshmem3-cuda-11_3.1.7-1_amd64.deb (2024-10-30 19:07)</title>
+    <updated>2024-10-30T19:07:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
