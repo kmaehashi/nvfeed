@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2024-11-04T17:21:49+00:00</updated>
+  <updated>2024-11-13T17:35:47+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-565_565.57.01-0ubuntu1_amd64.deb</id>
@@ -2752,6 +2752,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvjpeg2k0_0.7.0.31-1_amd64.deb</id>
     <title>nvjpeg2k0_0.7.0.31-1_amd64.deb (2023-03-16 17:32)</title>
     <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvimgcodec_0.4.0.9-1_amd64.deb</id>
+    <title>nvimgcodec_0.4.0.9-1_amd64.deb (2024-11-06 16:45)</title>
+    <updated>2024-11-06T16:45:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -21201,6 +21208,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvimgcodec-cuda-12_0.4.0.9-1_amd64.deb</id>
+    <title>libnvimgcodec-cuda-12_0.4.0.9-1_amd64.deb (2024-11-06 16:45)</title>
+    <updated>2024-11-06T16:45:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvimgcodec-cuda-12_0.3.0.5-1_amd64.deb</id>
     <title>libnvimgcodec-cuda-12_0.3.0.5-1_amd64.deb (2024-08-07 19:34)</title>
     <updated>2024-08-07T19:34:00+00:00</updated>
@@ -21211,6 +21225,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvimgcodec-cuda-12_0.2.0.6-1_amd64.deb</id>
     <title>libnvimgcodec-cuda-12_0.2.0.6-1_amd64.deb (2024-01-25 18:30)</title>
     <updated>2024-01-25T18:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvimgcodec-cuda-11_0.4.0.9-1_amd64.deb</id>
+    <title>libnvimgcodec-cuda-11_0.4.0.9-1_amd64.deb (2024-11-06 16:45)</title>
+    <updated>2024-11-06T16:45:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
