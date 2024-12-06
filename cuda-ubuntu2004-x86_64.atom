@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2024-12-04T17:39:36+00:00</updated>
+  <updated>2024-12-06T01:31:28+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-565_565.57.01-0ubuntu1_amd64.deb</id>
@@ -14586,6 +14586,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-container-toolkit_1.17.3-1_amd64.deb</id>
+    <title>nvidia-container-toolkit_1.17.3-1_amd64.deb (2024-12-05 15:11)</title>
+    <updated>2024-12-05T15:11:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-container-toolkit_1.17.2-1_amd64.deb</id>
     <title>nvidia-container-toolkit_1.17.2-1_amd64.deb (2024-11-15 23:52)</title>
     <updated>2024-11-15T23:52:00+00:00</updated>
@@ -14715,6 +14722,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-container-toolkit_1.13.0-1_amd64.deb</id>
     <title>nvidia-container-toolkit_1.13.0-1_amd64.deb (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/nvidia-container-toolkit-base_1.17.3-1_amd64.deb</id>
+    <title>nvidia-container-toolkit-base_1.17.3-1_amd64.deb (2024-12-05 15:11)</title>
+    <updated>2024-12-05T15:11:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -31008,6 +31022,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-container-tools_1.17.3-1_amd64.deb</id>
+    <title>libnvidia-container-tools_1.17.3-1_amd64.deb (2024-12-05 15:06)</title>
+    <updated>2024-12-05T15:06:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-container-tools_1.17.2-1_amd64.deb</id>
     <title>libnvidia-container-tools_1.17.2-1_amd64.deb (2024-11-15 23:51)</title>
     <updated>2024-11-15T23:51:00+00:00</updated>
@@ -31137,6 +31158,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-container-tools_1.13.0-1_amd64.deb</id>
     <title>libnvidia-container-tools_1.13.0-1_amd64.deb (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-container-dev_1.17.3-1_amd64.deb</id>
+    <title>libnvidia-container-dev_1.17.3-1_amd64.deb (2024-12-05 15:06)</title>
+    <updated>2024-12-05T15:06:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -31274,6 +31302,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-container1_1.17.3-1_amd64.deb</id>
+    <title>libnvidia-container1_1.17.3-1_amd64.deb (2024-12-05 15:08)</title>
+    <updated>2024-12-05T15:08:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-container1_1.17.2-1_amd64.deb</id>
     <title>libnvidia-container1_1.17.2-1_amd64.deb (2024-11-15 23:51)</title>
     <updated>2024-11-15T23:51:00+00:00</updated>
@@ -31403,6 +31438,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-container1_1.13.0-1_amd64.deb</id>
     <title>libnvidia-container1_1.13.0-1_amd64.deb (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/libnvidia-container1-dbg_1.17.3-1_amd64.deb</id>
+    <title>libnvidia-container1-dbg_1.17.3-1_amd64.deb (2024-12-05 15:06)</title>
+    <updated>2024-12-05T15:06:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
