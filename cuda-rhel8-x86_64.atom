@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2025-01-16T17:44:58+00:00</updated>
+  <updated>2025-01-17T16:35:04+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/vdpauinfo-1.5-1.el8.x86_64.rpm</id>
@@ -33500,6 +33500,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-550.144.03-4.18.0-553.34.1-550.144.03-3.el8_10.x86_64.rpm</id>
+    <title>kmod-nvidia-550.144.03-4.18.0-553.34.1-550.144.03-3.el8_10.x86_64.rpm (2025-01-16 19:44)</title>
+    <updated>2025-01-16T19:44:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-550.127.08-4.18.0-553.34.1-550.127.08-3.el8_10.x86_64.rpm</id>
     <title>kmod-nvidia-550.127.08-4.18.0-553.34.1-550.127.08-3.el8_10.x86_64.rpm (2025-01-08 01:44)</title>
     <updated>2025-01-08T01:44:00+00:00</updated>
@@ -33629,6 +33636,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-545.23.06-4.18.0-477.27.1-545.23.06-3.el8_8.x86_64.rpm</id>
     <title>kmod-nvidia-545.23.06-4.18.0-477.27.1-545.23.06-3.el8_8.x86_64.rpm (2023-10-19 10:55)</title>
     <updated>2023-10-19T10:55:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-535.230.02-4.18.0-553.34.1-535.230.02-3.el8_10.x86_64.rpm</id>
+    <title>kmod-nvidia-535.230.02-4.18.0-553.34.1-535.230.02-3.el8_10.x86_64.rpm (2025-01-16 19:23)</title>
+    <updated>2025-01-16T19:23:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
