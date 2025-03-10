@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2025-03-07T00:57:16+00:00</updated>
+  <updated>2025-03-10T17:36:54+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/xorg-x11-nvidia-570.124.06-1.el8.x86_64.rpm</id>
@@ -34312,6 +34312,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublasmp0-devel-cuda-12-0.4.0.789-1.x86_64.rpm</id>
+    <title>libcublasmp0-devel-cuda-12-0.4.0.789-1.x86_64.rpm (2025-02-05 22:24)</title>
+    <updated>2025-02-05T22:24:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublasmp0-devel-cuda-12-0.3.1.663-1.x86_64.rpm</id>
     <title>libcublasmp0-devel-cuda-12-0.3.1.663-1.x86_64.rpm (2024-12-01 09:05)</title>
     <updated>2024-12-01T09:05:00+00:00</updated>
@@ -34392,6 +34399,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublasmp0-devel-cuda-11-0.1.0.189-1.x86_64.rpm</id>
     <title>libcublasmp0-devel-cuda-11-0.1.0.189-1.x86_64.rpm (2023-12-07 21:44)</title>
     <updated>2023-12-07T21:44:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcublasmp0-cuda-12-0.4.0.789-1.x86_64.rpm</id>
+    <title>libcublasmp0-cuda-12-0.4.0.789-1.x86_64.rpm (2025-02-05 22:24)</title>
+    <updated>2025-02-05T22:24:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -54598,6 +54612,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cublasmp-cuda-12-0.4.0.789-1.x86_64.rpm</id>
+    <title>cublasmp-cuda-12-0.4.0.789-1.x86_64.rpm (2025-02-05 22:23)</title>
+    <updated>2025-02-05T22:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cublasmp-cuda-12-0.3.1.663-1.x86_64.rpm</id>
     <title>cublasmp-cuda-12-0.3.1.663-1.x86_64.rpm (2024-12-01 09:05)</title>
     <updated>2024-12-01T09:05:00+00:00</updated>
@@ -54682,6 +54703,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cublasmp-0.4.0-1.x86_64.rpm</id>
+    <title>cublasmp-0.4.0-1.x86_64.rpm (2025-02-05 22:24)</title>
+    <updated>2025-02-05T22:24:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cublasmp-0.3.1-1.x86_64.rpm</id>
     <title>cublasmp-0.3.1-1.x86_64.rpm (2024-12-01 09:06)</title>
     <updated>2024-12-01T09:06:00+00:00</updated>
@@ -54727,6 +54755,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cublasmp-0.1.0-1.x86_64.rpm</id>
     <title>cublasmp-0.1.0-1.x86_64.rpm (2023-12-07 21:44)</title>
     <updated>2023-12-07T21:44:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cublasmp0-0.4.0-1.x86_64.rpm</id>
+    <title>cublasmp0-0.4.0-1.x86_64.rpm (2025-02-05 22:24)</title>
+    <updated>2025-02-05T22:24:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
