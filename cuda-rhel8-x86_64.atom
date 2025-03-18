@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2025-03-17T18:02:24+00:00</updated>
+  <updated>2025-03-18T18:01:50+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/xorg-x11-nvidia-570.124.06-1.el8.x86_64.rpm</id>
@@ -2619,6 +2619,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvjpeg2k0-0.7.0.31-1.x86_64.rpm</id>
     <title>nvjpeg2k0-0.7.0.31-1.x86_64.rpm (2023-03-16 17:32)</title>
     <updated>2023-03-16T17:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvimgcodec-0.5.0.13-1.x86_64.rpm</id>
+    <title>nvimgcodec-0.5.0.13-1.x86_64.rpm (2025-02-28 16:14)</title>
+    <updated>2025-02-28T16:14:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -24554,6 +24561,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvimgcodec-cuda-12-0.5.0.13-1.x86_64.rpm</id>
+    <title>libnvimgcodec-cuda-12-0.5.0.13-1.x86_64.rpm (2025-02-28 16:14)</title>
+    <updated>2025-02-28T16:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvimgcodec-cuda-12-0.4.1.21-1.x86_64.rpm</id>
     <title>libnvimgcodec-cuda-12-0.4.1.21-1.x86_64.rpm (2024-12-05 23:33)</title>
     <updated>2024-12-05T23:33:00+00:00</updated>
@@ -24578,6 +24592,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvimgcodec-cuda-12-0.2.0.6-1.x86_64.rpm</id>
     <title>libnvimgcodec-cuda-12-0.2.0.6-1.x86_64.rpm (2024-01-25 18:26)</title>
     <updated>2024-01-25T18:26:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvimgcodec-cuda-11-0.5.0.13-1.x86_64.rpm</id>
+    <title>libnvimgcodec-cuda-11-0.5.0.13-1.x86_64.rpm (2025-02-28 16:14)</title>
+    <updated>2025-02-28T16:14:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
