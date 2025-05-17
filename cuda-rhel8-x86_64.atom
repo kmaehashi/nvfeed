@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2025-05-16T16:21:51+00:00</updated>
+  <updated>2025-05-17T00:22:10+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/xorg-x11-nvidia-575.51.03-1.el8.x86_64.rpm</id>
@@ -18205,6 +18205,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-container-toolkit-base-1.17.7-1.x86_64.rpm</id>
+    <title>nvidia-container-toolkit-base-1.17.7-1.x86_64.rpm (2025-05-16 14:38)</title>
+    <updated>2025-05-16T14:38:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-container-toolkit-base-1.17.6-1.x86_64.rpm</id>
     <title>nvidia-container-toolkit-base-1.17.6-1.x86_64.rpm (2025-04-22 11:09)</title>
     <updated>2025-04-22T11:09:00+00:00</updated>
@@ -18362,6 +18369,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-container-toolkit-base-1.13.0-1.x86_64.rpm</id>
     <title>nvidia-container-toolkit-base-1.13.0-1.x86_64.rpm (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/nvidia-container-toolkit-1.17.7-1.x86_64.rpm</id>
+    <title>nvidia-container-toolkit-1.17.7-1.x86_64.rpm (2025-05-16 14:38)</title>
+    <updated>2025-05-16T14:38:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -27011,6 +27025,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-tools-1.17.7-1.x86_64.rpm</id>
+    <title>libnvidia-container-tools-1.17.7-1.x86_64.rpm (2025-05-16 14:38)</title>
+    <updated>2025-05-16T14:38:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-tools-1.17.6-1.x86_64.rpm</id>
     <title>libnvidia-container-tools-1.17.6-1.x86_64.rpm (2025-04-22 11:09)</title>
     <updated>2025-04-22T11:09:00+00:00</updated>
@@ -27168,6 +27189,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-tools-1.13.0-1.x86_64.rpm</id>
     <title>libnvidia-container-tools-1.13.0-1.x86_64.rpm (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-static-1.17.7-1.x86_64.rpm</id>
+    <title>libnvidia-container-static-1.17.7-1.x86_64.rpm (2025-05-16 14:38)</title>
+    <updated>2025-05-16T14:38:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -27333,6 +27361,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-libseccomp2-1.17.7-1.x86_64.rpm</id>
+    <title>libnvidia-container-libseccomp2-1.17.7-1.x86_64.rpm (2025-05-16 14:38)</title>
+    <updated>2025-05-16T14:38:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-libseccomp2-1.17.6-1.x86_64.rpm</id>
     <title>libnvidia-container-libseccomp2-1.17.6-1.x86_64.rpm (2025-04-22 11:07)</title>
     <updated>2025-04-22T11:07:00+00:00</updated>
@@ -27399,6 +27434,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-libseccomp2-1.15.0-1.x86_64.rpm</id>
     <title>libnvidia-container-libseccomp2-1.15.0-1.x86_64.rpm (2024-04-16 13:09)</title>
     <updated>2024-04-16T13:09:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container-devel-1.17.7-1.x86_64.rpm</id>
+    <title>libnvidia-container-devel-1.17.7-1.x86_64.rpm (2025-05-16 14:37)</title>
+    <updated>2025-05-16T14:37:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -27564,6 +27606,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container1-debuginfo-1.17.7-1.x86_64.rpm</id>
+    <title>libnvidia-container1-debuginfo-1.17.7-1.x86_64.rpm (2025-05-16 14:38)</title>
+    <updated>2025-05-16T14:38:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container1-debuginfo-1.17.6-1.x86_64.rpm</id>
     <title>libnvidia-container1-debuginfo-1.17.6-1.x86_64.rpm (2025-04-22 11:09)</title>
     <updated>2025-04-22T11:09:00+00:00</updated>
@@ -27721,6 +27770,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container1-debuginfo-1.13.0-1.x86_64.rpm</id>
     <title>libnvidia-container1-debuginfo-1.13.0-1.x86_64.rpm (2023-04-12 13:57)</title>
     <updated>2023-04-12T13:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libnvidia-container1-1.17.7-1.x86_64.rpm</id>
+    <title>libnvidia-container1-1.17.7-1.x86_64.rpm (2025-05-16 14:38)</title>
+    <updated>2025-05-16T14:38:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -34207,6 +34263,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-static-cuda-12-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-static-cuda-12-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-static-cuda-12-9.10.0.56-1.x86_64.rpm</id>
     <title>libcudnn9-static-cuda-12-9.10.0.56-1.x86_64.rpm (2025-05-05 17:22)</title>
     <updated>2025-05-05T17:22:00+00:00</updated>
@@ -34308,6 +34371,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-static-cuda-12-9.0.0.312-1.x86_64.rpm</id>
     <title>libcudnn9-static-cuda-12-9.0.0.312-1.x86_64.rpm (2024-02-04 18:21)</title>
     <updated>2024-02-04T18:21:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-static-cuda-11-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-static-cuda-11-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -34417,6 +34487,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-samples-9.10.1.4-1.noarch.rpm</id>
+    <title>libcudnn9-samples-9.10.1.4-1.noarch.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-samples-9.10.0.56-1.noarch.rpm</id>
     <title>libcudnn9-samples-9.10.0.56-1.noarch.rpm (2025-05-05 17:22)</title>
     <updated>2025-05-05T17:22:00+00:00</updated>
@@ -34522,9 +34599,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-jit-devel-cuda-12-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-jit-devel-cuda-12-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-jit-devel-cuda-12-9.10.0.56-1.x86_64.rpm</id>
     <title>libcudnn9-jit-devel-cuda-12-9.10.0.56-1.x86_64.rpm (2025-05-05 17:22)</title>
     <updated>2025-05-05T17:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-jit-devel-cuda-11-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-jit-devel-cuda-11-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -34536,9 +34627,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-jit-cuda-12-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-jit-cuda-12-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-jit-cuda-12-9.10.0.56-1.x86_64.rpm</id>
     <title>libcudnn9-jit-cuda-12-9.10.0.56-1.x86_64.rpm (2025-05-05 17:22)</title>
     <updated>2025-05-05T17:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-jit-cuda-11-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-jit-cuda-11-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -34550,6 +34655,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-headers-cuda-12-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-headers-cuda-12-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-headers-cuda-12-9.10.0.56-1.x86_64.rpm</id>
     <title>libcudnn9-headers-cuda-12-9.10.0.56-1.x86_64.rpm (2025-05-05 17:22)</title>
     <updated>2025-05-05T17:22:00+00:00</updated>
@@ -34557,9 +34669,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-headers-cuda-11-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-headers-cuda-11-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-headers-cuda-11-9.10.0.56-1.x86_64.rpm</id>
     <title>libcudnn9-headers-cuda-11-9.10.0.56-1.x86_64.rpm (2025-05-05 17:22)</title>
     <updated>2025-05-05T17:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-devel-cuda-12-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-devel-cuda-12-9.10.1.4-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -34669,6 +34795,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-devel-cuda-11-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-devel-cuda-11-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-devel-cuda-11-9.10.0.56-1.x86_64.rpm</id>
     <title>libcudnn9-devel-cuda-11-9.10.0.56-1.x86_64.rpm (2025-05-05 17:21)</title>
     <updated>2025-05-05T17:21:00+00:00</updated>
@@ -34774,6 +34907,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-cuda-12-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-cuda-12-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-cuda-12-9.10.0.56-1.x86_64.rpm</id>
     <title>libcudnn9-cuda-12-9.10.0.56-1.x86_64.rpm (2025-05-05 17:20)</title>
     <updated>2025-05-05T17:20:00+00:00</updated>
@@ -34875,6 +35015,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-cuda-12-9.0.0.312-1.x86_64.rpm</id>
     <title>libcudnn9-cuda-12-9.0.0.312-1.x86_64.rpm (2024-02-04 18:18)</title>
     <updated>2024-02-04T18:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/libcudnn9-cuda-11-9.10.1.4-1.x86_64.rpm</id>
+    <title>libcudnn9-cuda-11-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -42124,9 +42271,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn-jit-9.10.1-1.x86_64.rpm</id>
+    <title>cudnn-jit-9.10.1-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn-jit-9.10.0-1.x86_64.rpm</id>
     <title>cudnn-jit-9.10.0-1.x86_64.rpm (2025-05-05 17:23)</title>
     <updated>2025-05-05T17:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn-9.10.1-1.x86_64.rpm</id>
+    <title>cudnn-9.10.1-1.x86_64.rpm (2025-05-15 22:31)</title>
+    <updated>2025-05-15T22:31:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -42236,9 +42397,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-jit-cuda-12-9.10.1.4-1.x86_64.rpm</id>
+    <title>cudnn9-jit-cuda-12-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-jit-cuda-12-9.10.0.56-1.x86_64.rpm</id>
     <title>cudnn9-jit-cuda-12-9.10.0.56-1.x86_64.rpm (2025-05-05 17:19)</title>
     <updated>2025-05-05T17:19:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-jit-cuda-12-9-9.10.1.4-1.x86_64.rpm</id>
+    <title>cudnn9-jit-cuda-12-9-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -42250,9 +42425,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-jit-cuda-11-9.10.1.4-1.x86_64.rpm</id>
+    <title>cudnn9-jit-cuda-11-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-jit-cuda-11-9.10.0.56-1.x86_64.rpm</id>
     <title>cudnn9-jit-cuda-11-9.10.0.56-1.x86_64.rpm (2025-05-05 17:18)</title>
     <updated>2025-05-05T17:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-jit-cuda-11-8-9.10.1.4-1.x86_64.rpm</id>
+    <title>cudnn9-jit-cuda-11-8-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -42264,9 +42453,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-jit-9.10.1-1.x86_64.rpm</id>
+    <title>cudnn9-jit-9.10.1-1.x86_64.rpm (2025-05-15 22:32)</title>
+    <updated>2025-05-15T22:32:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-jit-9.10.0-1.x86_64.rpm</id>
     <title>cudnn9-jit-9.10.0-1.x86_64.rpm (2025-05-05 17:23)</title>
     <updated>2025-05-05T17:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-cuda-12-9.10.1.4-1.x86_64.rpm</id>
+    <title>cudnn9-cuda-12-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -42376,6 +42579,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-cuda-12-9-9.10.1.4-1.x86_64.rpm</id>
+    <title>cudnn9-cuda-12-9-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-cuda-12-9-9.10.0.56-1.x86_64.rpm</id>
     <title>cudnn9-cuda-12-9-9.10.0.56-1.x86_64.rpm (2025-05-05 17:18)</title>
     <updated>2025-05-05T17:18:00+00:00</updated>
@@ -42477,6 +42687,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-cuda-12-3-9.0.0.312-1.x86_64.rpm</id>
     <title>cudnn9-cuda-12-3-9.0.0.312-1.x86_64.rpm (2024-02-04 18:18)</title>
     <updated>2024-02-04T18:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-cuda-11-9.10.1.4-1.x86_64.rpm</id>
+    <title>cudnn9-cuda-11-9.10.1.4-1.x86_64.rpm (2025-05-15 22:30)</title>
+    <updated>2025-05-15T22:30:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -42586,6 +42803,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-cuda-11-8-9.10.1.4-1.x86_64.rpm</id>
+    <title>cudnn9-cuda-11-8-9.10.1.4-1.x86_64.rpm (2025-05-15 22:29)</title>
+    <updated>2025-05-15T22:29:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-cuda-11-8-9.10.0.56-1.x86_64.rpm</id>
     <title>cudnn9-cuda-11-8-9.10.0.56-1.x86_64.rpm (2025-05-05 17:18)</title>
     <updated>2025-05-05T17:18:00+00:00</updated>
@@ -42687,6 +42911,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-cuda-11-8-9.0.0.312-1.x86_64.rpm</id>
     <title>cudnn9-cuda-11-8-9.0.0.312-1.x86_64.rpm (2024-02-04 18:18)</title>
     <updated>2024-02-04T18:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/cudnn9-9.10.1-1.x86_64.rpm</id>
+    <title>cudnn9-9.10.1-1.x86_64.rpm (2025-05-15 22:32)</title>
+    <updated>2025-05-15T22:32:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
