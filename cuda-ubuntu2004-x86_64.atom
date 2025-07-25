@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2025-07-22T20:45:49+00:00</updated>
+  <updated>2025-07-25T04:50:49+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-575_575.57.08-0ubuntu1_amd64.deb</id>
@@ -52057,6 +52057,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-proprietary_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-proprietary_4.3.0-1_amd64.deb (2025-07-24 19:49)</title>
+    <updated>2025-07-24T19:49:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-proprietary_4.2.3_amd64.deb</id>
     <title>datacenter-gpu-manager-4-proprietary_4.2.3_amd64.deb (2025-05-01 19:43)</title>
     <updated>2025-05-01T19:43:00+00:00</updated>
@@ -52102,6 +52109,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-proprietary_4.0.0_amd64.deb</id>
     <title>datacenter-gpu-manager-4-proprietary_4.0.0_amd64.deb (2024-12-10 23:00)</title>
     <updated>2024-12-10T23:00:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-proprietary-cuda12_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-proprietary-cuda12_4.3.0-1_amd64.deb (2025-07-24 19:49)</title>
+    <updated>2025-07-24T19:49:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -52155,6 +52169,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-proprietary-cuda11_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-proprietary-cuda11_4.3.0-1_amd64.deb (2025-07-24 19:48)</title>
+    <updated>2025-07-24T19:48:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-proprietary-cuda11_4.2.3_amd64.deb</id>
     <title>datacenter-gpu-manager-4-proprietary-cuda11_4.2.3_amd64.deb (2025-05-01 19:43)</title>
     <updated>2025-05-01T19:43:00+00:00</updated>
@@ -52200,6 +52221,27 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-proprietary-cuda11_4.0.0_amd64.deb</id>
     <title>datacenter-gpu-manager-4-proprietary-cuda11_4.0.0_amd64.deb (2024-12-10 23:00)</title>
     <updated>2024-12-10T23:00:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-multinode_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-multinode_4.3.0-1_amd64.deb (2025-07-24 19:48)</title>
+    <updated>2025-07-24T19:48:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-multinode-cuda12_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-multinode-cuda12_4.3.0-1_amd64.deb (2025-07-24 19:47)</title>
+    <updated>2025-07-24T19:47:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-dev_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-dev_4.3.0-1_amd64.deb (2025-07-24 19:47)</title>
+    <updated>2025-07-24T19:47:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -52253,6 +52295,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-cuda-all_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda-all_4.3.0-1_amd64.deb (2025-07-24 19:46)</title>
+    <updated>2025-07-24T19:46:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-cuda-all_4.2.3_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda-all_4.2.3_amd64.deb (2025-05-01 19:41)</title>
     <updated>2025-05-01T19:41:00+00:00</updated>
@@ -52298,6 +52347,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-cuda-all_4.0.0_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda-all_4.0.0_amd64.deb (2024-12-10 22:58)</title>
     <updated>2024-12-10T22:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-cuda12_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda12_4.3.0-1_amd64.deb (2025-07-24 19:46)</title>
+    <updated>2025-07-24T19:46:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
@@ -52351,6 +52407,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-cuda11_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda11_4.3.0-1_amd64.deb (2025-07-24 19:46)</title>
+    <updated>2025-07-24T19:46:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-cuda11_4.2.3_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda11_4.2.3_amd64.deb (2025-05-01 19:42)</title>
     <updated>2025-05-01T19:42:00+00:00</updated>
@@ -52396,6 +52459,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-cuda11_4.0.0_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda11_4.0.0_amd64.deb (2024-12-10 22:59)</title>
     <updated>2024-12-10T22:59:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-4-core_4.3.0-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-core_4.3.0-1_amd64.deb (2025-07-24 19:46)</title>
+    <updated>2025-07-24T19:46:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
