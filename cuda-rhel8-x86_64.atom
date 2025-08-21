@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 8 (x86_64)</title>
-  <updated>2025-08-19T20:58:09+00:00</updated>
+  <updated>2025-08-21T00:55:04+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/xorg-x11-nvidia-580.65.06-1.el8.x86_64.rpm</id>
@@ -41879,6 +41879,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-580.65.06-4.18.0-553.70.1-580.65.06-3.el8_10.x86_64.rpm</id>
+    <title>kmod-nvidia-580.65.06-4.18.0-553.70.1-580.65.06-3.el8_10.x86_64.rpm (2025-08-18 04:07)</title>
+    <updated>2025-08-18T04:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-575.57.08-4.18.0-553.60.1-575.57.08-3.el8_10.x86_64.rpm</id>
     <title>kmod-nvidia-575.57.08-4.18.0-553.60.1-575.57.08-3.el8_10.x86_64.rpm (2025-07-09 01:02)</title>
     <updated>2025-07-09T01:02:00+00:00</updated>
@@ -41903,6 +41910,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-575.51.03-4.18.0-553.53.1-575.51.03-3.el8_10.x86_64.rpm</id>
     <title>kmod-nvidia-575.51.03-4.18.0-553.53.1-575.51.03-3.el8_10.x86_64.rpm (2025-05-21 02:03)</title>
     <updated>2025-05-21T02:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-570.172.08-4.18.0-553.70.1-570.172.08-3.el8_10.x86_64.rpm</id>
+    <title>kmod-nvidia-570.172.08-4.18.0-553.70.1-570.172.08-3.el8_10.x86_64.rpm (2025-08-18 03:43)</title>
+    <updated>2025-08-18T03:43:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -42379,6 +42393,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-545.23.06-4.18.0-477.27.1-545.23.06-3.el8_8.x86_64.rpm</id>
     <title>kmod-nvidia-545.23.06-4.18.0-477.27.1-545.23.06-3.el8_8.x86_64.rpm (2023-10-19 10:55)</title>
     <updated>2023-10-19T10:55:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/kmod-nvidia-535.261.03-4.18.0-553.70.1-535.261.03-3.el8_10.x86_64.rpm</id>
+    <title>kmod-nvidia-535.261.03-4.18.0-553.70.1-535.261.03-3.el8_10.x86_64.rpm (2025-08-18 04:23)</title>
+    <updated>2025-08-18T04:23:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
@@ -44595,6 +44616,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-x11-1.0.3-1.el8.x86_64.rpm</id>
+    <title>egl-x11-1.0.3-1.el8.x86_64.rpm (2025-08-14 13:16)</title>
+    <updated>2025-08-14T13:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-x11-1.0.3-1.el8.i686.rpm</id>
+    <title>egl-x11-1.0.3-1.el8.i686.rpm (2025-08-14 13:16)</title>
+    <updated>2025-08-14T13:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-x11-1.0.2-1.el8.x86_64.rpm</id>
     <title>egl-x11-1.0.2-1.el8.x86_64.rpm (2025-06-12 06:36)</title>
     <updated>2025-06-12T06:36:00+00:00</updated>
@@ -44679,6 +44714,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-wayland-devel-1.1.20-1.el8.x86_64.rpm</id>
+    <title>egl-wayland-devel-1.1.20-1.el8.x86_64.rpm (2025-08-07 15:35)</title>
+    <updated>2025-08-07T15:35:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-wayland-devel-1.1.20-1.el8.i686.rpm</id>
+    <title>egl-wayland-devel-1.1.20-1.el8.i686.rpm (2025-08-07 15:35)</title>
+    <updated>2025-08-07T15:35:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-wayland-devel-1.1.19-2.el8.x86_64.rpm</id>
     <title>egl-wayland-devel-1.1.19-2.el8.x86_64.rpm (2025-04-23 08:36)</title>
     <updated>2025-04-23T08:36:00+00:00</updated>
@@ -44745,6 +44794,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-wayland-devel-1.1.13-1.el8.i686.rpm</id>
     <title>egl-wayland-devel-1.1.13-1.el8.i686.rpm (2024-07-26 22:05)</title>
     <updated>2024-07-26T22:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-wayland-1.1.20-1.el8.x86_64.rpm</id>
+    <title>egl-wayland-1.1.20-1.el8.x86_64.rpm (2025-08-07 15:35)</title>
+    <updated>2025-08-07T15:35:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/egl-wayland-1.1.20-1.el8.i686.rpm</id>
+    <title>egl-wayland-1.1.20-1.el8.i686.rpm (2025-08-07 15:35)</title>
+    <updated>2025-08-07T15:35:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/"/>
   </entry>
