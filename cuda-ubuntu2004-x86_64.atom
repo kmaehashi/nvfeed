@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 20.04 (x86_64)</title>
-  <updated>2025-09-06T02:02:27+00:00</updated>
+  <updated>2025-09-17T19:47:08+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/xserver-xorg-video-nvidia-575_575.57.08-0ubuntu1_amd64.deb</id>
@@ -52725,6 +52725,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager_2.0.13_amd64.deb</id>
     <title>datacenter-gpu-manager_2.0.13_amd64.deb (2020-10-19 16:43)</title>
     <updated>2020-10-19T16:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/datacenter-gpu-manager-exporter_4.5.2-1_amd64.deb</id>
+    <title>datacenter-gpu-manager-exporter_4.5.2-1_amd64.deb (2025-09-17 15:06)</title>
+    <updated>2025-09-17T15:06:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/"/>
   </entry>
