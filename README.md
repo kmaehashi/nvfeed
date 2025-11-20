@@ -5,5 +5,5 @@
 Get the latest updates on NVIDIA repositories.
 
 * CUDA
-    * [Ubuntu 20.04](https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/): https://kmaehashi.github.io/nvfeed/cuda-ubuntu2004-x86_64.atom
-    * [RHEL 8](https://developer.download.nvidia.com/compute/cuda/repos/rhel8/x86_64/): https://kmaehashi.github.io/nvfeed/cuda-rhel8-x86_64.atom
+    * [Ubuntu 24.04](https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/): https://kmaehashi.github.io/nvfeed/cuda-ubuntu2404-x86_64.atom
+    * [RHEL 10](https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/): https://kmaehashi.github.io/nvfeed/cuda-rhel10-x86_64.atom
