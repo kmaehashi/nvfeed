@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2025-11-24T17:16:34+00:00</updated>
+  <updated>2025-12-01T21:25:03+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia-580_580.105.08-0ubuntu1_amd64.deb</id>
@@ -1653,6 +1653,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvjpeg2k0_0.8.1.40-1_amd64.deb</id>
     <title>nvjpeg2k0_0.8.1.40-1_amd64.deb (2024-11-16 03:45)</title>
     <updated>2024-11-16T03:45:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvimgcodec_0.7.0.11-1_amd64.deb</id>
+    <title>nvimgcodec_0.7.0.11-1_amd64.deb (2025-11-14 17:43)</title>
+    <updated>2025-11-14T17:43:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -7180,6 +7187,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvcomp_5.1.0-1_amd64.deb</id>
+    <title>nvcomp_5.1.0-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvcomp_5.0.0-1_amd64.deb</id>
     <title>nvcomp_5.0.0-1_amd64.deb (2025-07-30 15:10)</title>
     <updated>2025-07-30T15:10:00+00:00</updated>
@@ -7208,9 +7222,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvcomp-cuda-13_5.1.0.21-1_amd64.deb</id>
+    <title>nvcomp-cuda-13_5.1.0.21-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvcomp-cuda-13_5.0.0.6-1_amd64.deb</id>
     <title>nvcomp-cuda-13_5.0.0.6-1_amd64.deb (2025-07-30 15:10)</title>
     <updated>2025-07-30T15:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvcomp-cuda-12_5.1.0.21-1_amd64.deb</id>
+    <title>nvcomp-cuda-12_5.1.0.21-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -7267,6 +7295,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvcomp-cuda-11_4.1.0.6-1_amd64.deb</id>
     <title>nvcomp-cuda-11_4.1.0.6-1_amd64.deb (2024-10-22 03:41)</title>
     <updated>2024-10-22T03:41:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvcomp0_5.1.0-1_amd64.deb</id>
+    <title>nvcomp0_5.1.0-1_amd64.deb (2025-11-22 00:57)</title>
+    <updated>2025-11-22T00:57:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -10876,9 +10911,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvimgcodec-cuda-13_0.7.0.11-1_amd64.deb</id>
+    <title>libnvimgcodec-cuda-13_0.7.0.11-1_amd64.deb (2025-11-14 17:43)</title>
+    <updated>2025-11-14T17:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvimgcodec-cuda-13_0.6.0.32-1_amd64.deb</id>
     <title>libnvimgcodec-cuda-13_0.6.0.32-1_amd64.deb (2025-07-02 09:16)</title>
     <updated>2025-07-02T09:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvimgcodec-cuda-12_0.7.0.11-1_amd64.deb</id>
+    <title>libnvimgcodec-cuda-12_0.7.0.11-1_amd64.deb (2025-11-14 17:42)</title>
+    <updated>2025-11-14T17:42:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -15384,9 +15433,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-static-cuda-13_5.1.0.21-1_amd64.deb</id>
+    <title>libnvcomp5-static-cuda-13_5.1.0.21-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-static-cuda-13_5.0.0.6-1_amd64.deb</id>
     <title>libnvcomp5-static-cuda-13_5.0.0.6-1_amd64.deb (2025-07-30 15:10)</title>
     <updated>2025-07-30T15:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-static-cuda-12_5.1.0.21-1_amd64.deb</id>
+    <title>libnvcomp5-static-cuda-12_5.1.0.21-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -15405,9 +15468,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-dev-cuda-13_5.1.0.21-1_amd64.deb</id>
+    <title>libnvcomp5-dev-cuda-13_5.1.0.21-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-dev-cuda-13_5.0.0.6-1_amd64.deb</id>
     <title>libnvcomp5-dev-cuda-13_5.0.0.6-1_amd64.deb (2025-07-30 15:10)</title>
     <updated>2025-07-30T15:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-dev-cuda-12_5.1.0.21-1_amd64.deb</id>
+    <title>libnvcomp5-dev-cuda-12_5.1.0.21-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -15426,9 +15503,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-cuda-13_5.1.0.21-1_amd64.deb</id>
+    <title>libnvcomp5-cuda-13_5.1.0.21-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-cuda-13_5.0.0.6-1_amd64.deb</id>
     <title>libnvcomp5-cuda-13_5.0.0.6-1_amd64.deb (2025-07-30 15:10)</title>
     <updated>2025-07-30T15:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvcomp5-cuda-12_5.1.0.21-1_amd64.deb</id>
+    <title>libnvcomp5-cuda-12_5.1.0.21-1_amd64.deb (2025-11-22 00:56)</title>
+    <updated>2025-11-22T00:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -19024,6 +19115,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan_3.9.0-1_amd64.deb</id>
+    <title>holoscan_3.9.0-1_amd64.deb (2025-11-25 13:47)</title>
+    <updated>2025-11-25T13:47:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan_3.8.0-1_amd64.deb</id>
     <title>holoscan_3.8.0-1_amd64.deb (2025-11-02 05:03)</title>
     <updated>2025-11-02T05:03:00+00:00</updated>
@@ -19080,6 +19178,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-cuda-13_3.9.0.1-1_amd64.deb</id>
+    <title>holoscan-cuda-13_3.9.0.1-1_amd64.deb (2025-11-25 13:47)</title>
+    <updated>2025-11-25T13:47:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-cuda-13_3.8.0.1-1_amd64.deb</id>
     <title>holoscan-cuda-13_3.8.0.1-1_amd64.deb (2025-11-02 05:03)</title>
     <updated>2025-11-02T05:03:00+00:00</updated>
@@ -19090,6 +19195,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-cuda-13_3.7.0.1-1_amd64.deb</id>
     <title>holoscan-cuda-13_3.7.0.1-1_amd64.deb (2025-09-30 19:28)</title>
     <updated>2025-09-30T19:28:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-cuda-12_3.9.0.1-1_amd64.deb</id>
+    <title>holoscan-cuda-12_3.9.0.1-1_amd64.deb (2025-11-25 13:47)</title>
+    <updated>2025-11-25T13:47:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
