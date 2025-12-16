@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2025-12-12T17:25:41+00:00</updated>
+  <updated>2025-12-16T09:43:10+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_590.44.01-0ubuntu1_amd64.deb</id>
@@ -589,6 +589,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt-dev_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>tensorrt-dev_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:16)</title>
     <updated>2024-09-01T04:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/sdkmanager_2.4.0-13234_amd64.deb</id>
+    <title>sdkmanager_2.4.0-13234_amd64.deb (2025-12-15 08:06)</title>
+    <updated>2025-12-15T08:06:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
