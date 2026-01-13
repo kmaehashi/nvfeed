@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-01-12T21:42:49+00:00</updated>
+  <updated>2026-01-13T00:47:35+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_590.48.01-0ubuntu1_amd64.deb</id>
@@ -18114,6 +18114,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libcuobjserver_1.0.0.26-1_amd64.deb</id>
+    <title>libcuobjserver_1.0.0.26-1_amd64.deb (2026-01-12 22:19)</title>
+    <updated>2026-01-12T22:19:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libcuobjserver-dev_1.0.0.26-1_amd64.deb</id>
+    <title>libcuobjserver-dev_1.0.0.26-1_amd64.deb (2026-01-12 22:19)</title>
+    <updated>2026-01-12T22:19:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libcuobjclient-dev-13-1_1.0.0.26-1_amd64.deb</id>
     <title>libcuobjclient-dev-13-1_1.0.0.26-1_amd64.deb (2025-12-23 16:47)</title>
     <updated>2025-12-23T16:47:00+00:00</updated>
@@ -22443,6 +22457,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuquantum0_25.09.0-1_amd64.deb</id>
     <title>cuquantum0_25.09.0-1_amd64.deb (2025-09-05 05:14)</title>
     <updated>2025-09-05T05:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuobjserver_1.0.0-1_amd64.deb</id>
+    <title>cuobjserver_1.0.0-1_amd64.deb (2026-01-12 22:19)</title>
+    <updated>2026-01-12T22:19:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
