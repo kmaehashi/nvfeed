@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 10 (x86_64)</title>
-  <updated>2026-01-12T21:25:15+00:00</updated>
+  <updated>2026-01-13T00:35:38+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvtiff-cuda-13-0.6.0.78-1.x86_64.rpm</id>
@@ -2518,6 +2518,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcuobjserver-devel-1.0.0.26-1.x86_64.rpm</id>
+    <title>libcuobjserver-devel-1.0.0.26-1.x86_64.rpm (2026-01-12 22:22)</title>
+    <updated>2026-01-12T22:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcuobjserver-1.0.0.26-1.x86_64.rpm</id>
+    <title>libcuobjserver-1.0.0.26-1.x86_64.rpm (2026-01-12 22:22)</title>
+    <updated>2026-01-12T22:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcuobjclient-devel-13-1-1.0.0.26-1.x86_64.rpm</id>
     <title>libcuobjclient-devel-13-1-1.0.0.26-1.x86_64.rpm (2025-12-23 16:54)</title>
     <updated>2025-12-23T16:54:00+00:00</updated>
@@ -4341,6 +4355,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp0-0.7.0-1.x86_64.rpm</id>
     <title>cusolvermp0-0.7.0-1.x86_64.rpm (2025-08-01 07:43)</title>
     <updated>2025-08-01T07:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cuobjserver-1.0.0-1.x86_64.rpm</id>
+    <title>cuobjserver-1.0.0-1.x86_64.rpm (2026-01-12 22:22)</title>
+    <updated>2026-01-12T22:22:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
