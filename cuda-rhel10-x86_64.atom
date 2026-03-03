@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 10 (x86_64)</title>
-  <updated>2026-02-27T01:16:11+00:00</updated>
+  <updated>2026-03-03T01:07:28+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvtiff-cuda-13-0.6.0.78-1.x86_64.rpm</id>
@@ -1503,6 +1503,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvattest-1.2.0.1772475102-1.x86_64.rpm</id>
+    <title>nvattest-1.2.0.1772475102-1.x86_64.rpm (2026-03-02 19:55)</title>
+    <updated>2026-03-02T19:55:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvattest-1.1.1.1770245582-1.x86_64.rpm</id>
     <title>nvattest-1.1.1.1770245582-1.x86_64.rpm (2026-02-05 00:16)</title>
     <updated>2026-02-05T00:16:00+00:00</updated>
@@ -2805,6 +2812,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libnvat-devel-1.2.0.1772475102-1.x86_64.rpm</id>
+    <title>libnvat-devel-1.2.0.1772475102-1.x86_64.rpm (2026-03-02 19:55)</title>
+    <updated>2026-03-02T19:55:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libnvat-devel-1.1.1.1770245582-1.x86_64.rpm</id>
     <title>libnvat-devel-1.1.1.1770245582-1.x86_64.rpm (2026-02-05 00:16)</title>
     <updated>2026-02-05T00:16:00+00:00</updated>
@@ -2815,6 +2829,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libnvat-devel-1.1.0.1770093675-1.x86_64.rpm</id>
     <title>libnvat-devel-1.1.0.1770093675-1.x86_64.rpm (2026-02-03 05:58)</title>
     <updated>2026-02-03T05:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libnvat-1.2.0.1772475102-1.x86_64.rpm</id>
+    <title>libnvat-1.2.0.1772475102-1.x86_64.rpm (2026-03-02 19:55)</title>
+    <updated>2026-03-02T19:55:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -4821,9 +4842,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcorelib1-devel-1.0.0.1772474517-1.x86_64.rpm</id>
+    <title>libcorelib1-devel-1.0.0.1772474517-1.x86_64.rpm (2026-03-02 19:45)</title>
+    <updated>2026-03-02T19:45:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcorelib1-devel-1.0.0.1770072670-1.x86_64.rpm</id>
     <title>libcorelib1-devel-1.0.0.1770072670-1.x86_64.rpm (2026-02-02 23:58)</title>
     <updated>2026-02-02T23:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcorelib1-1.0.0.1772474517-1.x86_64.rpm</id>
+    <title>libcorelib1-1.0.0.1772474517-1.x86_64.rpm (2026-03-02 19:45)</title>
+    <updated>2026-03-02T19:45:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -8583,6 +8618,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cublasmp0-0.5.1-1.x86_64.rpm</id>
     <title>cublasmp0-0.5.1-1.x86_64.rpm (2025-07-28 22:54)</title>
     <updated>2025-07-28T22:54:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/corelib-1.0.0.1772474517-1.x86_64.rpm</id>
+    <title>corelib-1.0.0.1772474517-1.x86_64.rpm (2026-03-02 19:45)</title>
+    <updated>2026-03-02T19:45:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
