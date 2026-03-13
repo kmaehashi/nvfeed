@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 10 (x86_64)</title>
-  <updated>2026-03-12T23:44:50+00:00</updated>
+  <updated>2026-03-13T20:28:42+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvtiff-cuda-13-0.6.0.78-1.x86_64.rpm</id>
@@ -5409,9 +5409,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcublas13-devel-cuda-13-13.2.2.1-1.x86_64.rpm</id>
+    <title>libcublas13-devel-cuda-13-13.2.2.1-1.x86_64.rpm (2026-03-12 20:25)</title>
+    <updated>2026-03-12T20:25:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcublas13-devel-cuda-13-13.1.1.1-1.x86_64.rpm</id>
     <title>libcublas13-devel-cuda-13-13.1.1.1-1.x86_64.rpm (2026-03-12 17:02)</title>
     <updated>2026-03-12T17:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcublas13-cuda-13-13.2.2.1-1.x86_64.rpm</id>
+    <title>libcublas13-cuda-13-13.2.2.1-1.x86_64.rpm (2026-03-12 20:25)</title>
+    <updated>2026-03-12T20:25:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -9539,6 +9553,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cublas-cuda-13-13.2.2.1-1.x86_64.rpm</id>
+    <title>cublas-cuda-13-13.2.2.1-1.x86_64.rpm (2026-03-12 20:25)</title>
+    <updated>2026-03-12T20:25:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cublas-cuda-13-13.1.1.1-1.x86_64.rpm</id>
     <title>cublas-cuda-13-13.1.1.1-1.x86_64.rpm (2026-03-12 17:01)</title>
     <updated>2026-03-12T17:01:00+00:00</updated>
@@ -9549,6 +9570,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cublas-cuda-12-12.9.2.4-1.x86_64.rpm</id>
     <title>cublas-cuda-12-12.9.2.4-1.x86_64.rpm (2026-03-06 23:31)</title>
     <updated>2026-03-06T23:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cublas-13.2.2-1.x86_64.rpm</id>
+    <title>cublas-13.2.2-1.x86_64.rpm (2026-03-12 20:25)</title>
+    <updated>2026-03-12T20:25:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -9675,6 +9703,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cublasmp0-0.5.1-1.x86_64.rpm</id>
     <title>cublasmp0-0.5.1-1.x86_64.rpm (2025-07-28 22:54)</title>
     <updated>2025-07-28T22:54:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cublas13-13.2.2-1.x86_64.rpm</id>
+    <title>cublas13-13.2.2-1.x86_64.rpm (2026-03-12 20:25)</title>
+    <updated>2026-03-12T20:25:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
