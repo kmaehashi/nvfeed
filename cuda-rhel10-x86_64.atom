@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 10 (x86_64)</title>
-  <updated>2026-03-13T20:28:42+00:00</updated>
+  <updated>2026-03-16T20:43:07+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvtiff-cuda-13-0.6.0.78-1.x86_64.rpm</id>
@@ -3414,9 +3414,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcutensor2-devel-cuda-13-2.6.0.4-1.x86_64.rpm</id>
+    <title>libcutensor2-devel-cuda-13-2.6.0.4-1.x86_64.rpm (2026-03-09 22:57)</title>
+    <updated>2026-03-09T22:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcutensor2-devel-cuda-13-2.5.0.2-1.x86_64.rpm</id>
     <title>libcutensor2-devel-cuda-13-2.5.0.2-1.x86_64.rpm (2026-01-21 16:16)</title>
     <updated>2026-01-21T16:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcutensor2-devel-cuda-12-2.6.0.4-1.x86_64.rpm</id>
+    <title>libcutensor2-devel-cuda-12-2.6.0.4-1.x86_64.rpm (2026-03-09 22:56)</title>
+    <updated>2026-03-09T22:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -3428,9 +3442,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcutensor2-cuda-13-2.6.0.4-1.x86_64.rpm</id>
+    <title>libcutensor2-cuda-13-2.6.0.4-1.x86_64.rpm (2026-03-09 22:56)</title>
+    <updated>2026-03-09T22:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcutensor2-cuda-13-2.5.0.2-1.x86_64.rpm</id>
     <title>libcutensor2-cuda-13-2.5.0.2-1.x86_64.rpm (2026-01-21 16:15)</title>
     <updated>2026-01-21T16:15:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcutensor2-cuda-12-2.6.0.4-1.x86_64.rpm</id>
+    <title>libcutensor2-cuda-12-2.6.0.4-1.x86_64.rpm (2026-03-09 22:56)</title>
+    <updated>2026-03-09T22:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -6459,9 +6487,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cutensor-cuda-13-2.6.0.4-1.x86_64.rpm</id>
+    <title>cutensor-cuda-13-2.6.0.4-1.x86_64.rpm (2026-03-09 22:56)</title>
+    <updated>2026-03-09T22:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cutensor-cuda-13-2.5.0.2-1.x86_64.rpm</id>
     <title>cutensor-cuda-13-2.5.0.2-1.x86_64.rpm (2026-01-21 16:15)</title>
     <updated>2026-01-21T16:15:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cutensor-cuda-12-2.6.0.4-1.x86_64.rpm</id>
+    <title>cutensor-cuda-12-2.6.0.4-1.x86_64.rpm (2026-03-09 22:56)</title>
+    <updated>2026-03-09T22:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -6473,9 +6515,23 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cutensor-2.6.0-1.x86_64.rpm</id>
+    <title>cutensor-2.6.0-1.x86_64.rpm (2026-03-09 22:56)</title>
+    <updated>2026-03-09T22:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cutensor-2.5.0-1.x86_64.rpm</id>
     <title>cutensor-2.5.0-1.x86_64.rpm (2026-01-21 16:15)</title>
     <updated>2026-01-21T16:15:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cutensor2-2.6.0-1.x86_64.rpm</id>
+    <title>cutensor2-2.6.0-1.x86_64.rpm (2026-03-09 22:56)</title>
+    <updated>2026-03-09T22:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
