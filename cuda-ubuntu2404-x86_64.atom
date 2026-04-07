@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-04-06T20:35:56+00:00</updated>
+  <updated>2026-04-07T20:46:15+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_595.58.03-1ubuntu1_amd64.deb</id>
@@ -306,6 +306,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>tensorrt_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>tensorrt_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>tensorrt_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:14)</title>
     <updated>2026-03-10T17:14:00+00:00</updated>
@@ -446,6 +460,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt-libs_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>tensorrt-libs_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt-libs_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>tensorrt-libs_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt-libs_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>tensorrt-libs_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:14)</title>
     <updated>2026-03-10T17:14:00+00:00</updated>
@@ -582,6 +610,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt-libs_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>tensorrt-libs_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:16)</title>
     <updated>2024-09-01T04:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>tensorrt-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/tensorrt-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>tensorrt-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -768,6 +810,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>python3-libnvinfer_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>python3-libnvinfer_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>python3-libnvinfer_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:14)</title>
     <updated>2026-03-10T17:14:00+00:00</updated>
@@ -904,6 +960,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>python3-libnvinfer_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:16)</title>
     <updated>2024-09-01T04:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer-lean_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>python3-libnvinfer-lean_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer-lean_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>python3-libnvinfer-lean_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -1048,6 +1118,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer-dispatch_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>python3-libnvinfer-dispatch_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer-dispatch_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>python3-libnvinfer-dispatch_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer-dispatch_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>python3-libnvinfer-dispatch_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:14)</title>
     <updated>2026-03-10T17:14:00+00:00</updated>
@@ -1184,6 +1268,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer-dispatch_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>python3-libnvinfer-dispatch_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:16)</title>
     <updated>2024-09-01T04:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>python3-libnvinfer-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/python3-libnvinfer-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>python3-libnvinfer-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -11142,6 +11240,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvonnxparsers-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvonnxparsers-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvonnxparsers-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvonnxparsers-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvonnxparsers-dev_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvonnxparsers-dev_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:14)</title>
     <updated>2026-03-10T17:14:00+00:00</updated>
@@ -11278,6 +11390,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvonnxparsers-dev_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>libnvonnxparsers-dev_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:14)</title>
     <updated>2024-09-01T04:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvonnxparsers10_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvonnxparsers10_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvonnxparsers10_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvonnxparsers10_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -11975,6 +12101,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-win-builder-resource10_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-win-builder-resource10_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-win-builder-resource10_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-win-builder-resource10_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-win-builder-resource10_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvinfer-win-builder-resource10_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:14)</title>
     <updated>2026-03-10T17:14:00+00:00</updated>
@@ -12069,6 +12209,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-win-builder-resource10_10.10.0.31-1+cuda12.9_amd64.deb</id>
     <title>libnvinfer-win-builder-resource10_10.10.0.31-1+cuda12.9_amd64.deb (2025-04-16 16:59)</title>
     <updated>2025-04-16T16:59:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-vc-plugin-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-vc-plugin-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-vc-plugin-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-vc-plugin-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -12209,6 +12363,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-vc-plugin-dev_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>libnvinfer-vc-plugin-dev_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:14)</title>
     <updated>2024-09-01T04:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-vc-plugin10_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-vc-plugin10_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-vc-plugin10_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-vc-plugin10_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -12451,6 +12619,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-safe-headers-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-safe-headers-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-safe-headers-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-safe-headers-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-safe-headers-dev_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvinfer-safe-headers-dev_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:13)</title>
     <updated>2026-03-10T17:13:00+00:00</updated>
@@ -12461,6 +12643,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-safe-headers-dev_10.16.0.72-1+cuda12.9_amd64.deb</id>
     <title>libnvinfer-safe-headers-dev_10.16.0.72-1+cuda12.9_amd64.deb (2026-03-10 16:58)</title>
     <updated>2026-03-10T16:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-plugin-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-plugin-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-plugin-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-plugin-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -12605,6 +12801,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-plugin10_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-plugin10_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-plugin10_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-plugin10_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-plugin10_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvinfer-plugin10_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:13)</title>
     <updated>2026-03-10T17:13:00+00:00</updated>
@@ -12741,6 +12951,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-plugin10_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>libnvinfer-plugin10_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:14)</title>
     <updated>2024-09-01T04:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-lean-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-lean-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-lean-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-lean-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -12885,6 +13109,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-lean10_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-lean10_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-lean10_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-lean10_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-lean10_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvinfer-lean10_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:13)</title>
     <updated>2026-03-10T17:13:00+00:00</updated>
@@ -13025,6 +13263,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-python-plugin-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-headers-python-plugin-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-python-plugin-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-headers-python-plugin-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-python-plugin-dev_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvinfer-headers-python-plugin-dev_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:13)</title>
     <updated>2026-03-10T17:13:00+00:00</updated>
@@ -13119,6 +13371,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-python-plugin-dev_10.10.0.31-1+cuda12.9_amd64.deb</id>
     <title>libnvinfer-headers-python-plugin-dev_10.10.0.31-1+cuda12.9_amd64.deb (2025-04-16 16:58)</title>
     <updated>2025-04-16T16:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-plugin-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-headers-plugin-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-plugin-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-headers-plugin-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -13263,6 +13529,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-headers-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-headers-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-dev_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvinfer-headers-dev_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:13)</title>
     <updated>2026-03-10T17:13:00+00:00</updated>
@@ -13399,6 +13679,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-headers-dev_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>libnvinfer-headers-dev_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:10)</title>
     <updated>2024-09-01T04:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-dispatch-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-dispatch-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-dispatch-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-dispatch-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -13543,6 +13837,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-dispatch10_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-dispatch10_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-dispatch10_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-dispatch10_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-dispatch10_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvinfer-dispatch10_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:13)</title>
     <updated>2026-03-10T17:13:00+00:00</updated>
@@ -13679,6 +13987,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-dispatch10_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>libnvinfer-dispatch10_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:09)</title>
     <updated>2024-09-01T04:09:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-dev_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-dev_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-dev_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-dev_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -13823,6 +14145,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-bin_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer-bin_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:52)</title>
+    <updated>2026-03-31T05:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-bin_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer-bin_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:40)</title>
+    <updated>2026-03-31T05:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-bin_10.16.0.72-1+cuda13.2_amd64.deb</id>
     <title>libnvinfer-bin_10.16.0.72-1+cuda13.2_amd64.deb (2026-03-10 17:13)</title>
     <updated>2026-03-10T17:13:00+00:00</updated>
@@ -13959,6 +14295,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer-bin_10.4.0.26-1+cuda12.6_amd64.deb</id>
     <title>libnvinfer-bin_10.4.0.26-1+cuda12.6_amd64.deb (2024-09-01 04:07)</title>
     <updated>2024-09-01T04:07:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer10_10.16.1.11-1+cuda13.2_amd64.deb</id>
+    <title>libnvinfer10_10.16.1.11-1+cuda13.2_amd64.deb (2026-03-31 05:53)</title>
+    <updated>2026-03-31T05:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvinfer10_10.16.1.11-1+cuda12.9_amd64.deb</id>
+    <title>libnvinfer10_10.16.1.11-1+cuda12.9_amd64.deb (2026-03-31 05:41)</title>
+    <updated>2026-03-31T05:41:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
