@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-04-14T17:03:30+00:00</updated>
+  <updated>2026-04-21T00:28:27+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_595.58.03-1ubuntu1_amd64.deb</id>
@@ -20914,6 +20914,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl-dev_2.30.3-1+cuda13.2_amd64.deb</id>
+    <title>libnccl-dev_2.30.3-1+cuda13.2_amd64.deb (2026-04-16 03:58)</title>
+    <updated>2026-04-16T03:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl-dev_2.30.3-1+cuda12.9_amd64.deb</id>
+    <title>libnccl-dev_2.30.3-1+cuda12.9_amd64.deb (2026-04-15 22:14)</title>
+    <updated>2026-04-15T22:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl-dev_2.29.7-1+cuda13.2_amd64.deb</id>
     <title>libnccl-dev_2.29.7-1+cuda13.2_amd64.deb (2026-02-27 14:27)</title>
     <updated>2026-02-27T14:27:00+00:00</updated>
@@ -21071,6 +21085,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl-dev_2.22.3-1+cuda12.6_amd64.deb</id>
     <title>libnccl-dev_2.22.3-1+cuda12.6_amd64.deb (2024-07-24 19:18)</title>
     <updated>2024-07-24T19:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl2_2.30.3-1+cuda13.2_amd64.deb</id>
+    <title>libnccl2_2.30.3-1+cuda13.2_amd64.deb (2026-04-16 03:58)</title>
+    <updated>2026-04-16T03:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl2_2.30.3-1+cuda12.9_amd64.deb</id>
+    <title>libnccl2_2.30.3-1+cuda12.9_amd64.deb (2026-04-15 22:14)</title>
+    <updated>2026-04-15T22:14:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
