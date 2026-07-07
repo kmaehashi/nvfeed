@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-07-02T19:57:02+00:00</updated>
+  <updated>2026-07-07T20:31:39+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_610.43.02-1ubuntu1_amd64.deb</id>
@@ -10816,6 +10816,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvidia-compute-utils-530_550.90.07-0ubuntu1_amd64.deb</id>
     <title>nvidia-compute-utils-530_550.90.07-0ubuntu1_amd64.deb (2024-06-04 14:40)</title>
     <updated>2024-06-04T14:40:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvfwupd_2.1.2-1_amd64.deb</id>
+    <title>nvfwupd_2.1.2-1_amd64.deb (2026-07-07 00:14)</title>
+    <updated>2026-07-07T00:14:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
