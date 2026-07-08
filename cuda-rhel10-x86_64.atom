@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 10 (x86_64)</title>
-  <updated>2026-07-07T20:09:14+00:00</updated>
+  <updated>2026-07-08T16:12:09+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/tensorrt-libs-11.1.0.106-1.cuda13.3.x86_64.rpm</id>
@@ -6228,6 +6228,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcusolvermp0-devel-cuda-13-0.9.0.6427-1.x86_64.rpm</id>
+    <title>libcusolvermp0-devel-cuda-13-0.9.0.6427-1.x86_64.rpm (2026-06-25 22:22)</title>
+    <updated>2026-06-25T22:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcusolvermp0-devel-cuda-13-0.8.0.3126-1.x86_64.rpm</id>
     <title>libcusolvermp0-devel-cuda-13-0.8.0.3126-1.x86_64.rpm (2026-04-06 21:20)</title>
     <updated>2026-04-06T21:20:00+00:00</updated>
@@ -6252,6 +6259,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcusolvermp0-devel-cuda-13-0.7.0.833-1.x86_64.rpm</id>
     <title>libcusolvermp0-devel-cuda-13-0.7.0.833-1.x86_64.rpm (2025-08-01 07:43)</title>
     <updated>2025-08-01T07:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcusolvermp0-devel-cuda-12-0.9.0.6427-1.x86_64.rpm</id>
+    <title>libcusolvermp0-devel-cuda-12-0.9.0.6427-1.x86_64.rpm (2026-06-25 22:22)</title>
+    <updated>2026-06-25T22:22:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -6284,6 +6298,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcusolvermp0-cuda-13-0.9.0.6427-1.x86_64.rpm</id>
+    <title>libcusolvermp0-cuda-13-0.9.0.6427-1.x86_64.rpm (2026-06-25 22:22)</title>
+    <updated>2026-06-25T22:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcusolvermp0-cuda-13-0.8.0.3126-1.x86_64.rpm</id>
     <title>libcusolvermp0-cuda-13-0.8.0.3126-1.x86_64.rpm (2026-04-06 21:20)</title>
     <updated>2026-04-06T21:20:00+00:00</updated>
@@ -6308,6 +6329,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcusolvermp0-cuda-13-0.7.0.833-1.x86_64.rpm</id>
     <title>libcusolvermp0-cuda-13-0.7.0.833-1.x86_64.rpm (2025-08-01 07:43)</title>
     <updated>2025-08-01T07:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libcusolvermp0-cuda-12-0.9.0.6427-1.x86_64.rpm</id>
+    <title>libcusolvermp0-cuda-12-0.9.0.6427-1.x86_64.rpm (2026-06-25 22:22)</title>
+    <updated>2026-06-25T22:22:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -10967,6 +10995,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp-cuda-13-0.9.0.6427-1.x86_64.rpm</id>
+    <title>cusolvermp-cuda-13-0.9.0.6427-1.x86_64.rpm (2026-06-25 22:22)</title>
+    <updated>2026-06-25T22:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp-cuda-13-0.8.0.3126-1.x86_64.rpm</id>
     <title>cusolvermp-cuda-13-0.8.0.3126-1.x86_64.rpm (2026-04-06 21:20)</title>
     <updated>2026-04-06T21:20:00+00:00</updated>
@@ -10991,6 +11026,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp-cuda-13-0.7.0.833-1.x86_64.rpm</id>
     <title>cusolvermp-cuda-13-0.7.0.833-1.x86_64.rpm (2025-08-01 07:43)</title>
     <updated>2025-08-01T07:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp-cuda-12-0.9.0.6427-1.x86_64.rpm</id>
+    <title>cusolvermp-cuda-12-0.9.0.6427-1.x86_64.rpm (2026-06-25 22:22)</title>
+    <updated>2026-06-25T22:22:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -11023,6 +11065,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp-0.9.0-1.x86_64.rpm</id>
+    <title>cusolvermp-0.9.0-1.x86_64.rpm (2026-06-25 22:22)</title>
+    <updated>2026-06-25T22:22:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp-0.8.0-1.x86_64.rpm</id>
     <title>cusolvermp-0.8.0-1.x86_64.rpm (2026-04-06 21:20)</title>
     <updated>2026-04-06T21:20:00+00:00</updated>
@@ -11047,6 +11096,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp-0.7.0-1.x86_64.rpm</id>
     <title>cusolvermp-0.7.0-1.x86_64.rpm (2025-08-01 07:43)</title>
     <updated>2025-08-01T07:43:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/cusolvermp0-0.9.0-1.x86_64.rpm</id>
+    <title>cusolvermp0-0.9.0-1.x86_64.rpm (2026-06-25 22:22)</title>
+    <updated>2026-06-25T22:22:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
