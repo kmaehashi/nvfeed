@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-08-13T20:30:52+00:00</updated>
+  <updated>2026-08-26T16:39:07+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_610.57.04-1ubuntu1_amd64.deb</id>
@@ -6277,6 +6277,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvidia-hpc-benchmarks-openmpi_26.02.04-1_amd64.deb</id>
+    <title>nvidia-hpc-benchmarks-openmpi_26.02.04-1_amd64.deb (2026-08-18 20:17)</title>
+    <updated>2026-08-18T20:17:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvidia-hpc-benchmarks-openmpi_26.02.02-1_amd64.deb</id>
     <title>nvidia-hpc-benchmarks-openmpi_26.02.02-1_amd64.deb (2026-02-26 19:24)</title>
     <updated>2026-02-26T19:24:00+00:00</updated>
@@ -6301,6 +6308,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvidia-hpc-benchmarks-openmpi_25.02.04-1_amd64.deb</id>
     <title>nvidia-hpc-benchmarks-openmpi_25.02.04-1_amd64.deb (2025-02-19 00:50)</title>
     <updated>2025-02-19T00:50:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvidia-hpc-benchmarks-mpich_26.02.04-1_amd64.deb</id>
+    <title>nvidia-hpc-benchmarks-mpich_26.02.04-1_amd64.deb (2026-08-18 20:17)</title>
+    <updated>2026-08-18T20:17:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
