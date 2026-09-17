@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 10 (x86_64)</title>
-  <updated>2026-09-16T20:45:06+00:00</updated>
+  <updated>2026-09-17T04:29:26+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/tensorrt-libs-11.3.0.99-1.cuda13.4.x86_64.rpm</id>
@@ -2399,6 +2399,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvidia-fs-dkms-2.30.2-1.x86_64.rpm</id>
+    <title>nvidia-fs-dkms-2.30.2-1.x86_64.rpm (2026-08-26 23:53)</title>
+    <updated>2026-08-26T23:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvidia-fs-dkms-2.30.1-1.x86_64.rpm</id>
     <title>nvidia-fs-dkms-2.30.1-1.x86_64.rpm (2026-07-09 00:48)</title>
     <updated>2026-07-09T00:48:00+00:00</updated>
@@ -2437,6 +2444,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvidia-fs-dkms-2.26.6-1.x86_64.rpm</id>
     <title>nvidia-fs-dkms-2.26.6-1.x86_64.rpm (2025-07-28 06:16)</title>
     <updated>2025-07-28T06:16:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvidia-fs-2.30.2-1.x86_64.rpm</id>
+    <title>nvidia-fs-2.30.2-1.x86_64.rpm (2026-08-26 23:53)</title>
+    <updated>2026-08-26T23:53:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
