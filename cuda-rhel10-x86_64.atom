@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 10 (x86_64)</title>
-  <updated>2026-10-06T23:56:53+00:00</updated>
+  <updated>2026-10-07T04:10:11+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/tensorrt-libs-11.3.0.99-1.cuda13.4.x86_64.rpm</id>
@@ -3820,6 +3820,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvattest-2.0.0.1790976895-1.x86_64.rpm</id>
+    <title>nvattest-2.0.0.1790976895-1.x86_64.rpm (2026-10-05 21:18)</title>
+    <updated>2026-10-05T21:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvattest-1.2.2.1780962352-1.x86_64.rpm</id>
     <title>nvattest-1.2.2.1780962352-1.x86_64.rpm (2026-06-09 00:57)</title>
     <updated>2026-06-09T00:57:00+00:00</updated>
@@ -7264,6 +7271,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libnvat-devel-2.0.0.1790976895-1.x86_64.rpm</id>
+    <title>libnvat-devel-2.0.0.1790976895-1.x86_64.rpm (2026-10-05 21:18)</title>
+    <updated>2026-10-05T21:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libnvat-devel-1.2.2.1780962352-1.x86_64.rpm</id>
     <title>libnvat-devel-1.2.2.1780962352-1.x86_64.rpm (2026-06-09 00:56)</title>
     <updated>2026-06-09T00:56:00+00:00</updated>
@@ -7295,6 +7309,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libnvat-devel-1.1.0.1770093675-1.x86_64.rpm</id>
     <title>libnvat-devel-1.1.0.1770093675-1.x86_64.rpm (2026-02-03 05:58)</title>
     <updated>2026-02-03T05:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libnvat-2.0.0.1790976895-1.x86_64.rpm</id>
+    <title>libnvat-2.0.0.1790976895-1.x86_64.rpm (2026-10-05 21:18)</title>
+    <updated>2026-10-05T21:18:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>

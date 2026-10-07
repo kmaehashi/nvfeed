@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-10-07T00:16:22+00:00</updated>
+  <updated>2026-10-07T04:30:39+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_615.71.09-2ubuntu1_amd64.deb</id>
@@ -12531,6 +12531,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvcomp0_4.1.0-1_amd64.deb</id>
     <title>nvcomp0_4.1.0-1_amd64.deb (2024-10-22 03:41)</title>
     <updated>2024-10-22T03:41:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nvattest_2.0.0.1790976895-1_amd64.deb</id>
+    <title>nvattest_2.0.0.1790976895-1_amd64.deb (2026-10-05 21:18)</title>
+    <updated>2026-10-05T21:18:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -27095,6 +27102,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvat_2.0.0.1790976895-1_amd64.deb</id>
+    <title>libnvat_2.0.0.1790976895-1_amd64.deb (2026-10-05 21:18)</title>
+    <updated>2026-10-05T21:18:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvat_1.2.2.1780962352-1_amd64.deb</id>
     <title>libnvat_1.2.2.1780962352-1_amd64.deb (2026-06-09 00:54)</title>
     <updated>2026-06-09T00:54:00+00:00</updated>
@@ -27140,6 +27154,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvat_1.0.0.1765816912-1_amd64.deb</id>
     <title>libnvat_1.0.0.1765816912-1_amd64.deb (2025-12-15 22:23)</title>
     <updated>2025-12-15T22:23:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnvat-dev_2.0.0.1790976895-1_amd64.deb</id>
+    <title>libnvat-dev_2.0.0.1790976895-1_amd64.deb (2026-10-05 21:18)</title>
+    <updated>2026-10-05T21:18:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
