@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-10-19T10:06:53+00:00</updated>
+  <updated>2026-10-21T00:03:17+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_615.71.10-1ubuntu1_amd64.deb</id>
@@ -13021,6 +13021,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nsight-systems-2024.2.3_2024.2.3.38-1_amd64.deb</id>
     <title>nsight-systems-2024.2.3_2024.2.3.38-1_amd64.deb (2024-06-25 21:36)</title>
     <updated>2024-06-25T21:36:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nsight-dl_2026.2.26292.1317-1_amd64.deb</id>
+    <title>nsight-dl_2026.2.26292.1317-1_amd64.deb (2026-10-20 18:09)</title>
+    <updated>2026-10-20T18:09:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -28719,6 +28726,48 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libholoscan-visualization-dev-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>libholoscan-visualization-dev-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libholoscan-visualization-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>libholoscan-visualization-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libholoscan-vision5-dev-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>libholoscan-vision5-dev-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libholoscan-vision5-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>libholoscan-vision5-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libholoscan-inference-dev-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>libholoscan-inference-dev-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libholoscan-inference-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>libholoscan-inference-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libdcgm_4.7.0-2_amd64.deb</id>
     <title>libdcgm_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -35838,6 +35887,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan_5.0.0-1_amd64.deb</id>
+    <title>holoscan_5.0.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan_4.6.0-1_amd64.deb</id>
     <title>holoscan_4.6.0-1_amd64.deb (2026-08-22 06:20)</title>
     <updated>2026-08-22T06:20:00+00:00</updated>
@@ -35950,6 +36006,34 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-visualization_5.0.0.8.0-1_amd64.deb</id>
+    <title>holoscan-visualization_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-visualization-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>holoscan-visualization-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-vision_5.0.0.8.0-1_amd64.deb</id>
+    <title>holoscan-vision_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-vision-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>holoscan-vision-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-networking_0.2.0-1_amd64.deb</id>
     <title>holoscan-networking_0.2.0-1_amd64.deb (2025-06-26 20:35)</title>
     <updated>2025-06-26T20:35:00+00:00</updated>
@@ -35960,6 +36044,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-networking_0.1.0-1_amd64.deb</id>
     <title>holoscan-networking_0.1.0-1_amd64.deb (2025-05-17 01:15)</title>
     <updated>2025-05-17T01:15:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-inference_5.0.0.8.0-1_amd64.deb</id>
+    <title>holoscan-inference_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-inference-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>holoscan-inference-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -36128,6 +36226,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-cuda-12_3.7.0.1-1_amd64.deb</id>
     <title>holoscan-cuda-12_3.7.0.1-1_amd64.deb (2025-09-30 19:28)</title>
     <updated>2025-09-30T19:28:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-core_5.0.0.8.0-1_amd64.deb</id>
+    <title>holoscan-core_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-core-cuda-13_5.0.0.8.0-1_amd64.deb</id>
+    <title>holoscan-core-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
+    <updated>2026-10-17T12:12:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
