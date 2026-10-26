@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-10-22T20:34:36+00:00</updated>
+  <updated>2026-10-26T17:37:08+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_615.71.10-1ubuntu1_amd64.deb</id>
@@ -2052,6 +2052,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/open-nvdebug_2.1.0.1-1_amd64.deb</id>
     <title>open-nvdebug_2.1.0.1-1_amd64.deb (2026-06-11 15:27)</title>
     <updated>2026-06-11T15:27:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/nv-hostengine_4.7.1-2_amd64.deb</id>
+    <title>nv-hostengine_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -29454,6 +29461,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libdcgm_4.7.1-2_amd64.deb</id>
+    <title>libdcgm_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libdcgm_4.7.0-2_amd64.deb</id>
     <title>libdcgm_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -36412,6 +36426,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libcublas13-dev-cuda-13_13.8.2.12-1_amd64.deb</id>
+    <title>libcublas13-dev-cuda-13_13.8.2.12-1_amd64.deb (2026-10-25 10:42)</title>
+    <updated>2026-10-25T10:42:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libcublas13-dev-cuda-13_13.8.1.7-1_amd64.deb</id>
     <title>libcublas13-dev-cuda-13_13.8.1.7-1_amd64.deb (2026-09-26 22:58)</title>
     <updated>2026-09-26T22:58:00+00:00</updated>
@@ -36471,6 +36492,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libcublas13-dev-cuda-13_13.1.1.1-1_amd64.deb</id>
     <title>libcublas13-dev-cuda-13_13.1.1.1-1_amd64.deb (2026-03-12 17:02)</title>
     <updated>2026-03-12T17:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libcublas13-cuda-13_13.8.2.12-1_amd64.deb</id>
+    <title>libcublas13-cuda-13_13.8.2.12-1_amd64.deb (2026-10-25 10:41)</title>
+    <updated>2026-10-25T10:41:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -37504,6 +37532,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/dcgmi_4.7.1-2_amd64.deb</id>
+    <title>dcgmi_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/dcgmi_4.7.0-2_amd64.deb</id>
     <title>dcgmi_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -37651,6 +37686,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-python3_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-python3_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-python3_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-python3_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -37661,6 +37703,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-python3_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-python3_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-proprietary_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-proprietary_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -37805,6 +37854,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-proprietary-cuda13_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-proprietary-cuda13_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-proprietary-cuda13_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-proprietary-cuda13_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -37878,6 +37934,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-proprietary-cuda13_4.4.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-proprietary-cuda13_4.4.0-1_amd64.deb (2025-08-14 16:53)</title>
     <updated>2025-08-14T16:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-proprietary-cuda12_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-proprietary-cuda12_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38022,6 +38085,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-proprietary-cuda11_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-proprietary-cuda11_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-proprietary-cuda11_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-proprietary-cuda11_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38162,6 +38232,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-multinode_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-multinode_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-multinode_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-multinode_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38253,6 +38330,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-multinode-cuda13_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-multinode-cuda13_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-multinode-cuda13_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-multinode-cuda13_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38326,6 +38410,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-multinode-cuda13_4.4.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-multinode-cuda13_4.4.0-1_amd64.deb (2025-08-14 16:53)</title>
     <updated>2025-08-14T16:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-multinode-cuda12_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-multinode-cuda12_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38421,6 +38512,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-sysmon_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-module-sysmon_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-sysmon_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-module-sysmon_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38431,6 +38529,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-sysmon_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-module-sysmon_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-policy_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-module-policy_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38449,6 +38554,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-nvswitch_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-module-nvswitch_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-nvswitch_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-module-nvswitch_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38459,6 +38571,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-nvswitch_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-module-nvswitch_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-introspect_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-module-introspect_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38477,6 +38596,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-health_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-module-health_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-health_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-module-health_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38487,6 +38613,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-health_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-module-health_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-diag_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-module-diag_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38505,6 +38638,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-config_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-module-config_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-config_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-module-config_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38515,6 +38655,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-module-config_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-module-config_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-dev_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-dev_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38659,6 +38806,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-dcgmproftesterkernels_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-dcgmproftesterkernels_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-dcgmproftesterkernels_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-dcgmproftesterkernels_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38669,6 +38823,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-dcgmproftesterkernels_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-dcgmproftesterkernels_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda-all_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda-all_4.7.1-2_amd64.deb (2026-10-23 16:51)</title>
+    <updated>2026-10-23T16:51:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38813,6 +38974,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda13_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda13_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38890,6 +39058,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-ubergemm2_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda13-ubergemm2_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-ubergemm2_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda13-ubergemm2_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38900,6 +39075,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-ubergemm2_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda13-ubergemm2_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-nccl_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda13-nccl_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38918,6 +39100,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-cusparselt_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda13-cusparselt_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-cusparselt_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda13-cusparselt_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38928,6 +39117,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-cusparselt_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda13-cusparselt_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-curand_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda13-curand_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -38946,6 +39142,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-cublas_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda13-cublas_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-cublas_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda13-cublas_4.7.0-2_amd64.deb (2026-10-07 17:01)</title>
     <updated>2026-10-07T17:01:00+00:00</updated>
@@ -38956,6 +39159,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda13-cublas_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda13-cublas_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda12_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -39100,6 +39310,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-ubergemm2_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda12-ubergemm2_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-ubergemm2_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda12-ubergemm2_4.7.0-2_amd64.deb (2026-10-07 17:00)</title>
     <updated>2026-10-07T17:00:00+00:00</updated>
@@ -39110,6 +39327,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-ubergemm2_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda12-ubergemm2_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-nccl_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda12-nccl_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
+    <updated>2026-10-23T16:52:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -39128,6 +39352,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-cusparselt_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda12-cusparselt_4.7.1-2_amd64.deb (2026-10-23 16:51)</title>
+    <updated>2026-10-23T16:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-cusparselt_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda12-cusparselt_4.7.0-2_amd64.deb (2026-10-07 17:00)</title>
     <updated>2026-10-07T17:00:00+00:00</updated>
@@ -39138,6 +39369,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-cusparselt_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda12-cusparselt_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-curand_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda12-curand_4.7.1-2_amd64.deb (2026-10-23 16:51)</title>
+    <updated>2026-10-23T16:51:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -39156,6 +39394,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-cublas_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda12-cublas_4.7.1-2_amd64.deb (2026-10-23 16:51)</title>
+    <updated>2026-10-23T16:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-cublas_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda12-cublas_4.7.0-2_amd64.deb (2026-10-07 17:00)</title>
     <updated>2026-10-07T17:00:00+00:00</updated>
@@ -39166,6 +39411,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda12-cublas_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda12-cublas_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda11_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda11_4.7.1-2_amd64.deb (2026-10-23 16:51)</title>
+    <updated>2026-10-23T16:51:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -39310,6 +39562,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda11-cublas_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-cuda11-cublas_4.7.1-2_amd64.deb (2026-10-23 16:51)</title>
+    <updated>2026-10-23T16:51:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda11-cublas_4.7.0-2_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda11-cublas_4.7.0-2_amd64.deb (2026-10-07 17:00)</title>
     <updated>2026-10-07T17:00:00+00:00</updated>
@@ -39320,6 +39579,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-cuda11-cublas_4.7.0-1_amd64.deb</id>
     <title>datacenter-gpu-manager-4-cuda11-cublas_4.7.0-1_amd64.deb (2026-09-10 00:57)</title>
     <updated>2026-09-10T00:57:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/datacenter-gpu-manager-4-core_4.7.1-2_amd64.deb</id>
+    <title>datacenter-gpu-manager-4-core_4.7.1-2_amd64.deb (2026-10-23 16:51)</title>
+    <updated>2026-10-23T16:51:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -51959,6 +52225,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cublas_13.8.2-1_amd64.deb</id>
+    <title>cublas_13.8.2-1_amd64.deb (2026-10-25 10:42)</title>
+    <updated>2026-10-25T10:42:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cublas_13.8.1-1_amd64.deb</id>
     <title>cublas_13.8.1-1_amd64.deb (2026-09-26 23:05)</title>
     <updated>2026-09-26T23:05:00+00:00</updated>
@@ -52018,6 +52291,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cublas_12.8.5-1_amd64.deb</id>
     <title>cublas_12.8.5-1_amd64.deb (2026-03-16 20:14)</title>
     <updated>2026-03-16T20:14:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cublas-cuda-13_13.8.2.12-1_amd64.deb</id>
+    <title>cublas-cuda-13_13.8.2.12-1_amd64.deb (2026-10-25 10:41)</title>
+    <updated>2026-10-25T10:41:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
@@ -52396,6 +52676,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cublasmp0_0.3.1-1_amd64.deb</id>
     <title>cublasmp0_0.3.1-1_amd64.deb (2024-12-01 08:31)</title>
     <updated>2024-12-01T08:31:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cublas13_13.8.2-1_amd64.deb</id>
+    <title>cublas13_13.8.2-1_amd64.deb (2026-10-25 10:43)</title>
+    <updated>2026-10-25T10:43:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
