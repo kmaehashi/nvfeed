@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-10-26T17:37:08+00:00</updated>
+  <updated>2026-10-26T19:47:09+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_615.71.10-1ubuntu1_amd64.deb</id>
@@ -29461,6 +29461,20 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libholoscan-camera-dev-cuda-13_1.0.0.1.0-1_amd64.deb</id>
+    <title>libholoscan-camera-dev-cuda-13_1.0.0.1.0-1_amd64.deb (2026-10-24 12:47)</title>
+    <updated>2026-10-24T12:47:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libholoscan-camera-cuda-13_1.0.0.1.0-1_amd64.deb</id>
+    <title>libholoscan-camera-cuda-13_1.0.0.1.0-1_amd64.deb (2026-10-24 12:47)</title>
+    <updated>2026-10-24T12:47:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libdcgm_4.7.1-2_amd64.deb</id>
     <title>libdcgm_4.7.1-2_amd64.deb (2026-10-23 16:52)</title>
     <updated>2026-10-23T16:52:00+00:00</updated>
@@ -36671,6 +36685,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan_5.0.1-1_amd64.deb</id>
+    <title>holoscan_5.0.1-1_amd64.deb (2026-10-24 12:50)</title>
+    <updated>2026-10-24T12:50:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan_5.0.0-1_amd64.deb</id>
     <title>holoscan_5.0.0-1_amd64.deb (2026-10-17 12:12)</title>
     <updated>2026-10-17T12:12:00+00:00</updated>
@@ -37024,6 +37045,20 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-core-cuda-13_5.0.0.8.0-1_amd64.deb</id>
     <title>holoscan-core-cuda-13_5.0.0.8.0-1_amd64.deb (2026-10-17 12:12)</title>
     <updated>2026-10-17T12:12:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-camera_1.0.0.1.0-1_amd64.deb</id>
+    <title>holoscan-camera_1.0.0.1.0-1_amd64.deb (2026-10-24 12:47)</title>
+    <updated>2026-10-24T12:47:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/holoscan-camera-cuda-13_1.0.0.1.0-1_amd64.deb</id>
+    <title>holoscan-camera-cuda-13_1.0.0.1.0-1_amd64.deb (2026-10-24 12:47)</title>
+    <updated>2026-10-24T12:47:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
