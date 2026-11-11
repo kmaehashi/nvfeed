@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-11-11T01:45:31+00:00</updated>
+  <updated>2026-11-11T05:23:54+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_620.70.06-1ubuntu1_amd64.deb</id>
@@ -29636,6 +29636,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl-dev_2.32.6-1+cuda12.9_amd64.deb</id>
+    <title>libnccl-dev_2.32.6-1+cuda12.9_amd64.deb (2026-11-03 17:05)</title>
+    <updated>2026-11-03T17:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl-dev_2.32.3-1+cuda13.4_amd64.deb</id>
     <title>libnccl-dev_2.32.3-1+cuda13.4_amd64.deb (2026-09-20 23:37)</title>
     <updated>2026-09-20T23:37:00+00:00</updated>
@@ -29877,6 +29884,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl2_2.32.6-1+cuda13.5_amd64.deb</id>
     <title>libnccl2_2.32.6-1+cuda13.5_amd64.deb (2026-11-03 17:06)</title>
     <updated>2026-11-03T17:06:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libnccl2_2.32.6-1+cuda12.9_amd64.deb</id>
+    <title>libnccl2_2.32.6-1+cuda12.9_amd64.deb (2026-11-03 17:05)</title>
+    <updated>2026-11-03T17:05:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
