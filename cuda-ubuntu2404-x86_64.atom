@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/</id>
   <title>NVIDIA CUDA Packages for Ubuntu 24.04 (x86_64)</title>
-  <updated>2026-11-16T21:49:32+00:00</updated>
+  <updated>2026-11-17T05:34:06+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/xserver-xorg-video-nvidia_620.70.06-1ubuntu1_amd64.deb</id>
@@ -30231,6 +30231,48 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libgdrapi2-static-cuda-13_2.7-1_amd64.deb</id>
+    <title>libgdrapi2-static-cuda-13_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libgdrapi2-static-cuda-12_2.7-1_amd64.deb</id>
+    <title>libgdrapi2-static-cuda-12_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libgdrapi2-dev-cuda-13_2.7-1_amd64.deb</id>
+    <title>libgdrapi2-dev-cuda-13_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libgdrapi2-dev-cuda-12_2.7-1_amd64.deb</id>
+    <title>libgdrapi2-dev-cuda-12_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libgdrapi2-cuda-13_2.7-1_amd64.deb</id>
+    <title>libgdrapi2-cuda-13_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libgdrapi2-cuda-12_2.7-1_amd64.deb</id>
+    <title>libgdrapi2-cuda-12_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/libdcgm_4.8.0-1_amd64.deb</id>
     <title>libdcgm_4.8.0-1_amd64.deb (2026-11-07 02:03)</title>
     <updated>2026-11-07T02:03:00+00:00</updated>
@@ -38438,6 +38480,104 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gds-tools-12-5_1.10.1.7-1_amd64.deb</id>
     <title>gds-tools-12-5_1.10.1.7-1_amd64.deb (2024-06-25 21:29)</title>
     <updated>2024-06-25T21:29:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrdrv-dkms_2.7-1_amd64.deb</id>
+    <title>gdrdrv-dkms_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy_2.7.0-1_amd64.deb</id>
+    <title>gdrcopy_2.7.0-1_amd64.deb (2026-11-05 00:11)</title>
+    <updated>2026-11-05T00:11:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-tests-13_2.7-1_amd64.deb</id>
+    <title>gdrcopy-tests-13_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-tests-13-4_2.7-1_amd64.deb</id>
+    <title>gdrcopy-tests-13-4_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-tests-13-3_2.7-1_amd64.deb</id>
+    <title>gdrcopy-tests-13-3_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-tests-13-0_2.7-1_amd64.deb</id>
+    <title>gdrcopy-tests-13-0_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-tests-12_2.7-1_amd64.deb</id>
+    <title>gdrcopy-tests-12_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-tests-12-9_2.7-1_amd64.deb</id>
+    <title>gdrcopy-tests-12-9_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-tests-12-2_2.7-1_amd64.deb</id>
+    <title>gdrcopy-tests-12-2_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-cuda-13_2.7.0-1_amd64.deb</id>
+    <title>gdrcopy-cuda-13_2.7.0-1_amd64.deb (2026-11-05 00:11)</title>
+    <updated>2026-11-05T00:11:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy-cuda-12_2.7.0-1_amd64.deb</id>
+    <title>gdrcopy-cuda-12_2.7.0-1_amd64.deb (2026-11-05 00:11)</title>
+    <updated>2026-11-05T00:11:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrcopy2_2.7.0-1_amd64.deb</id>
+    <title>gdrcopy2_2.7.0-1_amd64.deb (2026-11-05 00:11)</title>
+    <updated>2026-11-05T00:11:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrapi-cuda-13_2.7-1_amd64.deb</id>
+    <title>gdrapi-cuda-13_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/gdrapi-cuda-12_2.7-1_amd64.deb</id>
+    <title>gdrapi-cuda-12_2.7-1_amd64.deb (2026-11-05 00:10)</title>
+    <updated>2026-11-05T00:10:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/"/>
   </entry>
