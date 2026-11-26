@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/</id>
   <title>NVIDIA CUDA Packages for RHEL 10 (x86_64)</title>
-  <updated>2026-11-24T05:11:43+00:00</updated>
+  <updated>2026-11-26T05:23:31+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/tensorrt-libs-11.5.0.63-1.cuda13.5.x86_64.rpm</id>
@@ -313,6 +313,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nv-hostengine-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>nv-hostengine-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nv-hostengine-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>nv-hostengine-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:10)</title>
     <updated>2026-11-07T02:10:00+00:00</updated>
@@ -337,6 +344,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nv-hostengine-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>nv-hostengine-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:05)</title>
     <updated>2026-09-10T01:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nv-hostengine-4.8.0-2.x86_64.rpm</id>
+    <title>nv-hostengine-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -9882,6 +9896,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libdcgm-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>libdcgm-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libdcgm-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>libdcgm-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:10)</title>
     <updated>2026-11-07T02:10:00+00:00</updated>
@@ -9906,6 +9927,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libdcgm-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>libdcgm-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:05)</title>
     <updated>2026-09-10T01:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/libdcgm-4.8.0-2.x86_64.rpm</id>
+    <title>libdcgm-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -15916,6 +15944,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/dcgmi-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>dcgmi-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/dcgmi-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>dcgmi-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -15940,6 +15975,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/dcgmi-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>dcgmi-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:05)</title>
     <updated>2026-09-10T01:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/dcgmi-4.8.0-2.x86_64.rpm</id>
+    <title>dcgmi-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -15972,6 +16014,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-python3-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-python3-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-python3-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-python3-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -15996,6 +16045,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-python3-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-python3-4.7.0-1.x86_64.rpm (2026-09-10 01:05)</title>
     <updated>2026-09-10T01:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-proprietary-cuda13-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-proprietary-cuda13-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -16091,6 +16147,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-proprietary-cuda12-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-proprietary-cuda12-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-proprietary-cuda12-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-proprietary-cuda12-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -16178,6 +16241,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-proprietary-cuda12-4.4.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-proprietary-cuda12-4.4.0-1.x86_64.rpm (2025-08-14 16:54)</title>
     <updated>2025-08-14T16:54:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-proprietary-cuda11-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-proprietary-cuda11-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -16273,6 +16343,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-proprietary-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-proprietary-4.8.0-2.x86_64.rpm (2026-11-25 22:03)</title>
+    <updated>2026-11-25T22:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-proprietary-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-proprietary-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -16360,6 +16437,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-proprietary-4.4.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-proprietary-4.4.0-1.x86_64.rpm (2025-08-14 16:54)</title>
     <updated>2025-08-14T16:54:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-multinode-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-multinode-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -16455,6 +16539,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-multinode-cuda13-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-multinode-cuda13-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-multinode-cuda13-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-multinode-cuda13-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -16542,6 +16633,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-multinode-cuda13-4.4.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-multinode-cuda13-4.4.0-1.x86_64.rpm (2025-08-14 16:54)</title>
     <updated>2025-08-14T16:54:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-multinode-cuda12-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-multinode-cuda12-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -16637,6 +16735,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-multinode-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-multinode-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-multinode-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-multinode-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -16728,6 +16833,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-sysmon-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-sysmon-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-sysmon-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-sysmon-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -16752,6 +16864,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-sysmon-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-sysmon-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:05)</title>
     <updated>2026-09-10T01:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-sysmon-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-sysmon-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -16784,6 +16903,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-policy-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-policy-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-policy-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-policy-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -16808,6 +16934,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-policy-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-policy-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:05)</title>
     <updated>2026-09-10T01:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-policy-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-policy-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -16840,6 +16973,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-nvswitch-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-nvswitch-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-nvswitch-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-nvswitch-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -16864,6 +17004,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-nvswitch-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-nvswitch-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:05)</title>
     <updated>2026-09-10T01:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-nvswitch-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-nvswitch-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -16896,6 +17043,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-introspect-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-introspect-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-introspect-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-introspect-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -16920,6 +17074,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-introspect-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-introspect-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:05)</title>
     <updated>2026-09-10T01:05:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-introspect-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-introspect-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -16952,6 +17113,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-health-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-health-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-health-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-health-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:08)</title>
     <updated>2026-11-07T02:08:00+00:00</updated>
@@ -16976,6 +17144,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-health-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-health-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:04)</title>
     <updated>2026-09-10T01:04:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-health-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-health-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17008,6 +17183,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-diag-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-diag-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-diag-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-diag-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:09)</title>
     <updated>2026-11-07T02:09:00+00:00</updated>
@@ -17032,6 +17214,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-diag-debuginfo-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-diag-debuginfo-4.7.0-1.x86_64.rpm (2026-09-10 01:04)</title>
     <updated>2026-09-10T01:04:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-diag-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-diag-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17064,6 +17253,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-config-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-config-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-config-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-config-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:08)</title>
     <updated>2026-11-07T02:08:00+00:00</updated>
@@ -17092,6 +17288,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-config-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-module-config-4.8.0-2.x86_64.rpm (2026-11-25 22:02)</title>
+    <updated>2026-11-25T22:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-config-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-config-4.8.0-1.x86_64.rpm (2026-11-07 02:08)</title>
     <updated>2026-11-07T02:08:00+00:00</updated>
@@ -17116,6 +17319,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-module-config-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-module-config-4.7.0-1.x86_64.rpm (2026-09-10 01:04)</title>
     <updated>2026-09-10T01:04:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-devel-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-devel-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17211,6 +17421,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-devel-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-devel-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-devel-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-devel-4.8.0-1.x86_64.rpm (2026-11-07 02:08)</title>
     <updated>2026-11-07T02:08:00+00:00</updated>
@@ -17302,6 +17519,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-dcgmproftesterkernels-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-dcgmproftesterkernels-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-dcgmproftesterkernels-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-dcgmproftesterkernels-4.8.0-1.x86_64.rpm (2026-11-07 02:08)</title>
     <updated>2026-11-07T02:08:00+00:00</updated>
@@ -17326,6 +17550,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-dcgmproftesterkernels-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-dcgmproftesterkernels-4.7.0-1.x86_64.rpm (2026-09-10 01:04)</title>
     <updated>2026-09-10T01:04:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda-all-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda-all-4.8.0-2.x86_64.rpm (2026-11-25 21:57)</title>
+    <updated>2026-11-25T21:57:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17421,6 +17652,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-ubergemm2-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda13-ubergemm2-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-ubergemm2-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda13-ubergemm2-4.8.0-1.x86_64.rpm (2026-11-07 02:08)</title>
     <updated>2026-11-07T02:08:00+00:00</updated>
@@ -17449,6 +17687,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-nccl-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda13-nccl-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-nccl-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda13-nccl-4.8.0-1.x86_64.rpm (2026-11-07 02:08)</title>
     <updated>2026-11-07T02:08:00+00:00</updated>
@@ -17473,6 +17718,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-nccl-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda13-nccl-4.7.0-1.x86_64.rpm (2026-09-10 01:04)</title>
     <updated>2026-09-10T01:04:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda13-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17568,6 +17820,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-cusparselt-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda13-cusparselt-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-cusparselt-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda13-cusparselt-4.8.0-1.x86_64.rpm (2026-11-07 02:07)</title>
     <updated>2026-11-07T02:07:00+00:00</updated>
@@ -17592,6 +17851,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-cusparselt-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda13-cusparselt-4.7.0-1.x86_64.rpm (2026-09-10 01:03)</title>
     <updated>2026-09-10T01:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-curand-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda13-curand-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17624,6 +17890,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-cublas-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda13-cublas-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-cublas-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda13-cublas-4.8.0-1.x86_64.rpm (2026-11-07 02:07)</title>
     <updated>2026-11-07T02:07:00+00:00</updated>
@@ -17648,6 +17921,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-cublas-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda13-cublas-4.7.0-1.x86_64.rpm (2026-09-10 01:04)</title>
     <updated>2026-09-10T01:04:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda13-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda13-4.8.0-2.x86_64.rpm (2026-11-25 22:01)</title>
+    <updated>2026-11-25T22:01:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17743,6 +18023,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-ubergemm2-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda12-ubergemm2-4.8.0-2.x86_64.rpm (2026-11-25 22:00)</title>
+    <updated>2026-11-25T22:00:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-ubergemm2-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda12-ubergemm2-4.8.0-1.x86_64.rpm (2026-11-07 02:06)</title>
     <updated>2026-11-07T02:06:00+00:00</updated>
@@ -17771,6 +18058,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-nccl-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda12-nccl-4.8.0-2.x86_64.rpm (2026-11-25 21:59)</title>
+    <updated>2026-11-25T21:59:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-nccl-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda12-nccl-4.8.0-1.x86_64.rpm (2026-11-07 02:06)</title>
     <updated>2026-11-07T02:06:00+00:00</updated>
@@ -17795,6 +18089,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-nccl-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda12-nccl-4.7.0-1.x86_64.rpm (2026-09-10 01:03)</title>
     <updated>2026-09-10T01:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda12-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 22:00)</title>
+    <updated>2026-11-25T22:00:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17890,6 +18191,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-cusparselt-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda12-cusparselt-4.8.0-2.x86_64.rpm (2026-11-25 21:59)</title>
+    <updated>2026-11-25T21:59:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-cusparselt-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda12-cusparselt-4.8.0-1.x86_64.rpm (2026-11-07 02:06)</title>
     <updated>2026-11-07T02:06:00+00:00</updated>
@@ -17914,6 +18222,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-cusparselt-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda12-cusparselt-4.7.0-1.x86_64.rpm (2026-09-10 01:03)</title>
     <updated>2026-09-10T01:03:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-curand-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda12-curand-4.8.0-2.x86_64.rpm (2026-11-25 21:57)</title>
+    <updated>2026-11-25T21:57:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -17946,6 +18261,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-cublas-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda12-cublas-4.8.0-2.x86_64.rpm (2026-11-25 21:58)</title>
+    <updated>2026-11-25T21:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-cublas-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda12-cublas-4.8.0-1.x86_64.rpm (2026-11-07 02:04)</title>
     <updated>2026-11-07T02:04:00+00:00</updated>
@@ -17970,6 +18292,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-cublas-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda12-cublas-4.7.0-1.x86_64.rpm (2026-09-10 01:02)</title>
     <updated>2026-09-10T01:02:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda12-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda12-4.8.0-2.x86_64.rpm (2026-11-25 21:57)</title>
+    <updated>2026-11-25T21:57:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -18065,6 +18394,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda11-debuginfo-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda11-debuginfo-4.8.0-2.x86_64.rpm (2026-11-25 21:58)</title>
+    <updated>2026-11-25T21:58:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda11-debuginfo-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda11-debuginfo-4.8.0-1.x86_64.rpm (2026-11-07 02:04)</title>
     <updated>2026-11-07T02:04:00+00:00</updated>
@@ -18156,6 +18492,13 @@
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
   <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda11-cublas-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda11-cublas-4.8.0-2.x86_64.rpm (2026-11-25 21:56)</title>
+    <updated>2026-11-25T21:56:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda11-cublas-4.8.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda11-cublas-4.8.0-1.x86_64.rpm (2026-11-07 02:04)</title>
     <updated>2026-11-07T02:04:00+00:00</updated>
@@ -18180,6 +18523,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda11-cublas-4.7.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-cuda11-cublas-4.7.0-1.x86_64.rpm (2026-09-10 01:01)</title>
     <updated>2026-09-10T01:01:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-cuda11-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-cuda11-4.8.0-2.x86_64.rpm (2026-11-25 21:56)</title>
+    <updated>2026-11-25T21:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
@@ -18334,6 +18684,13 @@
     <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-core-debuginfo-4.4.0-1.x86_64.rpm</id>
     <title>datacenter-gpu-manager-4-core-debuginfo-4.4.0-1.x86_64.rpm (2025-08-14 16:53)</title>
     <updated>2025-08-14T16:53:00+00:00</updated>
+    <content/>
+    <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
+  </entry>
+  <entry>
+    <id>https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/datacenter-gpu-manager-4-core-4.8.0-2.x86_64.rpm</id>
+    <title>datacenter-gpu-manager-4-core-4.8.0-2.x86_64.rpm (2026-11-25 21:56)</title>
+    <updated>2026-11-25T21:56:00+00:00</updated>
     <content/>
     <link href="https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/"/>
   </entry>
